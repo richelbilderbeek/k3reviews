@@ -1,10 +1,10 @@
 # Heyah Mama
 
  * Category: love
- * Mark's rating: ?/10
- * Mark's  favorite lyric: '?'
  * Richel's rating: 9/10
  * Richel's favorite lyric: 'Ik wil jou, jij wil mij'
+ * Mark's rating: 8/10
+ * Mark's favorite lyric: 'Hittegolf in mijn hart. Laat mij vanavond naar je kamer komen'
 
 ```
 [CHORUS]
@@ -72,7 +72,9 @@ Lieve mooie dromen
 
 ## Mark's review
 
-None yet.
+Ik heb gemerkt dat veel mensen bij het horen van "Heyah Mama" aan seks denken. Dat vind ik raar. Toen ik dit lied voor het eerst hoorde, dacht ik daar helemaal niet aan. Ik dacht (en denk nog steeds) dat dit lied gewoon gaat over twee personen die van elkaar houden en dat de bezongen handelingen kussen en strelen zijn. Toen ik voor het eerst de YouTube-reacties onder de videoclip van "Heyah Mama" las, dacht ik: "... Waar hebben zij het over?".
+
+Ik vind dit lied erg leuk klinken. Ik hou meer van gezongen teksten met betekenis in plaats van het roepen van fantasiewoordjes, maar dat stoort mij niet heel erg. Dit lied klinkt vrolijk en er wordt naar mijn mening ook erg mooi in gezongen. Ik twijfelde een beetje tussen een 8 en een 9. Het cijfer is afhankelijk van mijn stemming. Op sommige momenten neigt het cijfer meer naar een 8, op andere meer naar een 9. Ik vind het wel veilig om dit nummer een 8/10 te geven. Minder dan dat wordt het niet.
 
 ## Richel's review
 
