@@ -1,8 +1,8 @@
 # Billy Billy
 
  * Category: love
- * Mark's rating: ?/10
- * Mark's favorite lyric: '?'
+ * Mark's rating: 5,6/10
+ * Mark's favorite lyric: 'Nu zijn wij één week samen'
  * Richel's rating: 8/10
  * Richel's favorite lyric: 'Ik breng je liefde op een dienblad'
 
@@ -52,7 +52,9 @@ Billy Billy Billy
 
 ## Mark's review
 
-Hiero kun je je tekst plaatsen :-)
+Dit lied van K3 gaat over een jongen waar zij op verliefd zijn, Billy. De eerste keer dat ik dit lied hoorde, vond ik het niet amusant. Ik klikte het geluidsbestand weer weg. Daarna echter, ben ik dit lied wel heel erg leuk gaan vinden. Ik heb het MP3-bestand van dit lied in de MP3-map van het computerspel Grand Theft Auto Vice City geplaatst zodat ik nu tijdens het spelen van Grand Theft Auto Vice City in de auto dit liedje soms hoor als ik hem op MP3 zet. Dat vind ik echt een goed lied.
+
+De beoordeling was een grap. Ik geef het eigenlijk een 8/10.
 
 ## Richel's review
 
