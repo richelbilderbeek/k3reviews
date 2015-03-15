@@ -6,8 +6,8 @@
  * Richel's rating: 4/10
  * Richel's favorite lyric: none
 
-Lyrics
-﻿Plots ben ik verliefd. M'n hart er vandoor.
+```
+Plots ben ik verliefd. M'n hart er vandoor.
 Ik zie je staan. En ben gewoon smoor
 Een duiveltje fluistert iets in m'n oor
  
@@ -15,7 +15,7 @@ Ik voel me zo klein. Misschien wacht ik best op valentijn.
 't Is gek want ik ken je niet .
 Misschien vind je 't gewaagd. Maar ik heb maar één vraag
  
-CHORUS :
+[CHORUS]
 Excuseer me. Heb je even tijd?
 Toe help me ,help me S.O.S.
 Excuseer me. Heb je even tijd?
@@ -28,19 +28,18 @@ Jij bent een gedicht. En ik word geraakt, een bliksemschicht
 Toe zeg me dat jij ook af en toe eens zwicht
 Voor trouble op het eerste gezicht
  
-CHORUS
+[CHORUS]
  
 Neem me niet kwalijk.
 Dat ik je aankeek 
 Dat ik je aanspreek
 Maar ik wil het weten vandaag
  
-CHORUS
+[CHORUS]
  
 Help me, help me S.O.S.
 Toe help me, help me S.O.S.
-
-
+```
 
 ## Mark's review
 
