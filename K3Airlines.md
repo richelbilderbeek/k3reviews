@@ -1,8 +1,8 @@
 # K3 Airlines
 
  * Category: other
- * Rating: 8/10
- * Favorite lyric: 'en je mag ons met een zoen betalen'
+ * Richel's rating: 8/10
+ * Richel's  favorite lyric: 'en je mag ons met een zoen betalen'
 
 ```
 Kom aan boord, kom aan boord
@@ -61,6 +61,8 @@ ik laat alle kleurtjes samen zingen
 
 [CHORUS]
 ```
+
+## Richel's review
 
 This song is about a fictional airline company that takes people around the globe, for the price of a kiss.
 
