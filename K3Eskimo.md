@@ -12,7 +12,7 @@ Brrrrrrr
 In de ochtend het is koud en jij bent je pantoffels kwijt
 je kijkt uit het vensterraam en ziet een magisch sneeuwtapijt
 
-Jij stond met het foute been op, voelde je maar zus en zoo
+Jij stond met het foute been op, voelde je maar zus en zo
 plots straal je weer als de zon, mijn lieve kleine eskimo
 
 Je rent naar buiten en je schreeuwt
@@ -24,7 +24,7 @@ Ringe ding ding bellen rinkelen sterren aan de hemel twinkelen
 Jij hebt me gewoon betoverd
 lieve kleine eskimo
 Ringe ding ding bellen rinkelen sterren aan de hemel twinkelen
-En je hebt mijn hard veroverd
+En je hebt mijn hart veroverd
 Lieve kleine eskimo
 
 Tis koud zo koud, zo koud zo koud zo koud
@@ -43,14 +43,14 @@ Ringe ding ding bellen rinkelen sterren aan de hemel twinkelen
 Jij hebt me gewoon betoverd
 lieve kleine eskimo
 Ringe ding ding bellen rinkelen sterren aan de hemel twinkelen
-En je hebt mijn hard veroverd
+En je hebt mijn hart veroverd
 Lieve kleine eskimo
 
 Tis koud zo koud, zo koud zo koud zo koud
 Tis koud zo koud, zo koud zo koud zo koud
 Brrrrrrr
 
-Lekker knusjes ingepakt nee niks raakt op ontroert me zoo
+Lekker knusjes ingepakt, nee niks raakt op ontroert me zoo
 Als mijn lief klein vriendje als mijn lieve kleine eskimo
 
 Je rent naar buiten en je schreeuwt
@@ -62,13 +62,13 @@ Ringe ding ding bellen rinkelen sterren aan de hemel twinkelen
 Jij hebt me gewoon betoverd
 lieve kleine eskimo
 Ringe ding ding bellen rinkelen sterren aan de hemel twinkelen
-En je hebt mijn hard veroverd
+En je hebt mijn hart veroverd
 Lieve kleine eskimo
 Ringe ding ding bellen rinkelen sterren aan de hemel twinkelen
 Jij hebt me gewoon betoverd
 lieve kleine eskimo
 Ringe ding ding bellen rinkelen sterren aan de hemel twinkelen
-En je hebt mijn hard veroverd
+En je hebt mijn hart veroverd
 Lieve kleine eskimo
 
 Tis koud zo koud, zo koud zo koud zo koud
