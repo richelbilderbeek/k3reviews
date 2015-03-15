@@ -8,6 +8,7 @@ Most songs can be categorized in three main subjects:
  * love
  * ethics 
  * partying
+
 In all three categories I have favorites but also songs I
 immediatly delete from my playlist.
 
