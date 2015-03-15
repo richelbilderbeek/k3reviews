@@ -1,8 +1,10 @@
 # Drums Gaan Boem
 
  * Category: party
- * Rating: 3/10
- * Favorite lyric: 'Elke jongen kiest een leuke meid'
+ * Mark's rating: ?/10
+ * Mark's  favorite lyric: '?'
+ * Richel's rating: 3/10
+ * Richel's favorite lyric: 'Elke jongen kiest een leuke meid'
 
 ```
 Ja, ja, jajaja [1]

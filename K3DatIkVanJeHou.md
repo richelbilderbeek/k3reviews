@@ -1,8 +1,10 @@
 # Dat Ik Van Je Hou
 
  * Category: love
- * Rating: 4/10
- * Favorite lyric: 'en ik vlei me lekker tegen jou aan'
+ * Mark's rating: ?/10
+ * Mark's  favorite lyric: '?'
+ * Richel's rating: 4/10
+ * Richel's favorite lyric: 'en ik vlei me lekker tegen jou aan'
 
 ```
 Doe de lichten uit zet de muziek aan

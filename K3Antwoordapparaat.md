@@ -1,8 +1,10 @@
 # Antwoordapparaat
 
  * Category: love
- * Rating: 8/10
- * Favorite lyric: 'jij en ik, wij waren altijd een klasse apart'
+ * Mark's rating: ?/10
+ * Mark's  favorite lyric: '?'
+ * Richel's rating: 8/10
+ * Richel's favorite lyric: 'jij en ik, wij waren altijd een klasse apart'
 
  ```
 Hee, hallo, weet je, ik mis je zo

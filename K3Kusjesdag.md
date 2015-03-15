@@ -1,8 +1,10 @@
 # Kusjesdag
 
  * Category: love
- * Rating: 8/10
- * Favorite lyric: 'Alles kan en alles mag'
+ * Mark's rating: ?/10
+ * Mark's  favorite lyric: '?'
+ * Richel's rating: 8/10
+ * Richel's favorite lyric: 'Alles kan en alles mag'
 
 ```
 [CHORUS]

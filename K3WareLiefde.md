@@ -1,8 +1,10 @@
 # Ware Liefde
 
  * Category: love
- * Rating: 8/10
- * Favorite lyric: 'Want ik wil elk moment'
+ * Mark's rating: ?/10
+ * Mark's  favorite lyric: '?'
+ * Richel's rating: 8/10
+ * Richel's favorite lyric: 'Want ik wil elk moment'
 
 
 ```

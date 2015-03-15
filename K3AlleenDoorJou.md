@@ -1,8 +1,10 @@
 # Alleen Door Jou
 
  * Category: love, ethics
- * Rating: 9/10
- * Favorite lyric: 'leeft soms in een luchtbel van plezier'
+ * Mark's rating: ?/10
+ * Mark's  favorite lyric: '?'
+ * Richel's rating: 9/10
+ * Richel's favorite lyric: 'leeft soms in een luchtbel van plezier'
 
 ```
 Jij verblijdt mijn dagen met je warme gulle lach

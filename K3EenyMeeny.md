@@ -1,8 +1,10 @@
 # Eeny Meeny
 
  * Category: love
- * Rating: 4/10
- * Favorite lyric: 'Ik hou van Bert, maar ik houd ook van Jan'
+ * Mark's rating: ?/10
+ * Mark's  favorite lyric: '?'
+ * Richel's rating: 4/10
+ * Richel's favorite lyric: 'Ik hou van Bert, maar ik houd ook van Jan'
 
 ## Mark's review
 

@@ -1,8 +1,10 @@
 # De Revolutie
 
  * Category: ethics
- * Rating: 8/10
- * Favorite lyric: 'Vanavond nemen we de stad in, morgen het land, overmorgen de wereld'
+ * Mark's rating: ?/10
+ * Mark's  favorite lyric: '?'
+ * Richel's rating: 8/10
+ * Richel's favorite lyric: 'Vanavond nemen we de stad in, morgen het land, overmorgen de wereld'
 
 ```
 Iedereen klaar? Wij gaan springen!

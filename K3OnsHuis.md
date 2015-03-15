@@ -1,8 +1,10 @@
 # Ons Huis
 
  * Category: party
- * Rating: 5/10
- * Favorite lyric: none
+ * Mark's rating: ?/10
+ * Mark's  favorite lyric: '?'
+ * Richel's rating: 5/10
+ * Richel's favorite lyric: none
 
 ```
 Waar heb je altijd veel pret, veel plezier

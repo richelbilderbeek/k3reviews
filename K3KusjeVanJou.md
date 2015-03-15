@@ -1,8 +1,10 @@
 # Kusje Van Jou
 
  * Category: love
- * Rating: 7.5/10
- * Favorite lyric: 'Met een hond en kindjes erbij'
+ * Mark's rating: ?/10
+ * Mark's  favorite lyric: '?'
+ * Richel's rating: 7.5/10
+ * Richel's favorite lyric: 'Met een hond en kindjes erbij'
 
 ```
 Het wordt een zomer uit de duizend

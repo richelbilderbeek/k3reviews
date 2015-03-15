@@ -1,8 +1,10 @@
 # Hippy Shake
 
  * Category: party 
- * Rating: 7/10
- * Favorite lyric: 'Die house beat, heeft afgedaan'
+ * Mark's rating: ?/10
+ * Mark's  favorite lyric: '?'
+ * Richel's rating: 7/10
+ * Richel's favorite lyric: 'Die house beat, heeft afgedaan'
 
 ## Mark's review
 

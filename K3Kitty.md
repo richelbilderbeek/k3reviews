@@ -1,8 +1,10 @@
 # Kitty
 
  * Category: misc 
- * Rating: 7/10
- * Favorite lyric: 'lieve pantoffelheld'
+ * Mark's rating: ?/10
+ * Mark's  favorite lyric: '?'
+ * Richel's rating: 7/10
+ * Richel's favorite lyric: 'lieve pantoffelheld'
 
 ```
 Plagen is om liefde vragen

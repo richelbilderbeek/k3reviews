@@ -1,8 +1,10 @@
 # Viva Viool
 
  * Category: misc
- * Rating: 7/10
- * Favorite lyric: 'Wij gaan vannacht In fonteinen springen' (translation: 'tonight we will jump into fontains')
+ * Mark's rating: ?/10
+ * Mark's  favorite lyric: '?'
+ * Richel's rating: 7/10
+ * Richel's favorite lyric: 'Wij gaan vannacht In fonteinen springen' (translation: 'tonight we will jump into fontains')
 
 
 ```

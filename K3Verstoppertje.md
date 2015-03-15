@@ -1,8 +1,10 @@
 # Verstoppertje
 
  * Category: other
- * Rating: 6/10
- * Favorite lyric: 'zoek ik die plekjes van jou'
+ * Mark's rating: ?/10
+ * Mark's  favorite lyric: '?'
+ * Richel's rating: 6/10
+ * Richel's favorite lyric: 'zoek ik die plekjes van jou'
 
 ```
 Een, kijk uit ik kom eraan

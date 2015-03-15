@@ -1,8 +1,10 @@
 # Heyah Mama
 
  * Category: love
- * Rating: 9/10
- * Favorite lyric: 'Ik wil jou, jij wil mij'
+ * Mark's rating: ?/10
+ * Mark's  favorite lyric: '?'
+ * Richel's rating: 9/10
+ * Richel's favorite lyric: 'Ik wil jou, jij wil mij'
 
 ```
 [CHORUS]

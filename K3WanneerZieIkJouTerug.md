@@ -1,8 +1,10 @@
 # Wanneer Zie Ik Jou Terug
 
  * Category: other
- * Rating: 8/10
- * Favorite lyric: 'je wordt er vast verwend'
+ * Mark's rating: ?/10
+ * Mark's  favorite lyric: '?'
+ * Richel's rating: 8/10
+ * Richel's favorite lyric: 'je wordt er vast verwend'
 
 
 ```

@@ -1,8 +1,10 @@
 # Waar Zijn Die Engeltjes
 
  * Category: other
- * Rating: 9/10
- * Favorite lyric: 'wie helpt me uit al die winterkleren'
+ * Mark's rating: ?/10
+ * Mark's  favorite lyric: '?'
+ * Richel's rating: 9/10
+ * Richel's favorite lyric: 'wie helpt me uit al die winterkleren'
 
 
 ```

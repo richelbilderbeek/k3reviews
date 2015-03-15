@@ -1,8 +1,10 @@
 # Eya Hoya
 
  * Category: party
- * Rating: 1/10
- * Favorite lyric: none
+ * Mark's rating: ?/10
+ * Mark's  favorite lyric: '?'
+ * Richel's rating: 1/10
+ * Richel's favorite lyric: none
 
 ## Mark's review
 

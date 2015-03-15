@@ -1,8 +1,10 @@
 # Wat ik wil
 
  * Category: other
- * Rating: 6/10
- * Favorite lyric: ' '
+ * Mark's rating: ?/10
+ * Mark's  favorite lyric: '?'
+ * Richel's rating: 6/10
+ * Richel's favorite lyric: ' '
  
 ```
 Kijk ik in de spiegel

@@ -1,8 +1,10 @@
 # Zoo
 
-Category: party
-Rating: 2/10
-Favorite lyric: 'ik heb een hamster een hond en een poesje'
+ * Category: party
+ * Mark's rating: ?/10
+ * Mark's  favorite lyric: '?'
+ * Richel's rating: 2/10
+ * Richel's favorite lyric: 'ik heb een hamster een hond en een poesje'
 
 ```
 [VERSE]

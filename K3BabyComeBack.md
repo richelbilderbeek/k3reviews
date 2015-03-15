@@ -1,8 +1,10 @@
 # Baby Come Back
 
  * Category: love
- * Rating: 8/10
- * Favorite lyric: 'Ik schrijf een brief naar alle kinderen van heel Europa'
+ * Mark's rating: ?/10
+ * Mark's  favorite lyric: '?'
+ * Richel's rating: 8/10
+ * Richel's favorite lyric: 'Ik schrijf een brief naar alle kinderen van heel Europa'
 
 ## Mark's review
 

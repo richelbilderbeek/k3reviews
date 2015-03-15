@@ -1,8 +1,10 @@
 # Wat jij doet met mij
 
  * Category: love
- * Rating: 6/10
- * Favorite lyric: 'Jij en ik zijn gebouwd uit ontelbare atomen'
+ * Mark's rating: ?/10
+ * Mark's  favorite lyric: '?'
+ * Richel's rating: 6/10
+ * Richel's favorite lyric: 'Jij en ik zijn gebouwd uit ontelbare atomen'
 
 ```
 Jij en ik zijn gebouwd uit ontelbare atomen [1]

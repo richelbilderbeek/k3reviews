@@ -1,8 +1,10 @@
 # Lollypopland
 
  * Category: ethics
- * Rating: 4/10
- * Favorite lyric: 'Wie krijgt er vandaag een grote nul?'
+ * Mark's rating: ?/10
+ * Mark's  favorite lyric: '?'
+ * Richel's rating: 4/10
+ * Richel's favorite lyric: 'Wie krijgt er vandaag een grote nul?'
 
 ## Mark's review
 

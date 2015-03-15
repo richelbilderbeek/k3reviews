@@ -1,8 +1,10 @@
 # Naar De Film
 
  * Category: other
- * Rating: 7.5/10
- * Favorite lyric: ''
+ * Mark's rating: ?/10
+ * Mark's  favorite lyric: '?'
+ * Richel's rating: 7.5/10
+ * Richel's favorite lyric: ''
 
 ```
 Hee jullie twee

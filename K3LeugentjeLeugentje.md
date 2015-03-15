@@ -1,8 +1,10 @@
 # Leugentje leugentje
 
  * Category: ethics
- * Rating: 4/10
- * Favorite lyric: 'We blijven alsmaar doorgaan'
+ * Mark's rating: ?/10
+ * Mark's  favorite lyric: '?'
+ * Richel's rating: 4/10
+ * Richel's favorite lyric: 'We blijven alsmaar doorgaan'
 
 ```
 [VERSE]

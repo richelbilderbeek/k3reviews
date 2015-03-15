@@ -1,8 +1,10 @@
 # Loko Le
 
  * Category: party
- * Rating: 6/10
- * Favorite lyric: 'Je wilt het blondje met hondjes graag zijn'
+ * Mark's rating: ?/10
+ * Mark's  favorite lyric: '?'
+ * Richel's rating: 6/10
+ * Richel's favorite lyric: 'Je wilt het blondje met hondjes graag zijn'
 
 ```
 Dit wordt een dansfestijn, waar jij jezelf mag zijn

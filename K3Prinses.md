@@ -1,8 +1,10 @@
 # Prinses
 
  * Category: party
- * Rating: 7/10
- * Favorite lyric: none
+ * Mark's rating: ?/10
+ * Mark's  favorite lyric: '?'
+ * Richel's rating: 7/10
+ * Richel's favorite lyric: none
 
 ```
 Als ik prinses was

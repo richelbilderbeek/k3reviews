@@ -1,8 +1,10 @@
 # Wie zal ik een kusje geven
 
  * Category: love
- * Rating: 9/10
- * Favorite lyric: none
+ * Mark's rating: ?/10
+ * Mark's  favorite lyric: '?'
+ * Richel's rating: 9/10
+ * Richel's favorite lyric: none
 
 ```
 Een twee drie vier vijf zes zeven

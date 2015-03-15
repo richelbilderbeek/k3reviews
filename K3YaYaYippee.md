@@ -1,8 +1,10 @@
 # Ya Ya Yippee
 
-Category: party
-Rating: 9/10
-Favorite lyric: 'dan zou je denken dat de wereld voor het eerst een dag vrijaf heeft'
+ * Category: party
+ * Mark's rating: ?/10
+ * Mark's  favorite lyric: '?'
+ * Richel's rating: 9/10
+ * Richel's favorite lyric: 'dan zou je denken dat de wereld voor het eerst een dag vrijaf heeft'
 
 ```
 De spanning stijgt een top

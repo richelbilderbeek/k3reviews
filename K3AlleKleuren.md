@@ -1,8 +1,10 @@
 # Alle Kleuren
 
  * Category: ethics
- * Rating: 5/10
- * Favorite lyric: none
+ * Mark's rating: ?/10
+ * Mark's  favorite lyric: '?'
+ * Richel's rating: 5/10
+ * Richel's favorite lyric: none
 
 ```
 Van Afrika tot in Amerika.
