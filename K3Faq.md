@@ -6,7 +6,7 @@ Because English is the lingua franca spoken by academia.
 
 ## Who are you?
 
-I am an adult male working at a university as a researcher. See [my website](www.richelbilderbeek.nl) for more details.
+I am an adult male working at a university as a researcher. See [my website](http://www.richelbilderbeek.nl) for more details.
 
 ## What is your goal of these reviews?
 
