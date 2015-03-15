@@ -30,7 +30,9 @@ Judge for yourself:
 ## Who is your favorite girl?
 
 I can rank them:
-(1) Karen
-(2) Josje
-(3) Kristel
-(4) Kathleen
+ * (1) Karen
+ * (2) Josje
+ * (3) Kristel
+ * (4) Kathleen
+
+I like Karen best, because she is most tomboyish, has a bit of a whiskey voice and has the naughtiest eyes. I like Josje because of her high speed and pretty Dutch accent. Kristel has the sweetest and most sincere smile. I started to appreciate Kathleen only after reading the autobiography she wrote when she left the group.
