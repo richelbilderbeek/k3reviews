@@ -2,7 +2,7 @@
 
 ## Why are Mark's reviews in Dutch?
 
-To be answered.
+Laziness. I might as well write my reviews in English, or make an English AND a Dutch version. But, it's easier for me to do it in Dutch. Moreover, I think most fans of K3 are Dutch or Flemish. The songs of K3 are also Dutch/Flemish. If someone requests it, I will give a translation of my reviews.
 
 ## Why are Richel's reviews in English?
 
@@ -10,7 +10,7 @@ Because English is the lingua franca spoken by academia.
 
 ## Who is Mark?
 
-To be answered.
+That's me, Mark Wiering. (http://www.markwiering.nl and https://www.facebook.com/markwiering) I am almost obsessed with mathematics. My hobbies are: playing chess, bicycling, making programmes in C++, solving mathematical problems and watching cartoons. I especially like the Avatar-series and Elfen Lied. But, Elfen Lied is extremely violent (especially episode 2), so I wouldn't recommend it to anyone. I am very interested in politics, history and buddhism.
 
 ## Who is Richel?
 
@@ -20,7 +20,7 @@ I am an adult male working at a university as a researcher. See [my website](htt
 
 ### Mark
 
-To be answered.
+I don't have a goal in particular.
 
 ### Richel
 
@@ -30,7 +30,7 @@ I think it shows my thorough knowledge of the ouvre of K3 and I hope Studio 100 
 
 ### Mark
 
-To be answered.
+Yes, I do.
 
 ### Richel
 
@@ -51,7 +51,12 @@ Judge for yourself:
 
 ### Mark
 
-To be answered.
+Karen Damen without a doubt. She sings beautifully. Moreover, I like her appearance. 
+
+Since Richel gave a list, I will too.
+1. Karen Damen.
+2. Kathleen Aerts/Kristel Verbeke (can't really decide)
+3. Josje Huisman
 
 ### Richel
 I can rank them:
