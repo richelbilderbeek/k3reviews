@@ -1,14 +1,14 @@
 # Eeny Meeny
 
  * Category: love
- * Mark's rating: ?/10
- * Mark's  favorite lyric: '?'
+ * Mark's rating: 7,4/10
+ * Mark's  favorite lyric: 'Kijk daar is de zon al. Alles komt tot leven'
  * Richel's rating: 4/10
  * Richel's favorite lyric: 'Ik hou van Bert, maar ik houd ook van Jan'
 
 ## Mark's review
 
-None yet.
+Het begin van dit liedje vind ik erg leuk. Ik vind alleen het refrein van dit liedje niet leuk omdat hier verzonnen woorden worden gezongen en het gewoon niet zo leuk klinkt. Op het einde wordt het refrein helaas vaak herhaald, waardoor ik dit liedje slechts een 7,4 waard vind.
 
 ## Richel's review
 
