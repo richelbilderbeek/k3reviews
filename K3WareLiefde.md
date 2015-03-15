@@ -1,8 +1,8 @@
 # Ware Liefde
 
  * Category: love
- * Mark's rating: ?/10
- * Mark's  favorite lyric: '?'
+ * Mark's rating: 8/10
+ * Mark's  favorite lyric: 'Want ware liefde ken geen plaats of tijd. Ik zie je graag en dat is voor altijd'
  * Richel's rating: 8/10
  * Richel's favorite lyric: 'Want ik wil elk moment'
 
@@ -19,7 +19,7 @@ die de hemel kleurt.
 
 Ik neem je met me mee, zal er voor je staan
 Samen met z'n twee, waar je ook mag gaan
-wat er ook gebeurd, ik zal er voor je staan
+wat er ook gebeurt, ik zal er voor je staan
 want ware liefde kent geen plaats of tijd
 ik zie je graag en dat is voor altijd
 
@@ -60,7 +60,7 @@ Ik zie je graag en dat is voor altijd.
 
 ## Mark's review
 
-None yet.
+Ik vind dit een erg mooi liedje. Ik vind het mooi klinken en ik vind de zangtekst mooi.  Meer heb ik er niet over te zeggen.
 
 ## Richel's review
 
