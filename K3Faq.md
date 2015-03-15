@@ -1,18 +1,38 @@
 # FAQ
 
-## Why are the reviews in English?
+## Why are Mark's reviews in Dutch?
+
+To be answered.
+
+## Why are Richel's reviews in English?
 
 Because English is the lingua franca spoken by academia.
 
-## Who are you?
+## Who is Mark?
+
+To be answered.
+
+## Who is Richel?
 
 I am an adult male working at a university as a researcher. See [my website](http://www.richelbilderbeek.nl) for more details.
 
 ## What is your goal of these reviews?
 
+### Mark
+
+To be answered.
+
+### Richel
+
 I think it shows my thorough knowledge of the ouvre of K3 and I hope Studio 100 (the producers of K3) will ask me for advice when choosing new songs.
 
 ## Do you consider yourself a fan?
+
+### Mark
+
+To be answered.
+
+### Richel
 
 Judge for yourself:
  * I do buy the CDs that had at least one unique song on them, when the price drops to ten euros
@@ -29,6 +49,11 @@ Judge for yourself:
 
 ## Who is your favorite girl?
 
+### Mark
+
+To be answered.
+
+### Richel
 I can rank them:
  * (1) Karen
  * (2) Josje
