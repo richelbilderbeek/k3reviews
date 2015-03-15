@@ -53,4 +53,5 @@ None yet.
 
 This song is about celebrating your non-birthday.
 
-I enjoy the idea about the song
+I enjoy the idea about the song very much and the enthousiasm with which K3 celebrates it! The joke by Josje [1] makes me smile, even more when I hear the laugh of Josje in the background. 
+Of course, the lyrics at [2] should be '364 dagen plezier in een niet-schrikkeljaar'. 'Happy Birthday' its butt is kicked majorly by this song!
