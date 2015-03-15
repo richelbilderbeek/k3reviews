@@ -1,6 +1,7 @@
 # K3Reviews
 My reviews of all K3 songs
 
+ * Read the [FAQ](K3Faq.md).
 
 ## Recurring themes
 
