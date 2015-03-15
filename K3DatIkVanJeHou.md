@@ -58,6 +58,12 @@ Ik zeg tienduizend keren dat ik van je hou
 Ik zeg tienduizend keren dat ik van je hou
 ```
 
+## Mark's review
+
+None yet.
+
+## Richel's review
+
 This song describes K3 enjoying a boy his presence at the dance floor.
 
 The world does not need another plain uninspired song as this. 

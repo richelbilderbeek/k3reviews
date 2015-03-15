@@ -65,6 +65,12 @@ Wie wil vanavond met K3 mee naar de film
 Wie wil vanavond met K3 mee naar de film
 ```
 
+## Mark's review
+
+None yet.
+
+## Richel's review
+
 K3 sings about the idea of going to the movies and fantasizes how it will be (1) in the cinema and (2) being an actor.
 
 The song starts gently and this is my favorite part of the song. I do not understand why it is important for the cinema to be located

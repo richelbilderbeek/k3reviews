@@ -56,6 +56,12 @@ Ik zie je graag en dat is voor altijd.
 (iedereen heeft een beetje liefde nodig)
 ```
 
+## Mark's review
+
+None yet.
+
+## Richel's review
+
 This song describes K3 promising the loved one to always be there for him, as the girl explicitly states the relation will last for ever.
 
 A nice sweet song about the friendship underlying a romantic relation. This song proves K3 can also sing about a deeper love, 

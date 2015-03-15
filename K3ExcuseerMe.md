@@ -4,6 +4,12 @@
  * Rating: 4/10
  * Favorite lyric: none
 
+## Mark's review
+
+None yet.
+
+## Richel's review
+
 In this song, K3 sing about falling in love and asking him for help. The
 song has two moods: neutral verses and a neutral chorus.
 

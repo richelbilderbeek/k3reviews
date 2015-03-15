@@ -64,6 +64,12 @@ Ik heb mijn feestneus opgezet
 Boempadaboem retteketet
 ```
 
+## Mark's review
+
+None yet.
+
+## Richel's review
+
 In this song, K3 describes the many musical instruments (and their
 sounds) of a party, who is present at the party, and how the girls
 behave to improve the party its atmosphere.

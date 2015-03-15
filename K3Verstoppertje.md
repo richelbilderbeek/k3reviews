@@ -41,6 +41,12 @@ En wie niet weg is, is gezien
 Ik krijg je wel te pakken 
 ```
 
+## Mark's review
+
+None yet.
+
+## Richel's review
+
 This song describes a game of hide-and-seek from the perspective of the seeker.
 
 The melody sounds like a nintendo 8-bit retro game, close to the Bomberman theme. I love it!

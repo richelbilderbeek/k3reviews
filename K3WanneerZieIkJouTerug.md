@@ -43,6 +43,12 @@ mijn ster die naar me knipoogt en me nooit verlaat
 die elke avond aan de hemel staat
 ```
 
+## Mark's review
+
+None yet.
+
+## Richel's review
+
 This song is about mourning about a loved one.
 
 A sweet and tender ballad. Personally, I would avoid mentioning a specific religion [1], because K3 its message is independent of this (as stated explicitly in [Alle Kleuren](K3AlleKleuren.md)).

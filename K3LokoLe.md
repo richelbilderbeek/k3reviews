@@ -47,6 +47,12 @@ Als jullie bij me zijn
 [CHORUS]
 ```
 
+## Mark's review
+
+None yet.
+
+## Richel's review
+
 In this song, K3 describes partying.
 
 As with most K3 partying songs, there is little contents in the lyrics. I do not understand the meaning of [1] nor [2]. 

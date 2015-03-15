@@ -45,6 +45,12 @@ en verklaar ons man en vrouw
 [CHORUS]
 ```
 
+## Mark's review
+
+None yet.
+
+## Richel's review
+
 This song described the intention to marry with a boy and the joyfull feeling when looking forward to this event.
 
 One might expect when the boy does not want to marry yet [1], this would be a bit of a downer.

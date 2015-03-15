@@ -49,6 +49,12 @@ de winterkoude, eeuwig en voor altijd voorbij
 [CHORUS]
 ```
 
+## Mark's review
+
+None yet.
+
+## Richel's review
+
 In this song, K3 describes the initial phase of a relationship, where the love is so strong she can nearly not restrain herself.
 
 I enjoy the naughtiness, where it is described that when she kisses him, more will follow [1] and when they marry, well, they can

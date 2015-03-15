@@ -56,6 +56,12 @@ wij blijven vrienden
 [CHORUS]
 ```
 
+## Mark's review
+
+None yet.
+
+## Richel's review
+
 In this song K3 sings about everlasting friendship.
 
 The first thing that is apparent is the gospel-like intro and style. 

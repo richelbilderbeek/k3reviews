@@ -44,6 +44,12 @@ Dat is wat ik wil
 Dat is wat ik wil
 ```
 
+## Mark's review
+
+None yet.
+
+## Richel's review
+
 This song describes the discovery K3's inner goals, those goals and how to achieve them.
 
 I enjoy the intro a lot. It feels weird to sing along with the lyrics at [1]. I assume the boy does not have to feed het drunk [2], but make her feel drunk out of love. 

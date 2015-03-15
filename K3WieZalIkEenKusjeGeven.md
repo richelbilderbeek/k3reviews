@@ -46,6 +46,12 @@ En weet je wat we doen als wij ons ooit vervelen
 [CHORUS]
 ```
 
+## Mark's review
+
+None yet.
+
+## Richel's review
+
 In this song, K3 describes a rhyme used in a kissing game, thanks to
 which they found the boy of their dreams. The song has two moods: slower
 neutral verses and an up-tempo cheerful chorus.

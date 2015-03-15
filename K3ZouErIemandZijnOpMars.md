@@ -4,6 +4,12 @@
  * Rating: 8/10
  * Favorite lyric: none
 
+ ## Mark's review
+
+None yet.
+
+## Richel's review
+
 In this song, K3 describes feeling lonely, hoping for somebody that will
 love them. The song is one of the few English Waltzes of their
 repetoire. There are some French backing vocals and some Flemish lines

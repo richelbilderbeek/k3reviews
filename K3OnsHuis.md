@@ -69,6 +69,12 @@ Zeg me waar is het leven zo fijn
 [CHORUS]
 ```
 
+## Mark's review
+
+None yet.
+
+## Richel's review
+
 This song describes how much K3 likes their home, that everyone is welcome and how much they party there.
 
 In my humble opinion, this is an uninspired song about partying, with accompanying melody.

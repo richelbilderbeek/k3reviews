@@ -1,6 +1,8 @@
 # K3 Airlines
 
  * Category: other
+ * Mark's rating: ?/10
+ * Mark's  favorite lyric: '?'
  * Richel's rating: 8/10
  * Richel's  favorite lyric: 'en je mag ons met een zoen betalen'
 
@@ -61,6 +63,10 @@ ik laat alle kleurtjes samen zingen
 
 [CHORUS]
 ```
+
+## Mark's review
+
+None yet.
 
 ## Richel's review
 

@@ -62,6 +62,12 @@ Hale-hale-ha-le-le, hale-hale-halleluja
 Hale-hale-ha-le-le, halle-halleluja
 ```
 
+## Mark's review
+
+None yet.
+
+## Richel's review
+
 This song describes the search for a boy to fullfill the need of K3.
 
 Normally I do not like jabbertalk [1], but this compansates heaviliy for this, by plenty of naughty lyrics [3,4,5].

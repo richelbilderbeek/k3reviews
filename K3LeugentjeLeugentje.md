@@ -94,6 +94,12 @@ We blijven alsmaar doorgaan [4]
 Leugentje Leugentje
 ```
 
+## Mark's review
+
+None yet.
+
+## Richel's review
+
 In this song, K3 describes being in love, denying this by lying, with
 the excuse that everybody tells a lie once in a while. The song has
 three moods: neutral and more emotional verses and a cheerful chorus.

@@ -61,6 +61,12 @@ Als ik prinses was
 Maar dat is waarschijnlijk dan toch voor een andere keer
 ```
 
+## Mark's review
+
+None yet.
+
+## Richel's review
+
 In this song K3 states their plans would they become a princess, of which throwing a party is of big importance.
 
 I like some lyrics: K3 wearing jeans and a top as a princess [1], that they prefer a man with a lot of muscles (just like me) [2] and the stimulation of the idea to dye one's hair [3] 

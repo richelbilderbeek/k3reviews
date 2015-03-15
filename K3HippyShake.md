@@ -4,6 +4,12 @@
  * Rating: 7/10
  * Favorite lyric: 'Die house beat, heeft afgedaan'
 
+## Mark's review
+
+None yet.
+
+## Richel's review
+
 In this song, K3 longs forward to go dancing a dance called the 'Hippy
 Shake' on Saterday. The song has two moods: neutral verses and an
 energetic chorus. The verses appear to use a a subset of the melodies of

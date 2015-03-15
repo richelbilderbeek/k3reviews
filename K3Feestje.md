@@ -4,6 +4,12 @@
  * Rating: 5/10
  * Favorite lyric: 'Op naar het stort met die gezellige stoel en het bed in de fik, want wij gaan nooit meer slapen'
 
+## Mark's review
+
+None yet.
+
+## Richel's review
+
 In this song, K3 sing about organizing a party. The song has two moods:
 neutral verses and a neutral chorus.
 

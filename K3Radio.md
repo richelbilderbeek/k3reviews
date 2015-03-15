@@ -4,6 +4,12 @@
  * Rating: 8/10
  * Favorite lyric: none
 
+## Mark's review
+
+None yet.
+
+## Richel's review
+
 In this song, K3 describes a fun plan: because they are singing on the
 radio that holiday will start today and last 6 months, you can celebrate
 it with the excuse that you heard that news on the radio.

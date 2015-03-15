@@ -38,6 +38,12 @@ Met jou erin
 [CHORUS]
 ```
 
+## Mark's review
+
+None yet.
+
+## Richel's review
+
 This song is about K3 describing a boy and his influence on her.
 
 This is an emotional song, in which the lightness of K3 [1] is mixed with a fragile observation [2] and a tender appreciation [3]. I dream K3 will one day sing such a song about me.

@@ -60,6 +60,12 @@ en ben ik op slag zo beroemd als een filmster
 en dan word ik zo
 ```
 
+## Mark's review
+
+None yet.
+
+## Richel's review
+
 In this song K3 describes their ideas about being a movie star.
 
 The chorus immediatly grabs me and takes me with it. Especially the long oho's are enjoyable to sing, 

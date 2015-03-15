@@ -66,6 +66,12 @@ een klein kusje, klein klein kusje
 een klein kusje, ja vandaag is kusjesdag
 ```
 
+## Mark's review
+
+None yet.
+
+## Richel's review
+
 This song is about the national celebration of Kusjesdag (translated: 'Kisses day') and the possibilities this offers to express oneself to our loved ones.
 
 I think K3 does an excellent job of motivating people to tell to the people they care about, that they do so. I like the naughtyness of [1], 

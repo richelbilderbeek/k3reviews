@@ -4,6 +4,12 @@
  * Rating: 8/10
  * Favorite lyric: 'Ik schrijf een brief naar alle kinderen van heel Europa'
 
+## Mark's review
+
+None yet.
+
+## Richel's review
+
 In this song, K3 describes losing a boyfriend, due to having hurt him,
 and wanting him back. The song has two moods: forceful verses and a
 cheerful chorus. The phrase 'I love you' is sung in four languages

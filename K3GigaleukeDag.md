@@ -59,6 +59,12 @@ Wie komt niet meer bij
 't Wordt een gigaleuke dag
 ```
 
+## Mark's review
+
+None yet.
+
+## Richel's review
+
 In this song, K3 describes that today will be a fun day. The song has
 two moods: neutral verses and neutral chorus.
 

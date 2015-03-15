@@ -53,6 +53,12 @@ want ik zie het al voor mij
 [CHORUS]
 ```
 
+## Mark's review
+
+None yet.
+
+## Richel's review
+
 In this song, K3 describes about living together with someone and owning
 a lot of animals. These animals are then used for houskeeping. The
 verses are neutral, the chorus as well.

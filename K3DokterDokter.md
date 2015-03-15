@@ -59,6 +59,12 @@ Liefste schat kus me niet want ik krijg het aan m'n hart
 [CHORUS]
 ```
 
+## Mark's review
+
+None yet.
+
+## Richel's review
+
 This song is about the emotion when being in love with a boy, and consulting a doctor with these symptoms.
 
 I really enjoy the pumping beat, the electronics samples, and the alternation of moods. The boy described 

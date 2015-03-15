@@ -60,6 +60,12 @@ vriendschap opent deuren
 dat maakt het leven zo mooi
 ```
 
+## Mark's review
+
+None yet.
+
+## Richel's review
+
 In this song, K3 sing about the benefits of friendship. The song has two
 moods: neutral verses and a neutral chorus.
 

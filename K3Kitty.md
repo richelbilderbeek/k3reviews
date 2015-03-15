@@ -94,6 +94,12 @@ Maar miauw miauw [2] ben ik te vertrouwen
 wat denk jij?
 ```
 
+## Mark's review
+
+None yet.
+
+## Richel's review
+
 In this song, K3 states that men should be on guard, because otherwise they'll be seduced by the girls.
 
 Personally, I think the lyrics are fine. I enjoy the expression 'lieve

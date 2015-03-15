@@ -4,6 +4,12 @@
  * Rating: 4/10
  * Favorite lyric: 'Wie krijgt er vandaag een grote nul?'
 
+## Mark's review
+
+None yet.
+
+## Richel's review
+
 In this song, K3 has critique on politicians (especially on the ministry
 of defense and a general). Then they describe how they want to be queen
 of a fictional country called 'Lollipopland', where they would solve all

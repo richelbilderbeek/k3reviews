@@ -60,6 +60,12 @@ Ik voel me nog niet klaar.
 Om de grote stap te wagen
 ```
 
+## Mark's review
+
+None yet.
+
+## Richel's review
+
 In this song, K3 describes about a boyfriend that desires more than
 walking hand in hand. Because of love, they let him. The melody is
 up-tempo with a high-pitched sample. In the middle there is a spoken

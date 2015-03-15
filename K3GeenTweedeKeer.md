@@ -36,6 +36,12 @@ voor geen miljoen
 [CHORUS]
 ```
 
+## Mark's review
+
+None yet.
+
+## Richel's review
+
 This song describes K3 their feelings reflecting on a freshly-broken relationship.
 
 This song has little to do with the philosophy of K3: the lyrics are bitter and caustic. 

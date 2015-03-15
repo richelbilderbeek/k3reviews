@@ -4,6 +4,12 @@
  * Rating: 4/10
  * Favorite lyric: 'Ik hou van Bert, maar ik houd ook van Jan'
 
+## Mark's review
+
+None yet.
+
+## Richel's review
+
 In this song, K3 sing about being in love with two men, and unable to
 choose, they choose one at random. The song has two moods: neutral
 verses and a cheerful chorus.

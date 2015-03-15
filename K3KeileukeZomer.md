@@ -43,6 +43,12 @@ Eén wereld
 Die we met elkaar delen
 ```
 
+## Mark's review
+
+None yet.
+
+## Richel's review
+
 In this song, K3 describes about enjoying life before it gone. The
 verses are held-in energetic, the chorus does release the built-up
 energy from the verses. There is a giggle from -I think- Kathleen at the

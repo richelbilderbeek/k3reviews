@@ -4,6 +4,12 @@
  * Rating: 7/10
  * Favorite lyric: none
 
+## Mark's review
+
+None yet.
+
+## Richel's review
+
 In this song, K3 describes having fun activities with a boyfriend and
 the sensation of kissing him. The song has a neutral verse, a cheerful
 chorus and a more sensitive verse in which K3 phantasizes about

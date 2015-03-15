@@ -68,6 +68,12 @@ Lieve mooie dromen
 [CHORUS]
 ```
 
+## Mark's review
+
+None yet.
+
+## Richel's review
+
 In this song, K3 describes about mutual love. The verses are cheerful,
 the chorus is cheerful as well.
 

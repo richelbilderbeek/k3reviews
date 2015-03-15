@@ -41,6 +41,12 @@ We nemen de stad en daarna het land en daarna de hele wereld!
 Iedereen op aarde gaat springen!
 ```
 
+## Mark's review
+
+None yet.
+
+## Richel's review
+
 In this song, K3 describes starting a revolution to make the whole world
 to go dancing/jumping/swimming [2] (no idea why 'swimming' is added)
 There are two moods: tense verses and an energetic chorus.

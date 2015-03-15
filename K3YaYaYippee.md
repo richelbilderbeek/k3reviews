@@ -46,6 +46,12 @@ als ik mij vandaag eens uitleef
 [CHORUS]
 ```
 
+## Mark's review
+
+None yet.
+
+## Richel's review
+
 This song describes the onset of summer holidays and the party that
 evening
 

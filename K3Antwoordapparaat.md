@@ -48,6 +48,12 @@ Jij verklaart je liefde aan m'n antwoordapparaat
 En de deur gaat open, ik kan niet geloven dat je voor me staat
 ```
 
+## Mark's review
+
+None yet.
+
+## Richel's review
+
 In this song, K3 describes calling a boyfriend, but get connected to his
 voice receiver, at which they tell their love to instead. In the end of
 the song they have to disconnect, because there is somebody ringing at

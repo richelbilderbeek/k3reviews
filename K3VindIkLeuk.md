@@ -85,6 +85,12 @@ Iedereen ligt in een deuk
 Ja dat vind ik leuk leuk leuk
 ```
 
+## Mark's review
+
+None yet.
+
+## Richel's review
+
 In this song, K3 tells about pictures appearing on the internet (for
 example, on Facebook) and clicking the 'Like' button. There is also a
 reflection of letting these pictures being taken, when the whole world

@@ -55,6 +55,12 @@ Alle kleuren van de regenboog!
 Alle kleuren van de regenboog
 ```
 
+## Mark's review
+
+None yet.
+
+## Richel's review
+
 In this song, K3 states everybody should be tolerant for skin color,
 that it is sad when people are discriminated, and that K3 will give a
 good example. In the chorus there are non-Dutch non-English non-French

@@ -59,6 +59,12 @@ En jullie allemaal
 [CHORUS]
 ```
 
+## Mark's review
+
+None yet.
+
+## Richel's review
+
 In this song, K3 states that Chinese people are (weird yet) okay, as well as all other people.
 The song has two moods: neutral verses and a neutral chorus. In the chorus there are backing vocals
 making (the sound of) karate moves.
