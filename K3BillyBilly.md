@@ -1,8 +1,10 @@
 # Billy Billy
 
  * Category: love
- * Rating: 8/10
- * Favorite lyric: 'Ik breng je liefde op een dienblad'
+ * Mark's rating: ?/10
+ * Mark's favorite lyric: '?'
+ * Richel's rating: 8/10
+ * Richel's favorite lyric: 'Ik breng je liefde op een dienblad'
 
 ```
 Billy Billy Billy
@@ -47,6 +49,12 @@ Billy Billy Billy
 
 [CHORUS]
 ```
+
+## Mark's review
+
+Hiero kun je je tekst plaatsen :-)
+
+## Richel's review
 
 This song is about love at first sight with a man called Billy and the first week of happiness.
 
