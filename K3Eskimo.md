@@ -1,8 +1,10 @@
 # Eskimo
 
  * Category: misc
- * Rating: 2/10
- * Favorite lyric: 'Jij glijd uit en doet je pijn en ik zorg voor EHBO'
+ * Mark's rating: ?/10
+ * Mark's favorite lyric: '?'
+ * Richel's rating: 2/10
+ * Richel's favorite lyric: 'Jij glijd uit en doet je pijn en ik zorg voor EHBO'
 
  ```
 Tis koud zo koud, zo koud zo koud zo koud
@@ -75,6 +77,11 @@ Tis koud zo koud, zo koud zo koud zo koud
 Tis koud zo koud, zo koud zo koud zo koud
 Brrrrrrr
 ```
+## Mark's review
+
+None yet.
+
+## Richel's review
 
 This song describes K3 falling in love at first sight with an eskimo.
 
