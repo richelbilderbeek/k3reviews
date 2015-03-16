@@ -16,6 +16,14 @@ That's me, Mark Wiering. (http://www.markwiering.nl and https://www.facebook.com
 
 I am an adult male working at a university as a researcher. See [my website](http://www.richelbilderbeek.nl) for more details.
 
+## Can I also submit my reviews?
+
+Sure, you are welcome to join the current team and add your reviews. All we ask is to stick to the current format, as we will use that format for our (future) statistics. 
+
+You can submit your work by 
+ * (1) an email to Richel ([See Richel's email address here](http://richelbilderbeek.nl/Email.png))
+ * (2) join the team of collaborators (you will need a GitHub account for this)
+
 ## What is your goal of these reviews?
 
 ### Mark
@@ -25,6 +33,8 @@ I don't have a goal in particular.
 ### Richel
 
 I think it shows my thorough knowledge of the ouvre of K3 and I hope Studio 100 (the producers of K3) will ask me for advice when choosing new songs.
+
+Additionally, I enjoy to compare the opinions given.
 
 ## Do you consider yourself a fan?
 
@@ -54,9 +64,9 @@ Judge for yourself:
 Karen Damen without a doubt. She sings beautifully. Moreover, I like her appearance. 
 
 Since Richel gave a list, I will too.
-1. Karen Damen.
-2. Kathleen Aerts/Kristel Verbeke (can't really decide)
-3. Josje Huisman
+ * 1. Karen Damen.
+ * 2. Kathleen Aerts/Kristel Verbeke (can't really decide)
+ * 3. Josje Huisman
 
 ### Richel
 I can rank them:
