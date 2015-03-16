@@ -5,7 +5,7 @@ Most songs can be categorized in three main subjects:
  * ethics 
  * partying
 
-In all three categories I have favorites but also songs I
+In all three categories I have favorites, but also songs I
 immediatly delete from my playlist.
 
 The songs about love are, in my opinion, the main strength of K3: I
