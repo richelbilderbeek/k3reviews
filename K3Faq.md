@@ -2,7 +2,7 @@
 
 ## Why are Mark's reviews in Dutch?
 
-To be answered.
+Laziness. I might as well write my reviews in English, or make an English AND a Dutch version. But, it's easier for me to do it in Dutch. Moreover, I think most fans of K3 are Dutch or Flemish. The songs of K3 are also Dutch/Flemish. If someone requests it, I will give a translation of my reviews.
 
 ## Why are Richel's reviews in English?
 
@@ -10,27 +10,37 @@ Because English is the lingua franca spoken by academia.
 
 ## Who is Mark?
 
-To be answered.
+That's me, Mark Wiering. (http://www.markwiering.nl and https://www.facebook.com/markwiering) I am almost obsessed with mathematics. My hobbies are: playing chess, bicycling, making programmes in C++, solving mathematical problems and watching cartoons. I especially like the Avatar-series and Elfen Lied. But, Elfen Lied is extremely violent (especially episode 2), so I wouldn't recommend it to anyone. I am very interested in politics, history and buddhism.
 
 ## Who is Richel?
 
 I am an adult male working at a university as a researcher. See [my website](http://www.richelbilderbeek.nl) for more details.
 
+## Can I also submit my reviews?
+
+Sure, you are welcome to join the current team and add your reviews. All we ask is to stick to the current format, as we will use that format for our (future) statistics. 
+
+You can submit your work by 
+ * (1) an email to Richel ([See Richel's email address here](http://richelbilderbeek.nl/Email.png))
+ * (2) join the team of collaborators (you will need a GitHub account for this)
+
 ## What is your goal of these reviews?
 
 ### Mark
 
-To be answered.
+I don't have a goal in particular.
 
 ### Richel
 
 I think it shows my thorough knowledge of the ouvre of K3 and I hope Studio 100 (the producers of K3) will ask me for advice when choosing new songs.
 
+Additionally, I enjoy to compare the opinions given.
+
 ## Do you consider yourself a fan?
 
 ### Mark
 
-To be answered.
+Yes, I do.
 
 ### Richel
 
@@ -51,7 +61,12 @@ Judge for yourself:
 
 ### Mark
 
-To be answered.
+Karen Damen without a doubt. She sings beautifully. Moreover, I like her appearance. 
+
+Since Richel gave a list, I will too.
+ * 1. Karen Damen.
+ * 2. Kathleen Aerts/Kristel Verbeke (can't really decide)
+ * 3. Josje Huisman
 
 ### Richel
 I can rank them:
