@@ -1,10 +1,10 @@
 # Ik Wil Bamba
 
- * Category: other
+ * Category: love
  * Mark's rating: ?/10
  * Mark's favorite lyric: '?'
- * Richel's rating: ?/10
- * Richel's favorite lyric: '?'
+ * Richel's rating: 7/10
+ * Richel's favorite lyric: 'ze is mooi en blond'
 
 ```
 
@@ -20,8 +20,9 @@ Voordat ik weer naar huis moet gaan
 
 Er is niets dat mij zo raakt
 Niets dat mij ooit zo wild en uitbundig maakt
-Als de kusjesdans want ik grijp m'n kans
-Dat is wat ik doe!Ik kom naar je toe!
+Als de kusjesdans, want ik grijp m'n kans
+Dat is wat ik doe
+Ik kom naar je toe
 
 [CHORUS]
 De dansbeat lekker luid
@@ -35,9 +36,10 @@ Laat me volledig gaan
 Ik wil bamba
 
 We dansen in het rond
-Ja ze is mooi en blond
+Ja ze is mooi en blond [1]
 En ze kiest jou eruit
-Ik draai m'n hoofd hou het niet uit
+Ik draai m'n hoofd 
+hou het niet uit
 
 Denk dat ik veilig ben
 Maar plots hoor ik je stem
@@ -48,7 +50,8 @@ Er is niets dat mij zo raakt
 Niets dat mij ooit zo wild en uitbundig maakt
 Als de kusjesdans
 Want ik grijp m'n kans
-Dat is wat ik doe!Ik kom naar je toe!
+Dat is wat ik doe
+Ik kom naar je toe
 
 [CHORUS]
 
@@ -63,4 +66,9 @@ None yet.
 
 ## Richel's review
 
-None yet.
+In this song K3 describes enjoying to dance the Bamba (the 'kissing dance') and seducing a male while doing so, where the competition for the male his attention is high.
+
+The song starts out weird, with some guy exclaiming to be the mambo king (and it does not convince me), then being overtaken by
+Karen her, in my humble opinion, beautiful voice. I enjoy that also the girls struggle with getting the attention of the other sex.
+I do not understand why being blond is an important aspect of beauty [1], as all K3 girls are equally pretty. I experience
+the melody as energetic and uplifting and it grabs me. Except for that mamba king, a good song.
