@@ -76,3 +76,12 @@ I can rank them:
  * (4) Kathleen
 
 I like Karen best, because she is most tomboyish, has a bit of a whiskey voice and has the naughtiest eyes. I like Josje because of her high speed and pretty Dutch accent. Kristel has the sweetest and most sincere smile. I started to appreciate Kathleen only after reading the autobiography she wrote when she left the group.
+
+## How do you feel about K3 breaking up (announced at the 18th of March 2015)?
+
+### Mark
+
+### Richel
+
+Personally, I don't mind: it has never been about the actual girls for me, but the lyrics. And new lyrics will be written. So, for me, nothing is lost. Additionally, I took the opportunity to apply for one of the three K3 position (although I assume I won't make it).
+
