@@ -81,6 +81,10 @@ I like Karen best, because she is most tomboyish, has a bit of a whiskey voice a
 
 ### Mark
 
+Josje Huisman is the one of the three who wanted stop. If it were just her, I wouldn't it mind at all. That would give Kathleen Aerts the perfect opportunity to return to K3 or they would just get another girl. But, unfortunately, all three girls will be replaced. I think that's stupid. Why should Karen Damen and Kristel Verbeke be replaced if only Josje Huisman wants to stop? Back in 2009 when Kathleen Aerts quit, Karen Damen and Kristel Verbeke also continued to be members.
+
+Now I am really curious about the new members and how their shows, films, videoclips and songs will turn out.
+
 ### Richel
 
 Personally, I don't mind: it has never been about the actual girls for me, but the lyrics. And new lyrics will be written. So, for me, nothing is lost. Additionally, I took the opportunity to apply for one of the three K3 position (although I assume I won't make it).
