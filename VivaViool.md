@@ -72,7 +72,7 @@ In this song, K3 describes that finding of a violin and the effect of
 playing it.
 
 I enjoy this song. Especially Karen her part (marked with [2]) makes it
-feel as a revolutionists' song (similar to [De Revolutie](DeRevolutie.md)), 
+feel as a revolutionists' song (similar to [De Revolutie](K3DeRevolutie.md)), 
 albeit there is no revolt going on at
 all. Except for this, the song is just a fine song. The line marked with
 [1] is, in my humble opinion, a very cheap and ugly way of getting the
