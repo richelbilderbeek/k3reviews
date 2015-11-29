@@ -7,3 +7,8 @@ do
   echo $FILETO
   mv $FILE $FILETO
 done
+
+for FILE in `ls`
+do
+  cat $FILE | sed 's/](K3/](/'
+done
