@@ -73,4 +73,4 @@ In this song K3 describes their ideas about being a movie star.
 The chorus immediatly grabs me and takes me with it. Especially the long oho's are enjoyable to sing, 
 which is surprising, because I generally don't like such empty exclamations. I do not understand
 why being blond is an important aspect of beauty [2], as all K3 girls are equally beautiful. 
-The metaphor at [1] is a bit clichee, as it is used too often, for example at [Naar De Film](K3NaarDeFilm.md).
+The metaphor at [1] is a bit clichee, as it is used too often, for example at [Naar De Film](NaarDeFilm.md).

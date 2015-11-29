@@ -101,7 +101,7 @@ sentences, the themes of summer and meeting the boy of their dreams are totally 
 connect to the melody and I do not mind the 'whoo-whoo'ing throughout the song [2,3,4], but
 neither do I enjoy it. My favorite lyric 'De mensen slenteren alweer een beetje slomer' [1] ('the people
 are strolling a bit slower') is my favorite due to (1) the sentence has a nice metrum (2) is sung by
-Kathleen (3) my association between Kathleen and lazyness (thanks to other songs like [Ya Ya Yippee](K3YaYaYippee.md))
+Kathleen (3) my association between Kathleen and lazyness (thanks to other songs like [Ya Ya Yippee](YaYaYippee.md))
 (note that I do not like this association, as I do think K3 should not sing positively about lazyness and are not lazy 
 themselves). I most enjoy the parts where Karen is singing solitary. I find this a reasonable song.
 

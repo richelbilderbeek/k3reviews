@@ -59,7 +59,7 @@ This song describes the start of summer and the lassez-faire behavior associated
 
 I enjoy the lightness of the song, 'just let the wind blow' and it cheers me up. Personally, I think it would be
 even better if K3 did not attach this mentality to just one season, and K3 shows that they actually don't, in, for example
-[Als Het Regent](K3AlsHetRegent.md). It might be cultural (I am Dutch, K3 is Flemish), but the word 'vrijen' [1] is, in my
+[Als Het Regent](AlsHetRegent.md). It might be cultural (I am Dutch, K3 is Flemish), but the word 'vrijen' [1] is, in my
 humble opinion, a bit too explicit. I noticed other people think [2] is a bit of a dissonant, as it implies
 parents sometimes behave irrationally unfriendly, but I do not think all parents do so. Additionally, I do not think
 it is like K3 to let a sad boyfriend be sad [3], as K3 will fix him up! Cheers go to the trumpet player!

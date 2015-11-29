@@ -4,10 +4,10 @@ K3 has a habit of using jabbertalk.
 
 An incomplete list:
 
- * [10000 Luchtballonnen](K310000LuchtBallonnen.md)
- * [Bij Ons Thuis](K3BijOnsThuis.md)
- * [Dubbeldekkertrein](K3Dubbeldekkertrein.md)
- * [Fiets](K3Fiets.md)
- * [Heyah Mama](K3HeyahMama.md)
- * [Waar Zijn Die Engeltjes](K3WaarZijnDieEngeltjes.md)
- * [Yippee Yippee](K3YippeeYippee.md)
+ * [10000 Luchtballonnen](10000LuchtBallonnen.md)
+ * [Bij Ons Thuis](BijOnsThuis.md)
+ * [Dubbeldekkertrein](Dubbeldekkertrein.md)
+ * [Fiets](Fiets.md)
+ * [Heyah Mama](HeyahMama.md)
+ * [Waar Zijn Die Engeltjes](WaarZijnDieEngeltjes.md)
+ * [Yippee Yippee](YippeeYippee.md)

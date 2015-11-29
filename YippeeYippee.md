@@ -72,4 +72,4 @@ In this song K3 describes the happiness of being with (boy)friends.
 
 In general I do not like jabbertalk, but in this I do forgive K3, as the rest of the lyrics compensate for this [1,2,3]. Next to this, the melody is plain and okay.
 
-Note not to confuse this song with [Ya Ya Yippee](K3YaYaYippee.md).
+Note not to confuse this song with [Ya Ya Yippee](YaYaYippee.md).

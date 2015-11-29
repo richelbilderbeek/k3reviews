@@ -68,4 +68,4 @@ not true, and I do think K3 should not sing about being lazy). The rhyme
 of [4] is, in my opinion, a bit cheap. I really like Karen singing my
 favorite sentence [4].
 
-Note not to confuse this song with [Yippee Yippee](K3YippeeYippee.md).
+Note not to confuse this song with [Yippee Yippee](YippeeYippee.md).

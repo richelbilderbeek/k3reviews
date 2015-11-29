@@ -50,7 +50,7 @@ This song has little to do with the philosophy of K3: the lyrics are bitter and 
 That the boy did everything for her [2], is seen as a weakness, where in other songs, this is seen as a good thing.
 Also, on the one hand this helpfull boy is also a macho [1]? 
 Additionally, I do not understand why K3 is so explicitly monogamous: shouldn't eveyone be able to love 
-everyone (or is this allowed only on [Kusjesdag](K3Kusjesdag.md)? Finally, as fiendish as the lyrics are, so cheerfull is the the melody.
+everyone (or is this allowed only on [Kusjesdag](Kusjesdag.md)? Finally, as fiendish as the lyrics are, so cheerfull is the the melody.
 
 I suggest to K3 to stay true to their philosphy. A true K3 song would describe the girls being happy that the boy helps them
 so much and that the boy is so sweet to help other girls with their luvvin' needs as well. 

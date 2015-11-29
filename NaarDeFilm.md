@@ -78,6 +78,6 @@ K3 sings about the idea of going to the movies and fantasizes how it will be (1)
 The song starts gently and this is my favorite part of the song. I do not understand why it is important for the cinema to be located
 to a snackbar [1], as it is clear in the rest of the song that there is also plenty of food in the cinema [4,5]. At [2] Josje makes
 a joke and I happen to like it, perhaps because of her somewhat raw Dutch accent. The rest of the song is fine. The metaphor at [6]
-is a bit clichee, as it is used too often, for example at [Filmster](K3Filmster.md).
+is a bit clichee, as it is used too often, for example at [Filmster](Filmster.md).
 
 Would K3 ask me [3], I would join them.

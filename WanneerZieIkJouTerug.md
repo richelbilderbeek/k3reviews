@@ -53,7 +53,7 @@ None yet.
 
 This song is about mourning about a loved one.
 
-A sweet and tender ballad. Personally, I would avoid mentioning a specific religion [1], because K3 its message is independent of this (as stated explicitly in [Alle Kleuren](K3AlleKleuren.md)).
+A sweet and tender ballad. Personally, I would avoid mentioning a specific religion [1], because K3 its message is independent of this (as stated explicitly in [Alle Kleuren](AlleKleuren.md)).
 I think it is a nice contrast that the boy is traited well in heaven [2], where, of course, before his passing, he was treated well by the girls. 
 This also gives this line a double meaning: when K3 treats a boy well, there is an implicit naughtiness in it. Does this imply that in heaven there
 are girls treating the boy just as well in the same way? I think [3] shows the irrationality accompanying mourning: I am rather sure a dead person does not feel pain anymore.
