@@ -10,5 +10,5 @@ done
 
 for FILE in `ls`
 do
-  cat $FILE | sed 's/](K3/](/'
+  cat $FILE | sed 's/](K3/](/' > $FILE
 done
