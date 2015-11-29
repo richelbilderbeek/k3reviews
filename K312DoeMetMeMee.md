@@ -1,6 +1,7 @@
 # 1, 2, Doe Met Me Mee
 
  * Category: love
+ * Formation: Karen, Kathleen, Kristel
  * Mark's rating: ?/10
  * Mark's  favorite lyric: '?'
  * Richel's rating: 7/10

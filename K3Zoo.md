@@ -1,6 +1,7 @@
 # Zoo
 
  * Category: party
+ * Formation: Karen, Kathleen, Kristel
  * Mark's rating: ?/10
  * Mark's  favorite lyric: '?'
  * Richel's rating: 2/10
