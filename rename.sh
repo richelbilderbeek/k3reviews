@@ -5,4 +5,5 @@ do
   echo $FILE
   FILETO=`echo $FILE | tail -c +3`
   echo $FILETO
+  mv $FILE $FILETO
 done
