@@ -60,8 +60,8 @@ This song is about partying in a line. The melody is an ordinary party beat.
 
 I don't like songs that tell me what to do. In this song, K3 orders me to stand in a line [1], where I think
 it is more in line with the K3 philosophy to allow everyone to dance as he/she desires, for example,
-in the song [Je Doet Maar Wat](K3JeDoetMaarWat.md). Also, I don't understand why K3 makes fun about (a kid dressed as) King 
-Kong crying [2], instead of being conforting to the person his/her emotions, like in [Je Hebt Een Vriend](K3JeHebtEenVriend.md).
+in the song [Je Doet Maar Wat](JeDoetMaarWat.md). Also, I don't understand why K3 makes fun about (a kid dressed as) King 
+Kong crying [2], instead of being conforting to the person his/her emotions, like in [Je Hebt Een Vriend](JeHebtEenVriend.md).
 Additionally, there is a subtle hint of drinking alcohol [3], where I think K3 is about making fun while sober. Even my
 favorite lyric is a command. 
 
