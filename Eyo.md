@@ -1,9 +1,12 @@
 # Eyo
 
  * Category: partying
+ * Formations: 
+    * [KKK](Kkk.md) (on the CD 'Eyo')
+    * [HMK](Hkm.md) (on the CD '1000 Luchtballonnen')
  * Mark's rating: ?/10
  * Mark's favorite lyric: '?'
- * Richel's rating: 5/10
+ * Richel's rating: 6/10
  * Richel's favorite lyric: 'Zou het verliefdheid zijn'
 
 ```
@@ -75,7 +78,8 @@ None yet.
 
 In this song a party outside is decribed.
 
-The song has all ingredients for a bad review: (1) title with a non-existing word (2) a chrosu that exists out of
-singing that word multiple times (3) song about partying without content (4) some African doing non-understandable background lyrics.
-Would I not give the melody some points, my grade would have been much lower. But, I do like the melody and this does cause
-me to keep this song on my playlist just a little bit longer.
+The song has all ingredients for a bad review: (1) a (nonsensical title)[NonsensicalTitles.md]
+(2) a chorus that exists out of singing that (nonsensical word)[NonsensicalWords.md] multiple times 
+(3) song about partying without content (4) some African doing [jabbertalk](Jabbertalk.md) background lyrics.
+Would I not give the melody some points, my grade would have been much lower. 
+But, I do like the melody and this does cause me to keep this song on my playlist just a little bit longer.

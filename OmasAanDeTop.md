@@ -1,6 +1,9 @@
 # Oma's Aan De Top
 
  * Category: love
+ * Formations: 
+    * [KKK](Kkk.md) (on the CD 'Alle Kleuren')
+    * [HMK](Hkm.md) (on the CD '1000 Luchtballonnen')
  * Mark's rating: ?/10
  * Mark's  favorite lyric: '?'
  * Richel's rating: 9/10
@@ -88,6 +91,13 @@ None yet
 
 In this song K3 sings about their grandmother.
 
-I thoroughly enjoy the enthousiasm about doing things with the grandmother, especially going to Aruba [1] and dancing the samba together [2],
-as I wonder if the grandmother would be vital enough to enjoy this. A very strong part of this song is the reflection on the
-finiteness of life [3] and the dream of being millennials together [4], and this has brought me close to crying multiple times.
+I thoroughly enjoy the enthousiasm about doing things with the grandmother, 
+especially going to Aruba [1] and dancing the samba together [2],
+as I wonder if the grandmother would be vital enough to enjoy this. 
+A very strong part of this song is the reflection on the
+finiteness of life [3] and the dream of being millennials together [4], 
+and this has brought me close to crying multiple times.
+
+There is not too much difference between the KKK and the HKM formation.
+Sure, the less experienced formation sings with a slightly thinner body,
+but still acceptably well.

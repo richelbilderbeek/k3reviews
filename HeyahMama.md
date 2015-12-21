@@ -1,6 +1,9 @@
 # Heyah Mama
 
  * Category: love
+ * Formations: 
+    * [KKK](Kkk.md) (on the CD 'Parels')
+    * [HMK](Hkm.md) (on the CD '1000 Luchtballonnen')
  * Richel's rating: 9/10
  * Richel's favorite lyric: 'Ik wil jou, jij wil mij'
  * Mark's rating: 8/10
@@ -44,23 +47,22 @@ Duizend hete dromen
 Ik wil jou, jij wil mij
 Slaap nu maar zacht en laat je
 Ramen open
-‘k Kom eraan geslopen
+Ik kom eraan geslopen
 
 Doe het héél zachtjes
 Geen kreetjes en geen lachjes
 Héél zachtjes
-'t Wordt een leuke zomer
+Het wordt een leuke zomer
 Lieve mooie dromen
 (I'm gonna getcha!)
 
 [CHORUS]
 
-I'm gonna getcha …
-Ha poepje
+I'm gonna getcha ...
 
 Doe het heel zachtjes
 Héél zachtjes
-'t Wordt een leuke zomer
+Het wordt een leuke zomer
 Lieve mooie dromen
 
 [CHORUS]
@@ -82,7 +84,7 @@ In this song, K3 describes about mutual love. The verses are cheerful,
 the chorus is cheerful as well.
 
 Personally, I love this song! In other reviews I write I dislike the use
-jabbertalk ('Heyah mama' has no meaning) and I do think the chorus is
+[jabbertalk](Jabbertalk.md) ('Heyah mama' has no meaning) and I do think the chorus is
 repeated just a bit too often. But this is all outweighed by the
 cheerful and naughty lyrics. K3 portrays themselves as women that like
 to love and make love, without any form of complexity. This is in my
@@ -90,3 +92,5 @@ opinion an important part of the K3 philosophy; to make life as simple
 and full of love as possible. I'd like think, that it would be great if
 all people were like this!
 
+Comparing the version between the two formations, the songs sound very
+similar: both formations do equally well. 

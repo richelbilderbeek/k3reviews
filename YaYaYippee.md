@@ -1,10 +1,12 @@
 # Ya Ya Yippee
 
  * Category: party
- * Formation: Karen, Kathleen, Kristel
+ * Formations: 
+    * [KKK](Kkk.md) (on the CD 'Ya Ya Yippee')
+    * [HMK](Hkm.md) (on the CD '1000 Luchtballonnen')
  * Mark's rating: ?/10
  * Mark's  favorite lyric: '?'
- * Richel's rating: 9/10
+ * Richel's rating: 9/10 (KKK), 8.5/10 (HKM)
  * Richel's favorite lyric: 'dan zou je denken dat de wereld voor het eerst een dag vrijaf heeft'
 
 ```
@@ -63,9 +65,10 @@ to outside, where the feeling of happiness comes to full bloom. After
 this, the song has a melody I find enjoyable. Thanks to the strong onset
 of the song, I don't mind the rest of the song being just a normal party
 song. I don't like that school is mentioned as being nonsensical [1], or
-Kathleen stating that working is nothing for her [2] (I think this is
+stating that working is nothing for her [2] (I think this is
 not true, and I do think K3 should not sing about being lazy). The rhyme
 of [4] is, in my opinion, a bit cheap. I really like Karen singing my
-favorite sentence [4].
+favorite sentence [4], where the newer formation does not have Karen's
+ripened voice yet.
 
 Note not to confuse this song with [Yippee Yippee](YippeeYippee.md).
