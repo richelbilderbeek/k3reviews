@@ -1,6 +1,7 @@
 # 10.000 Luchtballonnen
 
- * Category: other
+ * Category: ethics
+ * Formation: [HMK](Hkm.md) (on the CD '1000 Luchtballonnen')
  * Mark's rating: ?/10
  * Mark's  favorite lyric: '?'
  * Richel's rating: 8/10
