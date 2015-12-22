@@ -1,4 +1,4 @@
-# Kusjessoldaten
+# Kus Van De Juf
 
  * Category: ethics
  * Formation: [HMK](Hkm.md) (on the CD '1000 Luchtballonnen')
