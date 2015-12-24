@@ -9,5 +9,6 @@ An incomplete list:
  * [Heyah Mama](HeyahMama.md)
  * [Kuma He](KumaHe.md)
  * [Loko Le](LokoLe.md)
+ * [Rettettet](Rettettet.md)
  * [Ya Ya Yippee](YaYaYippee.md)
  * [Yippee Yippee](YippeeYippee.md)

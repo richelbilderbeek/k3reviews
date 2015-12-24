@@ -1,4 +1,4 @@
-# Iedereen is anders
+# Iedereen Is Anders
 
  * Category: ethics
  * CD: ?
