@@ -30,13 +30,14 @@ Here all all CD's, most recent at the top.
  * [03. Viva viool](Reviews/VivaViool.md)
  * [04. Kusje van jou](Reviews/KusjeVanJou.md)
  * [05. Drums gaan boem](Reviews/DrumsGaanBoem.md)
- * TODO: [06. En ik dans](Reviews/EnIkDans.md)
+ * [06. En ik dans](Reviews/EnIkDans.md)
  * [07. Alleen door jou](Reviews/AlleenDoorJou.md)
- * TODO: [08. Ik wil niet naar huis gaan](Reviews/IkWilNietNaarHuisGaan.md)
- * TODO: [09. Het steltenlied](Reviews/HetSteltenlied.md)
+ * [08. Ik wil niet naar huis gaan](Reviews/IkWilNietNaarHuisGaan.md)
+ * [09. Het steltenlied](Reviews/HetSteltenlied.md)
  * [10. Wat jij doet met mij](Reviews/WatJijDoetMetMij.md)
  * [11. Kitty](Reviews/Kitty.md)
  * TODO: [12. Kinderen baas](Reviews/KinderenBaas.md)
+ * TODO: [13. Koning Willem-Alexander](Reviews/KoningWillemAlexander.md)
 
 # Engeltjes
 # Eyo!
