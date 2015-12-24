@@ -1,6 +1,7 @@
 # Wat jij doet met mij
 
  * Category: love
+ * Formation: [KKJ](Kkj.md) (on the CD 'Loko Le')
  * Mark's rating: ?/10
  * Mark's  favorite lyric: '?'
  * Richel's rating: 6/10

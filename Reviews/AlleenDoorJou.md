@@ -1,6 +1,7 @@
 # Alleen Door Jou
 
  * Category: love, ethics
+ * Formation: [KKJ](Kkj.md) (on the CD 'Loko Le')
  * Mark's rating: ?/10
  * Mark's  favorite lyric: '?'
  * Richel's rating: 9/10

@@ -4,6 +4,8 @@ Reviews of all K3 songs by adult K3 fans.
 
 Here all all CD's, most recent at the top.
 
+# 10000 Luchtballonnen
+
 ![10000 Luchtballonnen](Reviews/10000Luchtballonnen.jpg)
 
  * [01. 10.000 Luchtballonnen](Reviews/10000Luchtballonnen.md)
@@ -18,6 +20,36 @@ Here all all CD's, most recent at the top.
  * [10. Do do do you love me](Reviews/DoDoDoYouLoveMe.md)
  * [11. Mami Bisou](Reviews/MamiBisou.md)
  * [12. Meisjesdag](Reviews/Meisjesdag.md)
+
+# Loko Le
+
+![Loko Le](Reviews/LokoLe.jpg)
+
+ * [01. Loko le](Reviews/LokoLe.md)
+ * [02. Eya hoya!](Reviews/EyaHoya.md)
+ * [03. Viva viool](Reviews/VivaViool.md)
+ * [04. Kusje van jou](Reviews/KusjeVanJou.md)
+ * [05. Drums gaan boem](Reviews/DrumsGaanBoem.md)
+ * TODO: [06. En ik dans](Reviews/EnIkDans.md)
+ * [07. Alleen door jou](Reviews/AlleenDoorJou.md)
+ * TODO: [08. Ik wil niet naar huis gaan](Reviews/IkWilNietNaarHuisGaan.md)
+ * TODO: [09. Het steltenlied](Reviews/HetSteltenlied.md)
+ * [10. Wat jij doet met mij](Reviews/WatJijDoetMetMij.md)
+ * [11. Kitty](Reviews/Kitty.md)
+ * TODO: [12. Kinderen baas](Reviews/KinderenBaas.md)
+
+# Engeltjes
+# Eyo!
+# Mamasé!
+# Kusjes
+# Ya ya yippee
+# Kuma he
+# Oya lélé
+# De wereld rond
+# Verliefd
+# Tele-Romeo 
+# Alle kleuren
+# Parels 2000
 
 Click any filename to view the reviews.
 

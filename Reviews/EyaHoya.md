@@ -1,6 +1,7 @@
 # Eya Hoya
 
  * Category: party
+ * Formation: [KKJ](Kkj.md) (on the CD 'Loko Le')
  * Mark's rating: 0/10
  * Mark's  favorite lyric: n.v.t.
  * Richel's rating: 1/10
