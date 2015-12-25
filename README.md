@@ -75,9 +75,9 @@ Here all all CD's, most recent at the top.
 
 # Mamasé!
 
-![Mamase](Reviews/Mamase.jpg)
+![MaMaSe](Reviews/Mamase.jpg)
 
- * [01. MaMaSe](Reviews/MaMaSe.md)v
+ * [01. MaMaSe](Reviews/MaMaSe.md)
  * [02. De politie](Reviews/DePolitie.md)
  * [03. Handjes draaien](Reviews/HandjesDraaien.md)
  * [04. Leukste van het land](Reviews/LeuksteVanHetLand.md)
