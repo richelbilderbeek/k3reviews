@@ -62,11 +62,11 @@ Here all all CD's, most recent at the top.
 
  * [01 - Eyo!](Reviews/Eyo.md)
  * [02 - Hallo K3](Reviews/HalloK3.md)
- * [03 - Willem-Alexander](Reviews/Willem-Alexander.md)
+ * [03 - Willem-Alexander](Reviews/WillemAlexander.md)
  * [04 - Smoorverliefd](Reviews/Smoorverliefd.md)
  * [05 - K3-Airlines](Reviews/K3Airlines.md)
  * [06 - Beroemd](Reviews/Beroemd.md)
- * [07 - Meiden van de brandweer](Reviews/Meiden van de brandweer.md)
+ * [07 - Meiden van de brandweer](Reviews/MeidenVanDeBrandweer.md)
  * [08 - Verstoppertje](Reviews/Verstoppertje.md)
  * [09 - Telepathie](Reviews/Telepathie.md)
  * [10 - Dubbeldekkertrein](Reviews/Dubbeldekkertrein.md)
