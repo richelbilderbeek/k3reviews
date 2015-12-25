@@ -1,6 +1,7 @@
 # Dubbeldekkertrein
 
  * Category: other
+ * Formation: [KKJ](Kkj.md) (on the CD 'Eyo')
  * Mark's rating: ?/10
  * Mark's favorite lyric: '?'
  * Richel's rating: 4/10

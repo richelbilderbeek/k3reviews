@@ -57,6 +57,23 @@ Here all all CD's, most recent at the top.
  * [12. Mijn liefje achterna](Reviews/MijnLiefjeAchterna.md)
 
 # Eyo!
+
+![Engeltje](Reviews/Eyo.jpg)
+
+ * [01 - Eyo!](Reviews/Eyo.md)
+ * [02 - Hallo K3](Reviews/HalloK3.md)
+ * [03 - Willem-Alexander](Reviews/Willem-Alexander.md)
+ * [04 - Smoorverliefd](Reviews/Smoorverliefd.md)
+ * [05 - K3-Airlines](Reviews/K3Airlines.md)
+ * [06 - Beroemd](Reviews/Beroemd.md)
+ * [07 - Meiden van de brandweer](Reviews/Meiden van de brandweer.md)
+ * [08 - Verstoppertje](Reviews/Verstoppertje.md)
+ * [09 - Telepathie](Reviews/Telepathie.md)
+ * [10 - Dubbeldekkertrein](Reviews/Dubbeldekkertrein.md)
+ * [11 - Bel me ringeling](Reviews/BelMeRingeling.md)
+ * [12 - Cowboys en indianen](Reviews/CowboysEnIndianen.md)
+
+
 # Mamasé!
 # Kusjes
 # Ya ya yippee

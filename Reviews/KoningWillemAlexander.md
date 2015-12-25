@@ -61,4 +61,4 @@ None yet.
 
 K3 congratulates Princess Maxima for her relationship with King Willem-Alexander
 
-A remake of [Prins Willem-Alexander](PrinsWillemAlexander.md) with less cool lyrics. But it still is a nice song.
+A remake of [Willem-Alexander](WillemAlexander.md) with less cool lyrics. But it still is a nice song.
