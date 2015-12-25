@@ -2,7 +2,7 @@
 
  * Category: party
  * Formations: 
-    * [KKK](Kkk.md) (on the CD 'Kuma He')
+    * [KKJ](Kkj.md) (on the CD 'MaMaSe')
     * [HMK](Hkm.md) (on the CD '1000 Luchtballonnen')
  * Mark's rating: ?/10
  * Mark's  favorite lyric: '?'

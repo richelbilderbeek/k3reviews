@@ -41,7 +41,7 @@ Here all all CD's, most recent at the top.
 
 # Engeltjes
 
-![Engeltje](Reviews/Engeltjes.jpg)
+![Engeltjes](Reviews/Engeltjes.jpg)
 
  * [01. Waar zijn die engeltjes](Reviews/WaarZijnDieEngeltjes.md)
  * [02. Zeg eens AAA](Reviews/ZegEensAaa.md)
@@ -58,7 +58,7 @@ Here all all CD's, most recent at the top.
 
 # Eyo!
 
-![Engeltje](Reviews/Eyo.jpg)
+![Eyo](Reviews/Eyo.jpg)
 
  * [01 - Eyo!](Reviews/Eyo.md)
  * [02 - Hallo K3](Reviews/HalloK3.md)
@@ -73,8 +73,23 @@ Here all all CD's, most recent at the top.
  * [11 - Bel me ringeling](Reviews/BelMeRingeling.md)
  * [12 - Cowboys en indianen](Reviews/CowboysEnIndianen.md)
 
-
 # Mamasé!
+
+![Mamase](Reviews/Mamase.jpg)
+
+ * [01. MaMaSe](Reviews/MaMaSe.md)v
+ * [02. De politie](Reviews/DePolitie.md)
+ * [03. Handjes draaien](Reviews/HandjesDraaien.md)
+ * [04. Leukste van het land](Reviews/LeuksteVanHetLand.md)
+ * [05. Lollypopland](Reviews/Lollypopland.md)
+ * [06. De revolutie](Reviews/DeRevolutie.md)
+ * [07. Hiep hiep hoera](Reviews/HiepHiepHoera.md)
+ * [08. Radio](Reviews/Radio.md)
+ * [09. Blankenberge](Reviews/Blankenberge.md)
+ * [10. Hey hey](Reviews/HeyHey.md)
+ * [11. Ster](Reviews/Ster.md)
+ * [12. Wanneer zie ik jou terug](Reviews/WanneerZieIkJouTerug.md)
+
 # Kusjes
 # Ya ya yippee
 # Kuma he
@@ -85,7 +100,7 @@ Here all all CD's, most recent at the top.
 # Alle kleuren
 # Parels 2000
 
-Click any filename to view the reviews.
+# Other things
 
  * Read the [FAQ](Faq.md)
  * Read [Richel's analysis](AnalysisRichel.md)
