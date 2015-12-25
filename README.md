@@ -36,8 +36,8 @@ Here all all CD's, most recent at the top.
  * [09. Het steltenlied](Reviews/HetSteltenlied.md)
  * [10. Wat jij doet met mij](Reviews/WatJijDoetMetMij.md)
  * [11. Kitty](Reviews/Kitty.md)
- * TODO: [12. Kinderen baas](Reviews/KinderenBaas.md)
- * TODO: [13. Koning Willem-Alexander](Reviews/KoningWillemAlexander.md)
+ * [12. Kinderen baas](Reviews/KinderenBaas.md)
+ * [13. Koning Willem-Alexander](Reviews/KoningWillemAlexander.md)
 
 # Engeltjes
 # Eyo!
