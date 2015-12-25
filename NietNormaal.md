@@ -1,6 +1,7 @@
 # Niet Normaal
 
  * Category: other
+ * Formation: [KKJ](Kkj.md) (on the CD 'Engeltjes')
  * Mark's rating: ?/10
  * Mark's favorite lyric: '?'
  * Richel's rating: 7/10
