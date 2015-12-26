@@ -91,6 +91,23 @@ Here all all CD's, most recent at the top.
  * [12. Wanneer zie ik jou terug](Reviews/WanneerZieIkJouTerug.md)
 
 # Kusjes
+
+![Kusjes](Reviews/Kusjes.jpg)
+
+ * [01. Kusjesdag](Reviews/Kusjesdag.md)
+ * [02. Je mama ziet je graag](Reviews/JeMamaZietJeGraag.md)
+ * [03. Billy Billy](Reviews/BillyBilly.md)
+ * [04. Sterren](Reviews/Sterren.md)
+ * [05. Jongen van mijn dromen](Reviews/JongenVanMijnDromen.md)
+ * [06. Ons huis](Reviews/OnsHuis.md)
+ * [07. Iedereen op de dansvloer](Reviews/IedereenOpDeDansvloer.md)
+ * [08. De wereld veranderen](Reviews/DeWereldVeranderen.md)
+ * [09. Sproetje](Reviews/Sproetje.md)
+ * [10. Prinses](Reviews/Prinses.md)
+ * [11. Vliegen als een vogel](Reviews/VliegenAlsEenVogel.md)
+ * [12. Ware liefde](Reviews/WareLiefde.md)
+
+
 # Ya ya yippee
 # Kuma he
 # Oya lélé

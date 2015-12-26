@@ -1,7 +1,7 @@
 # Je Mama Ziet Je Graag
 
  * Category: other
- * CD: Kusjes
+ * Formation: [KKK](Kkk.md) (on the CD 'Kusjes')
  * Formation: Karen, Kathleen, Kristel
  * Mark's rating: ?/10
  * Mark's  favorite lyric: '?'

@@ -1,7 +1,7 @@
 # De Wereld Veranderen
 
  * Category: 
- * Formation: Karen, Kathleen, Kristel
+ * Formation: [KKK](Kkk.md) (on the CD 'Kusjes')
  * Mark's rating: ?/10
  * Mark's  favorite lyric: '?'
  * Richel's rating: 6/10

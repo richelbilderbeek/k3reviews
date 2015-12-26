@@ -1,6 +1,7 @@
 # Billy Billy
 
  * Category: love
+ * Formation: [KKK](Kkk.md) (on the CD 'Kusjes')
  * Mark's rating: 5,6/10
  * Mark's favorite lyric: 'Nu zijn wij één week samen'
  * Richel's rating: 8/10

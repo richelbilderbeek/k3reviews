@@ -1,6 +1,7 @@
 # Ons Huis
 
  * Category: party
+ * Formation: [KKK](Kkk.md) (on the CD 'Kusjes')
  * Mark's rating: ?/10
  * Mark's  favorite lyric: '?'
  * Richel's rating: 5/10
