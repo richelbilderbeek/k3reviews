@@ -107,8 +107,22 @@ Here all all CD's, most recent at the top.
  * [11. Vliegen als een vogel](Reviews/VliegenAlsEenVogel.md)
  * [12. Ware liefde](Reviews/WareLiefde.md)
 
-
 # Ya ya yippee
+
+ * [01. Ya Ya Yippee](Reviews/YaYaYippee.md)
+ * [02. Dokter Dokter](Reviews/DokterDokter.md)
+ * [03. Trouwen](Reviews/Trouwen.md)
+ * [04. Zoo](Reviews/Zoo.md)
+ * [05. Eskimo](Reviews/Eskimo.md)
+ * [06. Sprookjesbos](Reviews/Sprookjesbos.md)
+ * [07. Bibliotheek](Reviews/Bibliotheek.md)
+ * [08. Feestje](Reviews/Feestje.md)
+ * [09. Op Televisie](Reviews/OpTelevisie.md)
+ * [10. Excuseer Me](Reviews/ExcuseerMe.md)
+ * [11. Vriendschap](Reviews/Vriendschap.md)
+ * [12. Eeny Meeny](Reviews/EenyMeeny.md)
+
+
 # Kuma he
 # Oya lélé
 # De wereld rond
