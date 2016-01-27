@@ -2,7 +2,7 @@
 
  * Category: love
  * Mark's rating: 7/10
- * Mark's  favorite lyric: 'none'
+ * Mark's  favorite lyric: none
  * Richel's rating: 8/10
  * Richel's favorite lyric: 'jij en ik, wij waren altijd een klasse apart'
 
