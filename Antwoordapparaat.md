@@ -1,8 +1,8 @@
 # Antwoordapparaat
 
  * Category: love
- * Mark's rating: ?/10
- * Mark's  favorite lyric: '?'
+ * Mark's rating: 7/10
+ * Mark's  favorite lyric: 'none'
  * Richel's rating: 8/10
  * Richel's favorite lyric: 'jij en ik, wij waren altijd een klasse apart'
 
@@ -52,7 +52,9 @@ En de deur gaat open, ik kan niet geloven dat je voor me staat
 
 ## Mark's review
 
-None yet.
+Ik vind dit een vermakelijk lied, maar het heeft verder niks bijzonders. Ik vind het wel OK.
+
+I think this is a pretty enjoyable song, but it doesn't have anything special. It's an OK song.
 
 ## Richel's review
 
