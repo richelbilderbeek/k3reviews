@@ -1,8 +1,8 @@
 # Babouchka
 
  * Category: other
- * Mark's rating: ?/10
- * Mark's favorite lyric: '?'
+ * Mark's rating: 7,5/10
+ * Mark's favorite lyric: 'Jij was mijn nummer één. Jij maakte mij altijd blij'
  * Richel's rating: 7/10
  * Richel's favorite lyric: none
 
@@ -72,7 +72,9 @@ babouchka jajaja
 
 ## Mark's review
 
-None yet.
+Dat "Babouchka" (of "Baboeška", бабушка) betekent "oma" in het Russisch, maar de meisjes spreken het verkeerd uit. Dat vind ik een minpunt. Verder vind ik het begin van dit lied heel leuk. Het moment waarop er opeens wild gezongen wordt vind ik ook een minpunt, maar desondanks geniet ik wel van dit lied.
+
+"Babouchka" (бабушка) means "grandmother" in Russian, but the girls in the song are pronouncing the letter 'Ш' wrong. That's a con. Furthermore, I really like song. The moment the quiet singing is abruptbly interrupted by sudden wild singing is a con as well: I don't like that. Despite of that, I enjoy listening to this song.
 
 ## Richel's review
 
