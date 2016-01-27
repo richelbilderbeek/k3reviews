@@ -74,7 +74,9 @@ I'll be true to me and you
 
 ## Mark's review
 
-None yet.
+Vrolijk liedje. Heel fijn om naar te luisteren. Dit vind ik een uitstekend nummer.
+
+Happy song. I really like to listen to it. I think it sounds excellent. Превосходно!
 
 ## Richel's review
 
