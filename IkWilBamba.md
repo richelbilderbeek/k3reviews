@@ -1,8 +1,8 @@
 # Ik Wil Bamba
 
  * Category: love
- * Mark's rating: ?/10
- * Mark's favorite lyric: '?'
+ * Mark's rating: 1/10
+ * Mark's favorite lyric: 'none'
  * Richel's rating: 7/10
  * Richel's favorite lyric: 'ze is mooi en blond'
 
@@ -62,7 +62,9 @@ Niemand die me tegenhoudt vandaag
 
 ## Mark's review
 
-None yet.
+Dit lied is vergelijkbaar met koeienschijt.
+
+This song is pure shit.
 
 ## Richel's review
 
