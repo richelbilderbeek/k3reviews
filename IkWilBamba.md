@@ -2,7 +2,7 @@
 
  * Category: love
  * Mark's rating: 1/10
- * Mark's favorite lyric: 'none'
+ * Mark's favorite lyric: none
  * Richel's rating: 7/10
  * Richel's favorite lyric: 'ze is mooi en blond'
 
