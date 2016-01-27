@@ -2,8 +2,8 @@
 
  * Category: love
  * Formation: Karen, Kathleen, Kristel
- * Mark's rating: ?/10
- * Mark's  favorite lyric: '?'
+ * Mark's rating: 8,5/10
+ * Mark's  favorite lyric: 'Tranan van geluk, zoveel liefde kan niet stuk'
  * Richel's rating: 7/10
  * Richel's favorite lyric: 'Regen maakt geen kans, als ik tussen druppels dans'
 
