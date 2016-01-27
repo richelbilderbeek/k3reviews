@@ -1,8 +1,8 @@
 # K3 Airlines
 
  * Category: other
- * Mark's rating: ?/10
- * Mark's  favorite lyric: '?'
+ * Mark's rating: 7/10
+ * Mark's  favorite lyric: 'Van Tahiti tot in Borneo, ik bouw een vliegtuig dat heel de wereld rond gaat'
  * Richel's rating: 8/10
  * Richel's  favorite lyric: 'en je mag ons met een zoen betalen'
 
@@ -66,7 +66,9 @@ ik laat alle kleurtjes samen zingen
 
 ## Mark's review
 
-None yet.
+Dit liedje vind ik wel leuk klinken. Het is niet een van mijn favorieten, maar als het speelt, beluister ik hem tot het einde. Een 7.
+
+This song sounds pretty good. It's not one of my favourites, but once it's playing, I don't skip it. 7 out of 10.
 
 ## Richel's review
 
