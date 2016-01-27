@@ -45,6 +45,8 @@ Toe help me, help me S.O.S.
 
 Ik vind dit een amusant lied. Ik hou van de melodie, de zang en de zangtekst.
 
+I find this an amusing song. I love the melody, the singing and the lyrics.
+
 ## Richel's review
 
 In this song, K3 sing about falling in love and asking him for help. The
