@@ -28,3 +28,12 @@ n_reviews <- nrow(df)
 ```
 
 There are `r n_reviews` reviews.
+
+Here we see the distribution of grades given:
+
+```{r}
+ggplot2::ggplot(
+  data = df, ggplot2::aes(df$grade)
+) + ggplot2::geom_histogram(binwidth = 1)
+
+```

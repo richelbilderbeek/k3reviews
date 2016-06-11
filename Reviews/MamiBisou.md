@@ -4,7 +4,7 @@
  * Formation: [HMK](Hkm.md) (on the CD '1000 Luchtballonnen')
  * Mark's rating: ?/10
  * Mark's  favorite lyric: '?'
- * Richel's rating: 6/10
+ * Richel's rating: 5/10
  * Richel's  favorite lyric: 'Jij maakt al mijn dromen waar'
 
 ```

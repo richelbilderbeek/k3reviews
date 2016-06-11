@@ -4,8 +4,8 @@
  * Formation: [HMK](Hkm.md) (on the CD '1000 Luchtballonnen')
  * Mark's rating: ?/10
  * Mark's  favorite lyric: '?'
- * Richel's rating: ?/10
- * Richel's  favorite lyric: ''
+ * Richel's rating: 7/10
+ * Richel's  favorite lyric: 'Dit is wat ied'reen wil'
 
 ```
 Vakantie aan het strand
@@ -17,7 +17,7 @@ Zal ik hem ooit nog tegenkomen?
 Een film in open lucht [1]
 Hij draait zich om en zucht:
 "De grootste ster dat ben jij!"
-Kreeg jij al ooit enss zo een aanzoek?
+Kreeg jij al ooit eens zo een aanzoek?
 Hij vraagt met net als op dat doek:
 
 [CHORUS]
