@@ -57,7 +57,7 @@ In this song, K3 describes a fictional country called Ushuaia.
 Usually, the first single to introduce a K3 CD has a nonsensical title, like
 [Eyo](Eyo.md), [Heyah Mama](HeyahMama.md), [Kuma He](KumaHe.md), [Loko Le](LokoLe.md),
 [MaMaSe](MaMaSe.md) and [Ya Ya Yippee](YaYaYippee.md). This song its title, however, is named
-after a city in South-Argentina (note that this chity has a tundra climate, instead of tropical climate,
+after a city in South-Argentina (note that this city has a tundra climate, instead of tropical climate,
 as suggested in the video clip). The title does have the highest density of the vowel `u` in K3 song titles.
 
 The imagination of 'perfect' countries is not new to their ouvre, 
