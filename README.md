@@ -6,7 +6,7 @@ Here all all CD's, most recent at the top.
 
 # Next CD
 
- * Ushuaia](Reviews/Ushuaia.md)
+ * [Ushuaia](Reviews/Ushuaia.md)
 
 # 10000 Luchtballonnen
 
