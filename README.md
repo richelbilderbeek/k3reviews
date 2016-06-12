@@ -4,6 +4,10 @@ Reviews of all K3 songs by adult K3 fans.
 
 Here all all CD's, most recent at the top.
 
+# Next CD
+
+ * Ushuaia](Reviews/Ushuaia.md)
+
 # 10000 Luchtballonnen
 
 ![10000 Luchtballonnen](Reviews/10000Luchtballonnen.jpg)
