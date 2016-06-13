@@ -156,5 +156,5 @@ Here all all CD's, most recent at the top.
 
 # Other things
 
- * Read the [FAQ](Faq.md)
- * Read [Richel's analysis](AnalysisRichel.md)
+ * Read the [Reviews/FAQ](Faq.md)
+ * Read [Richel's analysis](Reviews/AnalysisRichel.md)
