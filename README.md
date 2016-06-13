@@ -2,6 +2,8 @@
 
 Reviews of all K3 songs by adult K3 fans.
 
+This repository is evolving towards an R package, to do a more thorough analysis.
+
 Here all all CD's, most recent at the top.
 
 # Next CD
