@@ -2,10 +2,10 @@
 
  * Category: party
  * Formation: [KKJ](Kkj.md) (on the CD 'Eyo')
- * Mark's rating: ?/10
- * Mark's favorite lyric: '?'
+ * Mark's rating: 7/10
+ * Mark's  favorite lyric: 'Van Tahiti tot in Borneo, ik bouw een vliegtuig dat heel de wereld rond gaat'
  * Richel's rating: 8/10
- * Richel's favorite lyric: 'Ik bouw een vliegtuig '
+ * Richel's  favorite lyric: 'en je mag ons met een zoen betalen'
 
 ```
 Kom aan boord kom aan boord
@@ -57,7 +57,7 @@ Kom aan boord, kom aan boord
 
 [CHORUS]
 
-We vlechten vlechtjes in elkaars haar
+We vlechten vlechtjes in elkaars haar [4]
 We zitten elk om beurt aan het stuur
 Wie gaat er mee we gaan weer op avontuur
 
@@ -73,9 +73,19 @@ Ik laat alle kleurtjes samen zingen
 
 ## Mark's review
 
-None yet.
+Dit liedje vind ik wel leuk klinken. Het is niet een van mijn favorieten, maar als het speelt, beluister ik hem tot het einde. Een 7.
 
-## Richel's review
+This song sounds pretty good. It's not one of my favourites, but once it's playing, I don't skip it. 7 out of 10.
+
+## Richel's review #1
+
+This song is about a fictional airline company that takes people around the globe, for the price of a kiss.
+
+I enjoy the melody and the lyrics better than I can rationalize. When I listen to the lyrics in more detail, 
+I see a, in my humble opinion, useless reference to racism [3], and doing girly things [4] where I cannot identify myself with.
+I hope K3 Airlines will pick me up one day, so I can pay each of the girl with a kiss.
+
+## Richel's review  #2
 
 In this song, K3 describes taking everybody around the world by a self-made plane and enjoying it.
 

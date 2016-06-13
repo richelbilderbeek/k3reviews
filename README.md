@@ -148,11 +148,142 @@ Here all all CD's, most recent at the top.
  * [12 - Vrij](Reviews/Vrij.md)
 
 # Oya lélé
+
+ * TODO [01 - De Wereld Van K3](Reviews/DeWereldVanK3.md)
+ * [02 - Oya Lélé](Reviews/OyaLele.md)
+ * TODO [03 - Frans Liedje](Reviews/FransLiedje.md)
+ * [04 - Bij Ons Thuis](Reviews/BijOnsThuis.md)
+ * TODO [05 - Opa](Reviews/Opa.md)
+ * TODO [06 - Hart Verloren](Reviews/HartVerloren.md)
+ * TODO [07 - Hey Hallo](Reviews/HeyHallo.md)
+ * TODO [08 - Torenhoog](Reviews/Torenhoog.md)
+ * TODO [09 - Mr. De President](Reviews/MrDePresident.md)
+ * TODO [10 - Dat Ding Dat Je Doet](Reviews/DatDingDatJeDoet.md)
+ * TODO [11 - Ik Kan Niet Meer Verder Zonder Jou](Reviews/IkKanNietMeerVerderZonderJou.md)
+ * TODO [12 - Hou Me In Je Armen](Reviews/HouMeInJeArmen.md)
+ * TODO [13 - De 3 Biggetjes](Reviews/DeDrieBiggetjes.md)
+
 # De wereld rond
+
+ * [01 - Liefdeskapitein](Reviews/Liefdeskapitein.md)
+ * [02 - Een Ongelooflijk Idee](Reviews/EenOngelooflijkIdee.md)
+ * [03 - Dat Ik Van Je Hou](Reviews/DatIkVanJeHou.md)
+ * [04 - Wij Blijven Vrienden](Reviews/WijBlijvenVrienden.md)
+ * [05 - Zou Er Iemand Zijn Op Mars](Reviews/ZouErIemandZijnOpMars.md)
+ * [06 - Fiesta De Amor](Reviews/FiestaDeAmor.md)
+ * [07 - Hakuna Matata](Reviews/HakunaMatata.md)
+ * [08 - Rokjes](Reviews/Rokjes.md)
+ * [09 - (Ik Wil) Bamba](Reviews/IkWilBamba.md)
+ * [10 - Alle Chinezen](Reviews/AlleChinezen.md)
+ * [11 - Fiets](Reviews/Fiets.md)
+ * [12 - Babouchka](Reviews/Babouchka.md)
+ * [13 - Superhero](Reviews/Superhero.md)
+
 # Verliefd
+
+ * TODO [01 - Feest](Reviews/Feest.md)
+ * TODO [02 - Papapa](Reviews/Papapa.md)
+ * TODO [03 - SMS](Reviews/Sms.md) 	
+ * [04 - Verliefd](Reviews/Verliefd.md)
+ * TODO [05 - Hollywood](Reviews/Hollywood.md)
+ * TODO [06 - Samen feesten](Reviews/SamenFeesten.md)
+ * TODO [07 - Als het regent](Reviews/AlsHetRegent.md)
+ * TODO [08 - Noodkreet](Reviews/Noodkreet.md)
+ * TODO [09 - Beautiful Boy](Reviews/BeautifulBoy.md)
+ * TODO [10 - Je doet maar wat](Reviews/JeDoetMaarWat.md)
+ * TODO [11 - Letter V](Reviews/LetterV.md)
+ * TODO [12 - Happy Birthday](Reviews/HappyBirthday.md)
+ * TODO [13 - Eeuwig en altijd](Reviews/EeuwigEnAltijd.md)
+
 # Tele-Romeo 
+
+ * [01 - Tele-Romeo](Reviews/TeleRomeo.md)
+ * TODO [02 - Mama's en papa's](Reviews/MamasEnPapas.md)
+ * [03 - Keileuke zomer](Reviews/KeileukeZomer.md)
+ * TODO [04 - Ali Baba](Reviews/AliBaba.md)
+ * [05 - Blijven staan](Reviews/BlijvenStaan.md)
+ * TODO [06 - Je hebt een vriend](Reviews/JeHebtEenVriend.md)
+ * [07 - Baby Come Back](Reviews/BabyComeBack.md)
+ * TODO [08 - Chacha loco](Reviews/ChachaLoco.md)
+ * TODO [09 - Hand in hand](Reviews/HandInHand.md)
+ * TODO [10 - Jupiter](Reviews/Jupiter.md)
+ * TODO [11 - Honingbeer](Reviews/Honingbeer.md)
+ * [12 - Iedereen is anders](Reviews/IedereenIsAnders.md)
+ * TODO [13 - Blub, ik ben een vis](Reviews/BlubIkBenEenVis.md)
+
 # Alle kleuren
+
+ * [01 - Alle kleuren](Reviews/AlleKleuren.md)
+ * [02 - Hippie shake](Reviews/HippieShake.md)
+ * [03 - Yippee yippee](Reviews/YippeeYippee.md)
+ * [04 - Leonardo](Reviews/Leonardo.md)
+ * [05 - Oma's aan de top](Reviews/OmasAanDeTop.md)
+ * [06 - 1, 2, doe met me mee](Reviews/12DoeMetMeMee.md)
+ * [07 - Miljoen](Reviews/Miljoen.md)
+ * [08 - Laat de wind maar waaien](Reviews/LaatDeWindMaarWaaien.md)
+ * [09 - Om te dromen](Reviews/OmTeDromen.md)
+ * [10 - Ik schreeuw het van de daken](Reviews/IkSchreeuwHetVanDeDaken.md)
+ * [11 - Jongens zijn gek](Reviews/JongensZijnGek.md)
+ * [12 - Doe maar](Reviews/DoeMaar.md)
+
+CD 2:
+
+ * [01 - Ster aan de hemel](Reviews/SterAanDeHemel.md)
+ * [02 - Stapelgek](Reviews/Stapelgek.md)
+
+
 # Parels 2000
+
+ * TODO [01 - Yeke Yeke](Reviews/YekeYeke.md)
+ * [02 - Wat ik wil](Reviews/WatIkWil.md)
+ * [03 - Heyah mama](Reviews/HeyahMama.md)
+ * TODO [04 - Op elkaar](Reviews/OpElkaar.md)
+ * TODO [05 - Parels](Reviews/Parels.md)
+ * TODO [06 - I Love You Baby](Reviews/IloveYouBaby.md)
+ * TODO [07 - Ik kom tot leven](Reviews/IkKomTotLeven.md)
+ * TODO [08 - Altijd van je dromen](Reviews/AltijdVanJeDromen.md)
+ * [09 - Geen tweede keer](Reviews/GeenTweedeKeer.md)
+ * TODO [10 - Zonder jou](Reviews/ZonderJou.md)
+ * TODO [11 - Oh ja](Reviews/OhJa.md)
+
+# Others
+
+# Alice in Wonderland
+
+Part 1
+
+ * [Naar de film](Reviews/NaarDeFilm.md)
+ * [Filmster](Reviews/Filmster.md)
+ * [Te laat](Reviews/TeLaat.md)
+ * [Alles kan in wonderland](Reviews/AllesKanInWonderland.md)
+ * [Onder water](Reviews/OnderWater.md)
+ * [Op de kermis](Reviews/OpDeKermis.md)
+ * [K3-pap](Reviews/K3Pap.md)
+ * [Wat een feest](Reviews/WatEenFeest.md)
+ * [Niet-verjaardagsfeest](Reviews/NietVerjaardagsfeest.md)
+
+Part 2
+
+ * [Alice in Wonderland](Reviews/AliceInWonderland.md)
+ * [De allermooiste vlinder](Reviews/DeAllermooisteVlinder.md)
+ * [Hartenkoning-in](Reviews/Hartenkoning-in.md)
+ * [Doe de bloemendans](Reviews/DoeDeBloemendans.md)
+ * TODO [De kop eraf!](Reviews/DeKopEraf.md)
+ * [Ik wil naar huis](Reviews/IkWilNaarHuis.md)
+ * [Geloof in jezelf](Reviews/GeloofInJezelf.md)
+
+# Toveren
+
+ * [Toveren](Reviews/Toveren.md)
+
+# K3 en het ijsprinsesje
+
+ * TODO [Trouwen](Reviews/Trouwen.md)
+ * TODO [Etiquetterap](Reviews/Etiquetterap.md)
+ * TODO [Cake met chocolade](Reviews/CakeMetChocolade.md)
+ * TODO [Meisje in de Spiegel](Reviews/MeisjeInDeSpiegel.md)
+ * TODO [Betoverd](Reviews/Betoverd.md)
+
 
 # Other things
 
