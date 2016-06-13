@@ -132,7 +132,7 @@ Here all all CD's, most recent at the top.
 
 # Kuma he
 
-![Kusjes](Reviews/KumaHe.jpg)
+![KumaHe](Reviews/KumaHe.jpg)
 
  * [01 - Kuma he](Reviews/KumaHe.md)
  * [02 - Borst vooruit](Reviews/BorstVooruit.md)
