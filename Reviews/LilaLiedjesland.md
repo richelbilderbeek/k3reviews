@@ -57,4 +57,7 @@ None yet.
 
 In this song, K3 sings about a fictional music country where everybody is welcome.
 
-A rather common theme, I'd say (e.g. [Alle Kleuren](AlleKleuren.md), [De Wereld Veranderen](DeWereldVeranderen.md), [Iedereen Is Anders](IedereenIsAnders.md)) with no originality added. Plain dull.
+A rather common theme, I'd say (e.g. [Alle Kleuren](AlleKleuren.md), 
+[De Wereld Veranderen](DeWereldVeranderen.md), [Iedereen Is Anders](IedereenIsAnders.md)) 
+with no originality added. 
+Plain dull.
