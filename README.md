@@ -198,7 +198,7 @@ Here all all CD's, most recent at the top.
 # Tele-Romeo 
 
  * [01 - Tele-Romeo](Reviews/TeleRomeo.md)
- * TODO [02 - Mama's en papa's](Reviews/MamasEnPapas.md)
+ * WIP [02 - Mama's en papa's](Reviews/MamasEnPapas.md)
  * [03 - Keileuke zomer](Reviews/KeileukeZomer.md)
  * TODO [04 - Ali Baba](Reviews/AliBaba.md)
  * [05 - Blijven staan](Reviews/BlijvenStaan.md)
