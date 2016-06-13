@@ -109,6 +109,8 @@ Here all all CD's, most recent at the top.
 
 # Ya ya yippee
 
+![Kusjes](Reviews/YaYaYippee.jpg)
+
  * [01. Ya Ya Yippee](Reviews/YaYaYippee.md)
  * [02. Dokter Dokter](Reviews/DokterDokter.md)
  * [03. Trouwen](Reviews/Trouwen.md)
@@ -123,6 +125,22 @@ Here all all CD's, most recent at the top.
  * [12. Eeny Meeny](Reviews/EenyMeeny.md)
 
 # Kuma he
+
+![Kusjes](Reviews/KumaHe.jpg)
+
+ * [01 - Kuma he](Reviews/KumaHe.md)
+ * [02 - Borst vooruit](Reviews/BorstVooruit.md)
+ * [03 - Shakalaka](Reviews/Shakalaka.md)
+ * [04 - Antwoordapparaat](Reviews/Antwoordapparaat.md)
+ * [05 - Alle baby's](Reviews/AlleBabys.md)
+ * [06 - Zonnestraaltje](Reviews/Zonnestraaltje.md)
+ * [07 - Eerste kus](Reviews/EersteKus.md)
+ * [08 - Lawine](Reviews/Lawine.md)
+ * [09 - Duizend deuren](Reviews/DuizendDeuren.md)
+ * [10 - Superformidastisch](Reviews/Superformidastisch.md)
+ * [11 - Puppy love](Reviews/PuppyLove.md)
+ * [12 - Vrij](Reviews/Vrij.md)
+
 # Oya lélé
 # De wereld rond
 # Verliefd
