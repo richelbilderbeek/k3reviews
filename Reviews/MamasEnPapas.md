@@ -5,8 +5,8 @@
     * [KKK](Kkk.md) (on the CD 'Teleromeo')
  * Mark's rating: ?/10
  * Mark's  favorite lyric: '?'
- * Richel's rating: ?/10
- * Richel's favorite lyric: ''
+ * Richel's rating: 7.5/10
+ * Richel's favorite lyric: 'Altijd maar studeren, kruipt af en toe in je kleren'
 
 ```
 Droom jij ook van een vakantie die wat langer duurt?
@@ -50,3 +50,15 @@ None yet.
 
 ## Richel's review
 
+In this song, K3 describes the drawbacks of going to school and proposing a tongue-in-cheek solution.
+
+The theme is very identical to [Radio](Radio.md), in which another way to have more holidays is proposed.
+
+I have mixed feelings about the song: I think K3 does think education is important.
+Therefore I suggest it would be more fitting that they would
+stimulate children to go to school, and offering solutions to make it (even) more fun. 
+
+On the other hand, on could argue that this song is just a gag that should be taken light-hearted.
+
+In any case, I enjoy the lyrics and melody enough to keep it in my playlist, although
+it isn't among my favorites.
