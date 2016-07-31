@@ -149,19 +149,19 @@ Here all all CD's, most recent at the top.
 
 # Oya lélé
 
- * TODO [01 - De Wereld Van K3](Reviews/DeWereldVanK3.md)
+ * [01 - De Wereld Van K3](Reviews/DeWereldVanK3.md)
  * [02 - Oya Lélé](Reviews/OyaLele.md)
- * TODO [03 - Frans Liedje](Reviews/FransLiedje.md)
+ * [03 - Frans Liedje](Reviews/FransLiedje.md)
  * [04 - Bij Ons Thuis](Reviews/BijOnsThuis.md)
- * TODO [05 - Opa](Reviews/Opa.md)
- * TODO [06 - Hart Verloren](Reviews/HartVerloren.md)
- * TODO [07 - Hey Hallo](Reviews/HeyHallo.md)
- * TODO [08 - Torenhoog](Reviews/Torenhoog.md)
- * TODO [09 - Mr. De President](Reviews/MrDePresident.md)
- * TODO [10 - Dat Ding Dat Je Doet](Reviews/DatDingDatJeDoet.md)
- * TODO [11 - Ik Kan Niet Meer Verder Zonder Jou](Reviews/IkKanNietMeerVerderZonderJou.md)
- * TODO [12 - Hou Me In Je Armen](Reviews/HouMeInJeArmen.md)
- * TODO [13 - De 3 Biggetjes](Reviews/DeDrieBiggetjes.md)
+ * [05 - Opa](Reviews/Opa.md)
+ * [06 - Hart Verloren](Reviews/HartVerloren.md)
+ * [07 - Hey Hallo](Reviews/HeyHallo.md)
+ * [08 - Torenhoog](Reviews/Torenhoog.md)
+ * [09 - Mr. De President](Reviews/MrDePresident.md)
+ * [10 - Dat Ding Dat Je Doet](Reviews/DatDingDatJeDoet.md)
+ * [11 - Ik Kan Niet Meer Verder Zonder Jou](Reviews/IkKanNietMeerVerderZonderJou.md)
+ * [12 - Hou Me In Je Armen](Reviews/HouMeInJeArmen.md)
+ * [13 - De 3 Biggetjes](Reviews/DeDrieBiggetjes.md)
 
 # De wereld rond
 

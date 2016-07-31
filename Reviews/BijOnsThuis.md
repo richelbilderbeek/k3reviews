@@ -1,6 +1,7 @@
 # Bij Ons Thuis
 
  * Category: party
+ * Formation: [KKK](Kkk.md)
  * Mark's rating: ?/10
  * Mark's  favorite lyric: '?'
  * Richel's rating: 1/10
