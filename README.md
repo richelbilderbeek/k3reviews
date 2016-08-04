@@ -183,9 +183,9 @@ Here all all CD's, most recent at the top.
 
  * [01 - Feest](Reviews/Feest.md)
  * [02 - Papapa](Reviews/Papapa.md)
- * TODO [03 - SMS](Reviews/Sms.md) 	
+ * [03 - SMS](Reviews/Sms.md) 	
  * [04 - Verliefd](Reviews/Verliefd.md)
- * TODO [05 - Hollywood](Reviews/Hollywood.md)
+ * [05 - Hollywood](Reviews/Hollywood.md)
  * TODO [06 - Samen feesten](Reviews/SamenFeesten.md)
  * TODO [07 - Als het regent](Reviews/AlsHetRegent.md)
  * TODO [08 - Noodkreet](Reviews/Noodkreet.md)
