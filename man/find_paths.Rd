@@ -16,7 +16,7 @@ the full path of the filenames if an existing file could be found, stops otherwi
 Finds the full path of files
 }
 \examples{
-  filenames <- Cer2016::find_paths(c("HeyahMama.md", "Verliefd.md"))
+  filenames <- find_paths(c("HeyahMama.md", "Verliefd.md"))
   testit::assert(file.exists(filenames[1]))
   testit::assert(file.exists(filenames[2]))
 }

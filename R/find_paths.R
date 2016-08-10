@@ -27,7 +27,7 @@ find_path <- function(filename) {
 #' @param filenames the names of files
 #' @return the full path of the filenames if an existing file could be found, stops otherwise
 #' @examples
-#'   filenames <- Cer2016::find_paths(c("HeyahMama.md", "Verliefd.md"))
+#'   filenames <- find_paths(c("HeyahMama.md", "Verliefd.md"))
 #'   testit::assert(file.exists(filenames[1]))
 #'   testit::assert(file.exists(filenames[2]))
 #' @author Richel Bilderbeek

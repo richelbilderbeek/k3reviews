@@ -1,15 +1,22 @@
 Package: K3Reviews
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Contains and analyses all K3 lyrics
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
-License: What license is it under?
+Author: Richel Bilderbeek <richel@richelbilderbeek.nl>
+Maintainer: Richel Bilderbeek <richel@richelbilderbeek.nl>
+Description:
+  K3 is one of the most important Dutch/Flemish bands.
+  This packages contains all their lyrics.
+  Next to this, this package analyses these lyrics,
+  to better understand the K3 philosophy.
+License: file LICENSE
 LazyData: TRUE
 Suggests:
+    ggplot2,
     knitr,
     rmarkdown,
     testthat
 VignetteBuilder: knitr
 RoxygenNote: 5.0.1
+URL: https://github.com/richelbilderbeek/K3Reviews
+BugReports: https://github.com/richelbilderbeek/K3Reviews/issues
