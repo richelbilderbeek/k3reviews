@@ -113,9 +113,9 @@ Here all all CD's, most recent at the top.
  * [11. Vliegen als een vogel](Reviews/VliegenAlsEenVogel.md)
  * [12. Ware liefde](Reviews/WareLiefde.md)
 
-# Ya ya yippee
+# Ya Ya Yippee
 
-![Kusjes](Reviews/YaYaYippee.jpg)
+![Ya Ya Yippee](Reviews/YaYaYippee.jpg)
 
  * [01. Ya Ya Yippee](Reviews/YaYaYippee.md)
  * [02. Dokter Dokter](Reviews/DokterDokter.md)
@@ -132,7 +132,7 @@ Here all all CD's, most recent at the top.
 
 # Kuma he
 
-![KumaHe](Reviews/KumaHe.jpg)
+![Kuma He](Reviews/KumaHe.jpg)
 
  * [01 - Kuma he](Reviews/KumaHe.md)
  * [02 - Borst vooruit](Reviews/BorstVooruit.md)
@@ -149,6 +149,8 @@ Here all all CD's, most recent at the top.
 
 # Oya lélé
 
+![Oya Lele](Reviews/OyaLele.jpg)
+
  * [01 - De Wereld Van K3](Reviews/DeWereldVanK3.md)
  * [02 - Oya Lélé](Reviews/OyaLele.md)
  * [03 - Frans Liedje](Reviews/FransLiedje.md)
@@ -163,7 +165,9 @@ Here all all CD's, most recent at the top.
  * [12 - Hou Me In Je Armen](Reviews/HouMeInJeArmen.md)
  * [13 - De 3 Biggetjes](Reviews/DeDrieBiggetjes.md)
 
-# De wereld rond
+# De Wereld Rond
+
+![De Wereld Rond](Reviews/DeWereldRond.jpg)
 
  * [01 - Liefdeskapitein](Reviews/Liefdeskapitein.md)
  * [02 - Een Ongelooflijk Idee](Reviews/EenOngelooflijkIdee.md)
@@ -181,6 +185,8 @@ Here all all CD's, most recent at the top.
 
 # Verliefd
 
+![Verliefd](Reviews/Verliefd.jpg)
+
  * [01 - Feest](Reviews/Feest.md)
  * [02 - Papapa](Reviews/Papapa.md)
  * [03 - SMS](Reviews/Sms.md) 	
@@ -190,10 +196,10 @@ Here all all CD's, most recent at the top.
  * [07 - Als het regent](Reviews/AlsHetRegent.md)
  * [08 - Noodkreet](Reviews/Noodkreet.md)
  * [09 - Beautiful Boy](Reviews/BeautifulBoy.md)
- * TODO [10 - Je doet maar wat](Reviews/JeDoetMaarWat.md)
- * TODO [11 - Letter V](Reviews/LetterV.md)
- * TODO [12 - Happy Birthday](Reviews/HappyBirthday.md)
- * TODO [13 - Eeuwig en altijd](Reviews/EeuwigEnAltijd.md)
+ * [10 - Je doet maar wat](Reviews/JeDoetMaarWat.md)
+ * [11 - Letter V](Reviews/LetterV.md)
+ * [12 - Happy Birthday](Reviews/HappyBirthday.md)
+ * [13 - Eeuwig en altijd](Reviews/EeuwigEnAltijd.md)
 
 # Tele-Romeo 
 
