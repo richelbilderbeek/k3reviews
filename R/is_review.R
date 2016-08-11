@@ -4,16 +4,15 @@
 #' @export
 #' @author Richel Bilderbeek
 is_review <- function(filename) {
-  path <- NA
 
   tryCatch(
-    path <- find_path(filename),
+    find_path(filename),
     error = function(msg) {
       stop(msg)
     }
   )
   if (tools::file_ext(filename) != "md") {
-    return (FALSE)
+    return(FALSE)
   }
-  return (TRUE)
+  return(TRUE)
 }

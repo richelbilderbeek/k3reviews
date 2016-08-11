@@ -6,7 +6,7 @@
 #' @author Richel Bilderbeek
 #' @export
 collect_files <- function() {
-  filename <- find_path("HeyahMama.md")
+  filename <- K3Reviews::find_path("HeyahMama.md")
   folder_name <- dirname(filename)
   return (list.files(path = folder_name))
 }

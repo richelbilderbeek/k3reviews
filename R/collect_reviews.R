@@ -8,6 +8,6 @@
 #' @export
 collect_reviews <- function() {
 
-  filenames <- collect_files()
-  return (filenames[are_reviews(filenames) ])
+  filenames <- K3Reviews::collect_files()
+  return(filenames[ K3Reviews::are_reviews(filenames) ])
 }
