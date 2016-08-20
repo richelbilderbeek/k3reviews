@@ -208,13 +208,13 @@ Here all all CD's, most recent at the top.
 # Tele-Romeo 
 
  * [01 - Tele-Romeo](inst/extdata/TeleRomeo.md)
- * WIP [02 - Mama's en papa's](inst/extdata/MamasEnPapas.md)
+ * [02 - Mama's en papa's](inst/extdata/MamasEnPapas.md)
  * [03 - Keileuke zomer](inst/extdata/KeileukeZomer.md)
- * TODO [04 - Ali Baba](inst/extdata/AliBaba.md)
+ * [04 - Ali Baba](inst/extdata/AliBaba.md)
  * [05 - Blijven staan](inst/extdata/BlijvenStaan.md)
- * TODO [06 - Je hebt een vriend](inst/extdata/JeHebtEenVriend.md)
+ * [06 - Je hebt een vriend](inst/extdata/JeHebtEenVriend.md)
  * [07 - Baby Come Back](inst/extdata/BabyComeBack.md)
- * TODO [08 - Chacha loco](inst/extdata/ChachaLoco.md)
+ * [08 - Chacha loco](inst/extdata/ChachaLoco.md)
  * TODO [09 - Hand in hand](inst/extdata/HandInHand.md)
  * TODO [10 - Jupiter](inst/extdata/Jupiter.md)
  * TODO [11 - Honingbeer](inst/extdata/Honingbeer.md)
