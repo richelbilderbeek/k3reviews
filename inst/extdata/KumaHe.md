@@ -42,7 +42,7 @@ Boem, plots maakt m'n hart geen kans
 een brand die nooit meer wordt geblust
 
 Ik zie jou en jij ziet mij 
-en zo begint een mooi verhaal..
+en zo begint een mooi verhaal
 Neem me mee en hou van mij 
 dan fluister ik je toe in een gloednieuwe taal
 

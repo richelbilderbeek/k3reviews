@@ -11,7 +11,7 @@
 Ja, ja, jajaja [1]
 Iedereen begint te swingen
 We zetten elke danstent
-Op z'n kop
+Op zijn kop
 
 Ja, ja, jajaja
 Iedereen begint te zingen

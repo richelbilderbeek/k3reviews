@@ -10,7 +10,7 @@
 
 ```
 [VERSE]
-'k zag een foto van jou op het internet
+Ik zag een foto van jou op het internet
 vind ik leuk, vind ik leuk, vind ik leuk leuk leuk [1]
 Je was niet gaan slapen of kwam net uit bed
 vind ik leuk, vind ik leuk, vind ik leuk leuk leuk

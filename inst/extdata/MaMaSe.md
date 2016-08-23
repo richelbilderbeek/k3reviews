@@ -10,7 +10,7 @@
 
 ```
 Wie doet er mee
-'k Heb een reuze idee
+Ik heb een reuze idee
 Een muziek-regenboog
 Die de wereld doet zingen
 
@@ -22,7 +22,7 @@ We gaan dansen en springen
 Niets is ooit zo mooi geweest
 Ayaya yé-é
 Ayaya yo-o
-Van wie hou jij 't allermeest
+Van wie hou jij het allermeest
 Overal waar de meisjes zijn is het feest! 
 
 [CHORUS]

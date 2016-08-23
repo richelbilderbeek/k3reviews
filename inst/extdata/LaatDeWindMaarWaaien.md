@@ -13,7 +13,7 @@ Hier is ze terug, elke zorg verdwijnt
 Niks is nog belangrijk,als de zon maar voor je schijnt
 
 Dansen door de straat, spelen op het plein
-Vrijen in het park, 't is mooi om jong te zijn [1]
+Vrijen in het park, het is mooi om jong te zijn [1]
 Trek je badpak aan, laat je nu maar gaan
 Niks is nog belangrijk, want de zomer komt eraan
 

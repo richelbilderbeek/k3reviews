@@ -26,7 +26,7 @@ Het was op de op de radio
 Als K3 het zingt dan is het zo
 Het was op de radio
 
-Met de bus te voet of met zijn tweeí«n op de fiets
+Met de bus te voet of met zijn tweeen op de fiets
 We vertrekken op een picknick met zijn allen
 Iedereen viert feest vandaag en dat is niet voor niets
 Je hoort overal champagnekurken knallen

@@ -7,22 +7,22 @@
  * Richel's favorite lyric: 'En een blokfluit'
 
 ```
-Geef me een discobol!
-en een glitterjurk!
-en een drumbeat!
-En violen en trompetten!
-En een blokfluit [1]! 
-En een niet-verjaardagsfeest!
+Geef me een discobol
+en een glitterjurk
+en een drumbeat
+En violen en trompetten
+En een blokfluit [1] 
+En een niet-verjaardagsfeest
 
-Wie kiest voor een feest dat je maar één keer op een jaar viert?
+Wie kiest voor een feest dat je maar een keer op een jaar viert?
 En wie wil ruilen voor 364 dagen plezier? [2]
 Want voortaan wordt elke dag op je kalender in het rood omlijnd.
 Duizend kaartjes en cadeautjes te verzenden. Het is jouw en mijn
 
 [CHORUS]
-niet-verjaardagsfeest ~ gelukkige niet-verjaardag
-niet-verjaardagsfeest ~ er is een niet-verjaardag
-klap dan in je handen ~ stamp met je voeten
+niet-verjaardagsfeest, gelukkige niet-verjaardag
+niet-verjaardagsfeest, er is een niet-verjaardag
+klap dan in je handen, stamp met je voeten
 en vier elke dag een reuze feest
 een niet-verjaardagsfeest
 
@@ -36,7 +36,7 @@ Duizend kaartjes en cadeautjes te verzenden. Het is jouw en mijn
 Ben jij vandaag ook niet jarig?
 Ergens vaag ook niet jarig?
 Zelf geen ietsiepietsie beetje jarig?
-Klap in je handen en stamp met je voeten en schreeuw met zijn allen: "Ik ben niet jarig!"
+Klap in je handen en stamp met je voeten en schreeuw met zijn allen: "Ik ben niet jarig"
 
 [CHORUS]
 ```
