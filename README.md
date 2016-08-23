@@ -207,7 +207,7 @@ Here all all CD's, most recent at the top.
 
 # Tele-Romeo 
 
-![Verliefd](inst/extdata/TeleRomeo.jpg)
+![Tele-Romeo](inst/extdata/TeleRomeo.jpg)
 
  * [01 - Tele-Romeo](inst/extdata/TeleRomeo.md)
  * [02 - Mama's en papa's](inst/extdata/MamasEnPapas.md)
@@ -225,7 +225,7 @@ Here all all CD's, most recent at the top.
 
 # Alle kleuren
 
-![Verliefd](inst/extdata/AllKleuren.jpg)
+![Alle Kleuren](inst/extdata/AlleKleuren.jpg)
 
  * [01 - Alle kleuren](inst/extdata/AlleKleuren.md)
  * [02 - Hippie shake](inst/extdata/HippieShake.md)
