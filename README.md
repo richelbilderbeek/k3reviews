@@ -247,10 +247,10 @@ CD 2:
 
 # Parels 2000
 
- * TODO [01 - Yeke Yeke](inst/extdata/YekeYeke.md)
+ * [01 - Yeke Yeke](inst/extdata/YekeYeke.md)
  * [02 - Wat ik wil](inst/extdata/WatIkWil.md)
  * [03 - Heyah mama](inst/extdata/HeyahMama.md)
- * TODO [04 - Op elkaar](inst/extdata/OpElkaar.md)
+ * [04 - Op elkaar](inst/extdata/OpElkaar.md)
  * TODO [05 - Parels](inst/extdata/Parels.md)
  * TODO [06 - I Love You Baby](inst/extdata/IloveYouBaby.md)
  * TODO [07 - Ik kom tot leven](inst/extdata/IkKomTotLeven.md)
