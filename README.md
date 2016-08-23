@@ -207,6 +207,8 @@ Here all all CD's, most recent at the top.
 
 # Tele-Romeo 
 
+![Verliefd](inst/extdata/TeleRomeo.jpg)
+
  * [01 - Tele-Romeo](inst/extdata/TeleRomeo.md)
  * [02 - Mama's en papa's](inst/extdata/MamasEnPapas.md)
  * [03 - Keileuke zomer](inst/extdata/KeileukeZomer.md)
@@ -215,13 +217,15 @@ Here all all CD's, most recent at the top.
  * [06 - Je hebt een vriend](inst/extdata/JeHebtEenVriend.md)
  * [07 - Baby Come Back](inst/extdata/BabyComeBack.md)
  * [08 - Chacha loco](inst/extdata/ChachaLoco.md)
- * TODO [09 - Hand in hand](inst/extdata/HandInHand.md)
- * TODO [10 - Jupiter](inst/extdata/Jupiter.md)
- * TODO [11 - Honingbeer](inst/extdata/Honingbeer.md)
+ * [09 - Hand in hand](inst/extdata/HandInHand.md)
+ * [10 - Jupiter](inst/extdata/Jupiter.md)
+ * [11 - Honingbeer](inst/extdata/Honingbeer.md)
  * [12 - Iedereen is anders](inst/extdata/IedereenIsAnders.md)
- * TODO [13 - Blub, ik ben een vis](inst/extdata/BlubIkBenEenVis.md)
+ * [13 - Blub, ik ben een vis](inst/extdata/BlubIkBenEenVis.md)
 
 # Alle kleuren
+
+![Verliefd](inst/extdata/AllKleuren.jpg)
 
  * [01 - Alle kleuren](inst/extdata/AlleKleuren.md)
  * [02 - Hippie shake](inst/extdata/HippieShake.md)
@@ -240,7 +244,6 @@ CD 2:
 
  * [01 - Ster aan de hemel](inst/extdata/SterAanDeHemel.md)
  * [02 - Stapelgek](inst/extdata/Stapelgek.md)
-
 
 # Parels 2000
 
