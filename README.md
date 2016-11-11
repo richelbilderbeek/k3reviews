@@ -10,9 +10,20 @@ This repository is evolving towards an R package, to do a more thorough analysis
 
 Here all all CD's, most recent at the top.
 
-# Next CD
+# Ushuaia
 
- * [Ushuaia](inst/extdata/Ushuaia.md)
+ * [01. Ushuaia](inst/extdata/Ushuaia.md)
+ * [02.	Love Boat Baby](inst/extdata/LoveBoatBaby.md)
+ * [03.	De Aarde Beeft](inst/extdata/DeAardeBeeft.md)
+ * [04.	Aliyee](inst/extdata/Aliyee.md)
+ * [05.	Iedereen K3](inst/extdata/IedereenK3.md)
+ * [06.	On Va Danser](inst/extdata/OnVaDanser.md)
+ * [07.	Play-O](inst/extdata/PlayO.md)
+ * [08.	Boembiboem](inst/extdata/Boembiboem.md)
+ * [09.	Choco choco](inst/extdata/ChocoChoco.md)
+ * [10.	Popgroep](inst/extdata/Popgroep.md)
+ * [11.	Helden en Soldaten](inst/extdata/HeldenEnSoldaten.md)
+ * [12.	Prinsesjes en Superman](inst/extdata/PrinsesjesEnSuperman.md)
 
 # 10000 Luchtballonnen
 
