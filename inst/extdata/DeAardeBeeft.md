@@ -5,7 +5,7 @@
  * Mark's rating: ?/10
  * Mark's  favorite lyric: '?'
  * Richel's rating: ?/10
- * Richel's  favorite lyric: ''
+ * Richel's  favorite lyric: ''t Lijkt of niemand weet dat je deze planeet deelt met alles wat leeft'
 
 ```
 Auto's razen door de straat
@@ -22,7 +22,7 @@ Oh, my god!
 En de aarde beeft! 
 En de aarde beeft! 
 't Lijkt of niemand weet dat je deze
-planeet deelt met alles wat leeft
+planeet deelt met alles wat leeft [1]
 En de aarde beeft! 
 En de aarde beeft! 
 't Lijkt of men vergeet dat je deze
@@ -38,7 +38,7 @@ Oh, my god!
 Men zegt vaak, kinderen zijn de toekomst
 Maar waarom blijft het daar dan bij?
 Ik wil de wereld die mij toekomt!
-Zeg nee, zo luid je kan [1]!
+Zeg nee, zo luid je kan [2]!
 Wie doet mee met mij?
 
 NEE!!!
@@ -46,7 +46,7 @@ NEE!!!
 [CHRORUS]
 
 Zee nee, zo luid als je maar kan!
-En leg je hand in mijn hand... [2]
+En leg je hand in mijn hand... [3]
 Zeg nee, 
 
 ```
@@ -59,9 +59,11 @@ None yet.
 
 In enjoy that K3 has a song about climate change. 
 K3 suggests some countermeasures, like
-protesting [1] and holding their hands [2].
+protesting [2] and holding their hands [3].
 I think it is a missed opportunity to suggest
 more effective countermeasures (as suggest by 'Before The Flood'),
 like to prefer consuming chicken over cow meat, adopting a more
 vegetarian lifestyle and voting for politician that want to introduce
 a carbon emission tax.
+
+I enjoy the high syntactical complexity of my favorite lyric [1].
