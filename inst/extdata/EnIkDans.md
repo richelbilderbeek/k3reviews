@@ -10,7 +10,7 @@
 ```
 Draag je hart altijd langs buiten
 Wij zijn niet te stuiten jij en ik
-Waag jke ook aan dwaze dromen
+Waag je ook aan dwaze dromen
 Laat wat komt maar komen zonder schrik
 
 Want ik ben ik
@@ -63,4 +63,6 @@ None yet.
 
 This song describes following one's own heart and dancing.
 
-Awesome song! I enjoy how the girls stand up for their own personalities. It makes me understand how important dancing can be for some people. The melody is fast and energetic. 
+Awesome song! I enjoy how the girls stand up for their own personalities. 
+It makes me understand how important dancing can be for some people. 
+The melody is fast and energetic. 

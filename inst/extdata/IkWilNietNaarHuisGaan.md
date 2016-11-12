@@ -14,7 +14,6 @@ Zet als je troubles [1] aan de kant
 Want ik wil niet naar huis gaan
 Ik wil niet naar huis gaan
 
-
 Iedereen zet de knop op nul [2]
 Wie doet er mee met mij
 Wedden dat ik de dansvloer vul
@@ -52,8 +51,6 @@ Sluit dan je ogen
 En als ze weer opengaan: ta-da
 
 [CHORUS]
-
-
 ```
 
 ## Mark's review
@@ -64,4 +61,12 @@ None yet.
 
 This song is about a girl dancing and wanting to continue all night long.
 
-A pumping beat and very suitable for some energetic dancing. I think the English word 'troubles' [1] was unnecessary: the lyrics could be modified to use Dutch/Flemish only if a little bit more time would have been invested. At first I did not understand why one wants to put the dial to zero [2], but I guess the dial does not determine energy but rational thinking? It is strange to see that K3 suggests to drink champagne [3], as dancing will not benefit from this.
+A pumping beat and very suitable for some energetic dancing. 
+
+I think the English word 'troubles' [1] was unnecessary: 
+the lyrics could be modified to use Dutch/Flemish only if a little bit more time would have been invested. 
+
+At first I did not understand why one wants to put the dial to zero [2], 
+but I guess the dial does not determine energy but rational thinking? 
+
+It is strange to see that K3 suggests to drink champagne [3], as dancing will not benefit from this.

@@ -94,6 +94,8 @@ None yet.
 
 In this song K3 describes starting a party and chanting 'Mamase'.
 
-Yuck, a [nonsensical title](NonsensicalTitles.md), [nonsensical words](NonsensicalWords.md), partying as a theme (as referring to the party song [Oya Lele](OyaLele.md) [1]), African [jabbertalk](Jabbertalk.md) in the background and an African monologue in the end. 
+Yuck, a [nonsensical title](NonsensicalTitles.md), [nonsensical words](NonsensicalWords.md), 
+partying as a theme (as referring to the party song [Oya Lele](OyaLele.md) [1]), 
+African [jabbertalk](Jabbertalk.md) in the background and an African monologue in the end. 
 
 And still I do think it is a fine song, thanks to the melody.
