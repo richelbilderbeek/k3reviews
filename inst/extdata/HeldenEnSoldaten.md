@@ -67,3 +67,8 @@ None yet.
 
 ## Richel's review
 
+In this song, K3 dreams about a world in which everybody would be happy.
+
+These dreams are common in the K3 musical work. On that same CD,
+[Ushuaia](Ushuaia.md) is also about such an utopic world! Other examples are [Sprookjesbos](Sprookjesbos.md) and [Lila Liedjesland](LilaLiedjesland.md).
+
