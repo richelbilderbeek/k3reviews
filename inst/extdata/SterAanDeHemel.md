@@ -34,7 +34,7 @@ zal mijn ster aan de hemel staan voor iedereen
 
 niemand neemt mij bij de neus [3]
 geloof me maar, ik weet het heus
-het gaat er soms hard aantoe daarbuiten
+het gaat er soms hard aan toe daarbuiten
 
 maar ik hou van iedereen
 en ik wil mensen om me heen
@@ -57,7 +57,7 @@ iedereen roept mijn naam
 diep als de zee
 als de oceaan
 hoger dan de maan
-zal mijn ster aan de hemel staan voor iederen
+zal mijn ster aan de hemel staan voor iedereen
 
 Ja, voor iedereen
 ```
