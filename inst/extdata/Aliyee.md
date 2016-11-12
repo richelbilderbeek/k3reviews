@@ -4,8 +4,8 @@
  * Formation: [HMK](Hkm.md) (on the CD 'Ushuaia')
  * Mark's rating: ?/10
  * Mark's  favorite lyric: '?'
- * Richel's rating: ?/10
- * Richel's  favorite lyric: ''
+ * Richel's rating: 5/10
+ * Richel's  favorite lyric: 'Ik ga los waar ik ook sta'
 
 ```
 Aliyee ajoo
@@ -40,8 +40,32 @@ Voor je 't weet zing je me na
 
 Want vul je hart met liefde
 En dromen
-En voor je 
+En voor je 't weet zing je me na
 
+Want vul je hart met liefde
+En dromen
+En voor je 't weet 
+Weerklinkt plots die kreet!
+
+[CHORUS]
+
+[CHORUS]
+
+[CHORUS]
+
+[CHORUS]
+
+Doe je mee, we bouwen een party
+En plots voel je diep in je hart die
+Aliyee ajoo!
+
+Doe je mee, we bouwen een feestje
+In de kranten morgenvroeg lees je:
+Aliyee ajoo!
+Aliyee ajoo!
+Aliyee ajoo!
+
+[CHORUS]
 ```
 
 ## Mark's review
@@ -50,4 +74,9 @@ None yet.
 
 ## Richel's review
 
-I already dislike the nonsensical title and the jabbertalk.
+This is a K3 'battle song' to have a party.
+
+I already dislike the nonsensical title and the jabbertalk. 
+
+This song does not make me enthousiastic for a party at all,
+but perhaps a funeral is a type of party?
