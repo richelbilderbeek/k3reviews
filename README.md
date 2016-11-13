@@ -12,6 +12,8 @@ Here all all CD's, most recent at the top.
 
 # Ushuaia
 
+![Ushuaia](inst/extdata/Ushuaia.jpg)
+
  * [01. Ushuaia](inst/extdata/Ushuaia.md)
  * [02.	Love Boat Baby](inst/extdata/LoveBoatBaby.md)
  * [03.	De Aarde Beeft](inst/extdata/DeAardeBeeft.md)
