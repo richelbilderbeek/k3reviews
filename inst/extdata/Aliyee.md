@@ -76,7 +76,16 @@ None yet.
 
 This is a K3 'battle song' to have a party.
 
-I already dislike the nonsensical title and the jabbertalk. 
+I dislike this [nonsensical title](NonsensicalTitles.md), just like other 
+[nonsensical title](NonsensicalTitles.md). I hoped K3 would grow out of this habit
+of producing nonsense.
 
-This song does not make me enthousiastic for a party at all,
+The theme of the song is close to [MaMaSe](MaMaSe.md) and
+[Kuma He](KumeHe.md) (some other [nonsensical titles](NonsensicalTitles.md))
+and I have never been impressed by developing own 'languages' (I am sure
+they did not work out a complete dictionary nor grammar), except when 
+that language has a clear purpose, like Esperanto.
+
+So, the song is just one of those dime-a-dozen party songs.
+This song, hoewever, does not make me enthousiastic for a party at all,
 but perhaps a funeral is a type of party?
