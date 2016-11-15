@@ -5,6 +5,7 @@
 #include <sstream>
 
 #include <boost/algorithm/string/split.hpp>
+#include <QDir>
 
 void kdr::delete_file(const std::string& filename)
 {
@@ -72,6 +73,43 @@ std::vector<std::string> kdr::file_to_vector(const std::string& filename)
   }
   //Remove empty line at back of vector
   if (!v.empty() && v.back().empty()) v.pop_back();
+  return v;
+}
+
+std::vector<std::string> kdr::get_files_in_folder(
+  const std::string& folder
+)
+{
+  QDir dir{folder.c_str()};
+  dir.setFilter(QDir::Files);
+  const QFileInfoList list{dir.entryInfoList()};
+
+  //Convert QFileInfoList to std::vector<std::string> of filenames
+  std::vector<std::string> v;
+  const int size{list.size()};
+  for (int i{0}; i != size; ++i)
+  {
+    assert(i >= 0);
+    assert(i < static_cast<int>(list.size()));
+    const std::string file_name{folder + "/" + list[i].fileName().toStdString()};
+
+    v.push_back(file_name);
+  }
+  return v;
+}
+
+
+std::vector<std::string> kdr::get_header(const std::string& filename)
+{
+  std::vector<std::string> v = file_to_vector(filename);
+  const int sz = v.size();
+  int i = 0;
+  for (; i!=sz; ++i)
+  {
+    if (v[i] == "```") break;
+  }
+  if (i == 0) { return {}; }
+  v.resize(i - 1);
   return v;
 }
 

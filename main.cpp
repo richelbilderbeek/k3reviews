@@ -6,16 +6,21 @@ using namespace kdr;
 
 int main()
 {
-  const std::string filename{
-    "../K3Reviews/inst/extdata/PrinsesjeEnSuperman.md"
-  };
-  assert(is_regular_file(filename));
-  const std::vector<std::pair<double,reviewer>> grades{
-    get_grades(filename)
-  };
-  for (const auto grade: grades)
+  const auto filenames = get_files_in_folder("../K3Reviews/inst/extdata");
+  for (const auto filename: filenames)
   {
-    std::cout << grade.first << ": " << grade.second << '\n';
+    std::cout << filename << '\n';
+
+    assert(is_regular_file(filename));
+    /*
+    const std::vector<std::pair<double,reviewer>> grades{
+      get_grades(filename)
+    };
+    for (const auto grade: grades)
+    {
+      std::cout << grade.first << ": " << grade.second << '\n';
+    }
+    */
   }
   return 0;
 }

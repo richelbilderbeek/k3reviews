@@ -14,6 +14,14 @@ void delete_file(const std::string& filename);
 
 std::vector<std::string> file_to_vector(const std::string& filename);
 
+///Get all the filesnames in a folder
+std::vector<std::string> get_files_in_folder(
+  const std::string& folder
+);
+
+///Obtain the text above the lyrics
+std::vector<std::string> get_header(const std::string& filename);
+
 ///Checks if a file is present
 bool is_regular_file(const std::string& filename) noexcept;
 
