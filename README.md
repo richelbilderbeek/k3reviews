@@ -25,7 +25,7 @@ Here all all CD's, most recent at the top.
  * [09.	Choco choco](inst/extdata/ChocoChoco.md)
  * [10.	Popgroep](inst/extdata/Popgroep.md)
  * [11.	Helden en Soldaten](inst/extdata/HeldenEnSoldaten.md)
- * [12.	Prinsesjes en Superman](inst/extdata/PrinsesjesEnSuperman.md)
+ * [12.	Prinsesje en Superman](inst/extdata/PrinsesjeEnSuperman.md)
 
 # 10000 Luchtballonnen
 
