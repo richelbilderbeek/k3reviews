@@ -264,13 +264,13 @@ CD 2:
  * [02 - Wat ik wil](inst/extdata/WatIkWil.md)
  * [03 - Heyah mama](inst/extdata/HeyahMama.md)
  * [04 - Op elkaar](inst/extdata/OpElkaar.md)
- * TODO [05 - Parels](inst/extdata/Parels.md)
- * TODO [06 - I Love You Baby](inst/extdata/IloveYouBaby.md)
- * TODO [07 - Ik kom tot leven](inst/extdata/IkKomTotLeven.md)
- * TODO [08 - Altijd van je dromen](inst/extdata/AltijdVanJeDromen.md)
+ * [05 - Parels](inst/extdata/Parels.md)
+ * [06 - I Love You Baby](inst/extdata/IloveYouBaby.md)
+ * [07 - Ik kom tot leven](inst/extdata/IkKomTotLeven.md)
+ * [08 - Altijd van je dromen](inst/extdata/AltijdVanJeDromen.md)
  * [09 - Geen tweede keer](inst/extdata/GeenTweedeKeer.md)
- * TODO [10 - Zonder jou](inst/extdata/ZonderJou.md)
- * TODO [11 - Oh ja](inst/extdata/OhJa.md)
+ * [10 - Zonder jou](inst/extdata/ZonderJou.md)
+ * [11 - Oh ja](inst/extdata/OhJa.md)
 
 # Others
 
@@ -294,7 +294,6 @@ Part 2
  * [De allermooiste vlinder](inst/extdata/DeAllermooisteVlinder.md)
  * [Hartenkoning-in](inst/extdata/Hartenkoning-in.md)
  * [Doe de bloemendans](inst/extdata/DoeDeBloemendans.md)
- * TODO [De kop eraf!](inst/extdata/DeKopEraf.md)
  * [Ik wil naar huis](inst/extdata/IkWilNaarHuis.md)
  * [Geloof in jezelf](inst/extdata/GeloofInJezelf.md)
 
@@ -304,10 +303,10 @@ Part 2
 
 # K3 en het ijsprinsesje
 
- * TODO [Trouwen](inst/extdata/Trouwen.md)
+ * [Trouwen](inst/extdata/Trouwen.md)
  * TODO [Etiquetterap](inst/extdata/Etiquetterap.md)
  * TODO [Cake met chocolade](inst/extdata/CakeMetChocolade.md)
- * TODO [Meisje in de Spiegel](inst/extdata/MeisjeInDeSpiegel.md)
+ * [Meisje in de Spiegel](inst/extdata/MeisjeInDeSpiegel.md)
  * TODO [Betoverd](inst/extdata/Betoverd.md)
 
 
