@@ -1,24 +1,50 @@
 #include "review.h"
 
 #include <cassert>
+#include <iostream>
+#include <stdexcept>
+
+#include <boost/xpressive/xpressive.hpp>
 
 #include "helper.h"
+#include "grades.h"
 #include "reviewer.h"
 
 kdr::review::review(const std::string& md_filename)
+  :
+    m_filename{md_filename},
+    m_grades{kdr::get_grades(md_filename)},
+    m_header{get_header(md_filename)},
+    m_text{file_to_vector(md_filename)},
+    m_title{file_to_vector(md_filename).at(0)}
 {
-  assert(is_regular_file(md_filename));
-  const auto text = file_to_vector(md_filename);
-}
-
-std::vector<std::pair<double,kdr::reviewer>> kdr::get_grades(
-  const std::string& md_filename
-)
-{
-  const auto text = get_header(md_filename);
-  for (const auto line: text)
+  if (is_meta_review(md_filename))
   {
-    //Search for ': ?/10'
+    throw std::invalid_argument("A meta review is not a song review");
   }
 }
 
+std::set<std::string> kdr::get_meta_reviews() noexcept
+{
+  return
+  {
+    "AnalysisRichel.md"
+    "FAQ.md"
+  };
+}
+
+bool kdr::is_meta_review(const std::string& md_filename)
+{
+  const auto i = md_filename.find_last_of("/");
+  if (i == std::end(md_filename))
+  {
+    return get_meta_reviews().count(md_filename);
+  }
+}
+
+
+std::ostream& kdr::operator<<(std::ostream& os, const review& r) noexcept
+{
+  os << r.get_title() << ": " << r.get_grades();
+  return os;
+}

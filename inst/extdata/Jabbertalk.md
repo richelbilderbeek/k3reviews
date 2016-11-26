@@ -11,5 +11,6 @@ An incomplete list:
  * [Fiets](Fiets.md)
  * [Heyah Mama](HeyahMama.md)
  * [Sprookjesbos](Sprookjesbos.md)
+ * [Vrij](Vrij.md)
  * [Waar Zijn Die Engeltjes](WaarZijnDieEngeltjes.md)
  * [Yippee Yippee](YippeeYippee.md)

@@ -76,6 +76,11 @@ std::vector<std::string> kdr::file_to_vector(const std::string& filename)
   return v;
 }
 
+std::string kdr::get_default_folder_name() noexcept
+{
+  return "../K3Reviews/inst/extdata";
+}
+
 std::vector<std::string> kdr::get_files_in_folder(
   const std::string& folder
 )
@@ -98,10 +103,33 @@ std::vector<std::string> kdr::get_files_in_folder(
   return v;
 }
 
+std::vector<std::string> kdr::get_md_files_in_folder(
+  const std::string& folder
+)
+{
+  const std::vector<std::string> v = get_files_in_folder(folder);
+  std::vector<std::string> w;
+  std::copy_if(
+    std::begin(v),
+    std::end(v),
+    std::back_inserter(w),
+    [](const std::string& s)
+    {
+      return s.substr(s.size() - 3, 3) == std::string(".md");
+    }
+  );
+  return w;
+}
+
+
 
 std::vector<std::string> kdr::get_header(const std::string& filename)
 {
-  std::vector<std::string> v = file_to_vector(filename);
+  return get_header(file_to_vector(filename));
+}
+
+std::vector<std::string> kdr::get_header(std::vector<std::string> v)
+{
   const int sz = v.size();
   int i = 0;
   for (; i!=sz; ++i)

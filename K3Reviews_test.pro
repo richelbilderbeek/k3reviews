@@ -1,6 +1,11 @@
-include(K3Reviews.pri)
+CONFIG += console debug_and_release
+CONFIG -= app_bundle
+QT -= gui
+TEMPLATE = app
 
-SOURCES += main.cpp
+include(K3Reviews.pri)
+include(K3Reviews_test.pri)
+SOURCES += main_test.cpp
 
 # C++14
 CONFIG += c++14
@@ -26,3 +31,7 @@ CONFIG(debug, debug|release) {
   QMAKE_LFLAGS += -fsanitize=undefined
   LIBS += -lubsan
 }
+
+# Boost.Test
+LIBS += -lboost_unit_test_framework
+

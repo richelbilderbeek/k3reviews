@@ -1,27 +1,14 @@
 #include <cassert>
 #include <iostream>
 #include "helper.h"
-#include "review.h"
+#include "reviews.h"
 using namespace kdr;
 
 int main()
 {
-  const auto filenames = get_files_in_folder("../K3Reviews/inst/extdata");
-  for (const auto filename: filenames)
+  for (const auto r: get_reviews())
   {
-    std::cout << filename << '\n';
-
-    assert(is_regular_file(filename));
-    /*
-    const std::vector<std::pair<double,reviewer>> grades{
-      get_grades(filename)
-    };
-    for (const auto grade: grades)
-    {
-      std::cout << grade.first << ": " << grade.second << '\n';
-    }
-    */
+    std::cout << r << '\n';
   }
-  return 0;
 }
 

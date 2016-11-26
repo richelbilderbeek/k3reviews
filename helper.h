@@ -14,13 +14,21 @@ void delete_file(const std::string& filename);
 
 std::vector<std::string> file_to_vector(const std::string& filename);
 
+std::string get_default_folder_name() noexcept;
+
 ///Get all the filesnames in a folder
 std::vector<std::string> get_files_in_folder(
   const std::string& folder
 );
 
+///Get all the markdown filesnames in a folder
+std::vector<std::string> get_md_files_in_folder(
+  const std::string& folder
+);
+
 ///Obtain the text above the lyrics
 std::vector<std::string> get_header(const std::string& filename);
+std::vector<std::string> get_header(std::vector<std::string> text);
 
 ///Checks if a file is present
 bool is_regular_file(const std::string& filename) noexcept;
