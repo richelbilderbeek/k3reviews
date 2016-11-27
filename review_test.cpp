@@ -9,13 +9,17 @@
 
 using namespace kdr;
 
-BOOST_AUTO_TEST_CASE(test_get_review)
+BOOST_AUTO_TEST_CASE(test_review_must_have_grades)
 {
   const auto rs = get_reviews();
-  BOOST_REQUIRE(!rs.empty());
-  const review r = rs.back();
-  BOOST_CHECK(!r.get_grades().empty());
-
+  for (const auto r: rs)
+  {
+    if (r.get_grades().empty())
+    {
+      std::cerr << "Ungraded review: " << r.get_title() << '\n';
+    }
+    BOOST_CHECK(!r.get_grades().empty());
+  }
 }
 
 BOOST_AUTO_TEST_CASE(test_is_meta_review)
