@@ -16,6 +16,9 @@ std::vector<std::string> file_to_vector(const std::string& filename);
 
 std::string get_default_folder_name() noexcept;
 
+///Extract the filename from a full path
+std::string get_file_basename(const std::string& filename);
+
 ///Get all the filesnames in a folder
 std::vector<std::string> get_files_in_folder(
   const std::string& folder

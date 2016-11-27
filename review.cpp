@@ -24,6 +24,20 @@ kdr::review::review(const std::string& md_filename)
   }
 }
 
+std::set<std::string> kdr::get_meta_reviews() noexcept
+{
+  return
+  {
+    "AnalysisRichel",
+    "FAQ"
+  };
+}
+
+bool kdr::is_meta_review(const std::string& md_filename)
+{
+  return get_meta_reviews().count(get_file_basename(md_filename));
+}
+
 std::ostream& kdr::operator<<(std::ostream& os, const review& r) noexcept
 {
   os << r.get_title() << ": " << r.get_grades();

@@ -18,6 +18,14 @@ BOOST_AUTO_TEST_CASE(test_get_review)
 
 }
 
+BOOST_AUTO_TEST_CASE(test_is_meta_review)
+{
+  const std::string md_filename{
+    get_default_folder_name() + std::string("/AnalysisRichel.md")
+  };
+  BOOST_CHECK(is_meta_review(md_filename));
+}
+
 BOOST_AUTO_TEST_CASE(test_Richels_analysis_is_not_a_review)
 {
   const std::string md_filename{

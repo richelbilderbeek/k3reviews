@@ -26,6 +26,9 @@ private:
   std::string m_title;
 };
 
+std::set<std::string> get_meta_reviews() noexcept;
+bool is_meta_review(const std::string& md_filename);
+
 std::ostream& operator<<(std::ostream& os, const review& r) noexcept;
 
 } //~namespace kdr

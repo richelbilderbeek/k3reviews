@@ -5,6 +5,7 @@
 #include <sstream>
 
 #include <boost/algorithm/string/split.hpp>
+#include <boost/xpressive/xpressive.hpp>
 #include <QDir>
 
 void kdr::delete_file(const std::string& filename)
@@ -79,6 +80,21 @@ std::vector<std::string> kdr::file_to_vector(const std::string& filename)
 std::string kdr::get_default_folder_name() noexcept
 {
   return "../K3Reviews";
+}
+
+std::string kdr::get_file_basename(const std::string& filename)
+{
+  const boost::xpressive::sregex rex{
+    boost::xpressive::sregex::compile("((.*)(/|\\\\))?([A-Za-z0-9_-]*)((\\.)([A-Za-z0-9]*))?" )
+  };
+  boost::xpressive::smatch what;
+
+  if(boost::xpressive::regex_match( filename, what, rex ))
+  {
+    return what[4];
+  }
+
+  return "";
 }
 
 std::vector<std::string> kdr::get_files_in_folder(
