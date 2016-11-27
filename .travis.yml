@@ -1,20 +1,42 @@
-language: r
-cache: packages
+language: cpp
+compiler: gcc
+sudo: require
+dist: trusty # Qt5, from https://gist.github.com/jreese/6207161#gistcomment-1462109
 
-r_github_packages:
-  - jimhester/covr
-  - jimhester/lintr
-  - MangoTheCat/goodpractice
+before_install:
+  - echo $TRAVIS_BRANCH
+  # C++14
+  - sudo add-apt-repository --yes ppa:ubuntu-toolchain-r/test
+  - sudo apt-get update -qq
+
+install: 
+  # C++14
+  - sudo apt-get install -qq g++-5
+  # gcov
+  - sudo update-alternatives --install /usr/bin/gcov gcov /usr/bin/gcov-5 90
+  - sudo pip install codecov
+  # OCLint
+  - ./install_oclint.sh
+
+# Boost
+addons: 
+  apt: 
+    packages: libboost-all-dev
+
+script: 
+  # Build and run the tests
+  - qmake K3Reviews_test.pro
+  - make
+  - ./K3Reviews_test
+  # Build and run the tests
+  - qmake K3Reviews.pro
+  - make
+  - ./K3Reviews
+  # Code coverage
+  - ./get_code_cov.sh >/dev/null
+  - codecov >/dev/null
+  # OCLint
+  - ./do_oclint.sh
 
 after_success:
-  - Rscript -e 'lintr::lint_package()'
-  - Rscript -e 'covr::codecov()'
-  - Rscript -e 'goodpractice::gp()'
- 
-after_failure:
-  - Rscript -e 'lintr::lint_package()'
-  - Rscript -e 'covr::codecov()'
-  - Rscript -e 'goodpractice::gp()'
-  - cat /home/travis/build/richelbilderbeek/K3Reviews/..Rcheck/00install.out
-  - cat /home/travis/build/richelbilderbeek/K3Reviews/..Rcheck/00check.log
-  - cat /home/travis/build/richelbilderbeek/K3Reviews/..Rcheck/tests/testthat/testthat.log
+  - bash <(curl -s https://codecov.io/bash)

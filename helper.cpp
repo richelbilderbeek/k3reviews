@@ -78,7 +78,7 @@ std::vector<std::string> kdr::file_to_vector(const std::string& filename)
 
 std::string kdr::get_default_folder_name() noexcept
 {
-  return "../K3Reviews/inst/extdata";
+  return "../K3Reviews";
 }
 
 std::vector<std::string> kdr::get_files_in_folder(
