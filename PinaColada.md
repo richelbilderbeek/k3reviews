@@ -1,4 +1,4 @@
-# Pina Colada
+# Piña Colada
 
  * Category: love
  * Formation:  [HMK](Hkm.md)
@@ -6,8 +6,8 @@
  * Richel's favorite lyric: 'de verf loopt van de muren, het kwik is overstuur'
 
 ```
-Pina Colada
-Pina Colada
+Piña Colada
+Piña Colada
 
 Bazoeka [1]
 
@@ -25,9 +25,9 @@ en de pina colada staat koud [6]
 maar vannacht wil ik enkel maar jou
 
 [CHORUS]
-Pina Colada, lambada, que nada [7]
+Piña Colada, lambada, que nada [7]
 Want ik wil enkel jou
-Pina Colada, lambada, que ada
+Piña Colada, lambada, que ada
 Want ik wil enkel jou
 
 Wat een zomer
@@ -40,7 +40,7 @@ Je drankjes en oase
 mijn lippen in extase
 een nieuwe vlinder die ontluikt
 
-en de Pina colada staat koud
+en de Piña colada staat koud
 maar vannacht wil ik enkel maar jou
 
 [CHORUS]
@@ -57,7 +57,7 @@ In this song, K3 sings about being in love in summer.
 
 This song has nothing to do with the drink pina colada. The song informs 
 us that there is some pina colada in the refrigerator [6], after
-which its role in completely ignored. This makes the listeren hypothesize
+which its role in completely ignored. This makes the listener hypothesize
 about the role. 
 
 My favorite hypothesis is that the song describes the moment the girl meets the boy
