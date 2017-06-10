@@ -10,6 +10,7 @@ An incomplete list:
  * [Dubbeldekkertrein](Dubbeldekkertrein.md)
  * [Fiets](Fiets.md)
  * [Heyah Mama](HeyahMama.md)
+ * [Pina Colada](PinaColada.md)
  * [Sprookjesbos](Sprookjesbos.md)
  * [Vrij](Vrij.md)
  * [Waar Zijn Die Engeltjes](WaarZijnDieEngeltjes.md)
