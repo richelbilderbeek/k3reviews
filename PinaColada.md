@@ -79,7 +79,7 @@ where I think the only connection between different parts of the song is that th
 rhyme nicely. The writers of the lyrics also discovered that rhymes just as cheaply with
 'lambada' and 'que nada'!
 
-The happy tune fits the first and third hypotheses best. 
+The happy tune of the song fits the first and third hypotheses best. 
 
 The first verse is the apex of the song: I think that 'de verf loopt van de muren, het kwik is 
 overstuur' [2,3] (English: 'the paint melts of the walls, the murcury (of a thermometer) is upset')
