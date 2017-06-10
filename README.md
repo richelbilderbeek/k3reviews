@@ -12,7 +12,7 @@ Here all all CD's, most recent at the top.
 
 # [Next CD]
 
- * [PinaColada](PinaColada.md)
+ * [Pina Colada](PinaColada.md)
 
 # Ushuaia
 
