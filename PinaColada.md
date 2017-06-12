@@ -27,7 +27,7 @@ maar vannacht wil ik enkel maar jou
 [CHORUS]
 Piña Colada, lambada, que nada [7]
 Want ik wil enkel jou
-Piña Colada, lambada, que ada
+Piña Colada, lambada, que nada
 Want ik wil enkel jou
 
 Wat een zomer
@@ -90,7 +90,7 @@ I enjoy the vividness of `ik dans doorheen de straten` [4], although
 it is clearly a re-use of `Ik liep doorheen de straten` in [VivaViool](VivaViool.md),
 where it occurred first. 
 
-I look forward to the day I find out what is bursting ('je strand[something] staat op barsten') [8].
+I look forward to the day I find out what is bursting ('je strand[something] staat op barsten') [8]. My leading hypothesis is that is 'strandbal' (English: beach ball), because those do build up higher tension at higher temperatures, as hotter air needs more space. There is another website that assumes it is 'strandbar' (English: beach bar), but I think this is a less likely hypothesis.
 
 I think the song has a high density of choruses, with just two verses. This is typical for the 
 K3 party songs, like for example [Aliyee](Aliyee.md), [Oya Lele](OyaLele.md), [Loko Le](LokoLe.md) or [MaMaSe](MaMaSe.md).
