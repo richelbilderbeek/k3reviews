@@ -2,8 +2,8 @@
 
  * Category: love
  * Formation: Karen, Kathleen, Kristel
- * Mark's rating: ?/10
- * Mark's  favorite lyric: '?'
+ * Mark's rating: 7/10
+ * Mark's  favorite lyric: 'Met vrienden om je heenk kan je elke dag weer aan'
  * Richel's rating: 7/10
  * Richel's favorite lyric: 'ben jij een haai of toch meer een zoetwatervis'
 
@@ -64,7 +64,7 @@ Yippee yippee ya jambolay
 
 ## Mark's review
 
-None yet.
+Dit is één van de eerdere liederen van K3. Het klinkt niet alleen mooi, maar de tekst is ook nog eens mooi, zoals bij veel K3-liederen het geval is: met een hoopgevend karakter.
 
 ## Richel's review
 
