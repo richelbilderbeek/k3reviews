@@ -60,3 +60,5 @@ revolution. That is why I categorized it under 'ethics' instead of
 close-to-being-spoken verses, with a Che Guevara (although I know nearly
 nothing of him) feeling in it. Especially Karin (starting at [1])
 appeals to me in helping her to start a revolution.
+
+[Borst Vooruit](BorstVooruit.md) has a similar same battle hymn feeling. 
