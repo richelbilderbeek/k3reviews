@@ -5,10 +5,8 @@
  * Mark's favorite lyric: 'Elke korrel zand is nodig om het strand, te laten stralen in de zon.'
  * Richel's rating: ?/10
  * Richel's favorite lyric: '?'
-    Home » Artiesten » K » K3 » Songtekst 
 
-K3 - Borst Vooruit
-
+```
 Refrein:
 Hoofd naar boven
 borst vooruit
@@ -87,6 +85,7 @@ als we klaar staan
 als we samen zijn
 
 Hoofd naar boven
+```
 
 ## Mark's review
 
