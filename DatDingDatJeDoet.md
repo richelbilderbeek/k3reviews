@@ -2,8 +2,8 @@
 
  * Category: misc
  * Formation: [KKK](Kkk.md)
- * Mark's rating: ?/10
- * Mark's  favorite lyric: 'liefde is OK'
+ * Mark's rating: 8.2/10
+ * Mark's  favorite lyric: 'Doe nog een keer dat ding dat je doet als je glimlacht naar mij'
  * Richel's rating: 8/10
  * Richel's favorite lyric: 'Want ik ga plat op m'n buik nu al vast'
 
@@ -96,7 +96,7 @@ Oei, ze zijn al weg
 ```
 ## Mark's review
 
-None yet.
+Dit lied, nog van de oude formatie met Kathleen Aerts erbij, begint een beetje stom, met een man die zit te praten. Mijn verwachtingen waren laag toen ik het begin hoorde, maar zodra de meisjes beginnen te zingen, blijkt het liedje toch eigenlijk wel leuk te zijn. Na het hebben beluisterd van een paar liederen van de nieuwe samenstelling, ben ik ook wel blij weer de stem van de oude K'tjes te horen. :-D 
 
 ## Richel's review
 
