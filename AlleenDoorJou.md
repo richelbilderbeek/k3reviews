@@ -2,8 +2,8 @@
 
  * Category: love, ethics
  * Formation: [KKJ](Kkj.md) (on the CD 'Loko Le')
- * Mark's rating: ?/10
- * Mark's  favorite lyric: '?'
+ * Mark's rating: 8,6/10
+ * Mark's  favorite lyric: 'Door jou, alleen door jou.'
  * Richel's rating: 9/10
  * Richel's favorite lyric: 'leeft soms in een luchtbel van plezier'
 
@@ -43,7 +43,9 @@ Met jou erin
 
 ## Mark's review
 
-None yet.
+Dit is een dame die zingt over hoe zij een jongen mee wil nemen, naar een plek ver weg van hier. De jongen waar zij over zingt wordt in het lied opgehemeld.
+
+Mooie tekst. Ik vind het ook mooi klinken.
 
 ## Richel's review
 
