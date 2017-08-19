@@ -1,8 +1,8 @@
 # Chacha Loco
 
  * Category: ?
- * Mark's rating: ?/10
- * Mark's  favorite lyric: '?'
+ * Mark's rating: 8/10
+ * Mark's  favorite lyric: 'Maak van die droom realiteit'
  * Richel's rating: 8/10
  * Richel's favorite lyric: 'Maak van die droom realiteit'
 
@@ -52,7 +52,7 @@ Gaat wild te keer, stop nu maar want
 
 ## Mark's review
 
-None yet.
+Dit is een liedje met een Arabisch randje en een verwijzing naar dat sprookje Duizend-en-een-nacht, die ik overigens niet ken. Ik vind het lied verder leuk klinken, vooral wanneer gezongen wordt: "Maak van die droom realiteit". Dat klinkt echt prachtig. Ik wist nooit dat dit lied een diepere betekenis had, maar volgens Richel Bilderbeek is dat wel het geval. Ik ben ook zo onopmerkzaam... Maar ach, het klinkt in ieder geval leuk. De tekst "Jij wil een droomprinsesje, je eigen danseresje" vind ik ook amusant.
 
 ## Richel's review
 
