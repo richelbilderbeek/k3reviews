@@ -2,8 +2,8 @@
 
  * Category: ethics
  * Formation: [HMK](Hkm.md) (on the CD '1000 Luchtballonnen')
- * Mark's rating: ?/10
- * Mark's  favorite lyric: '?'
+ * Mark's rating: 7,5/10
+ * Mark's  favorite lyric: het refrein / the chorus / припев
  * Richel's rating: 8/10
  * Richel's  favorite lyric: 'En we vragen de soldaatjes heel lief: zet die oorlog nu stop'
 
@@ -53,7 +53,7 @@ Ayee le le le (ayee le le le)
 
 ## Mark's review
 
-None yet.
+Dit is een modern K3-liedje, gezongen door de volledig nieuwe formatie. Het liedje heeft qua tekst een vredegevend karakter doordat soldaten worden opgeroepen om te stoppen met oorlogvoeren. Het lied zelf is heel vrolijk en opgewekt. De verdere tekst over de tienduizend luchtballonnen vind ik wel leuk klinken.
 
 ## Richel's review
 
