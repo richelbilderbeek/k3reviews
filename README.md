@@ -10,10 +10,22 @@ This repository is evolving towards an R package, to do a more thorough analysis
 
 Here all all CD's, most recent at the top.
 
-# [Next CD]
+# [Lovecruise]
 
- * [Liefde Is Overal](LiefdeIsOveral.md)
- * [Pina Colada](PinaColada.md)
+![Lovecruise](Lovecruise.jpg)
+
+ * [01. Pina Colada](PinaColada.md)
+ * [02. Liefde Is Overal](LiefdeIsOveral.md)
+ * [03. 1000 Kleine Matroosjes](1000KleineMatroosjes.md)
+ * [04. Dieper Dan De Zee](DieperDanDeZee.md)
+ * [05. Verliefd Zijn](VerliefdZijn.md)
+ * [06. Hippie Happy Holiday](HippieHappyHoliday.md)
+ * [07. Ik Doe Wat Ik Wil](IkDoeWatIkWil.md)
+ * [08. Disco Oma](DiscoOma.md)
+ * [09. Meisjes Doen De Wereld Draaien](MeisjesDoenDeWereldDraaien.md)
+ * [10. Baby Boe](BabyBoe.md)
+ * [11. Pyamaparty](Pyamaparty.md)
+ * [12. Verlegen Vlindertje](VerlegenVlindertje.md)
 
 # Ushuaia
 
