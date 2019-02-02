@@ -72,14 +72,15 @@ reside within the K3 girl herself.
 That 'neem me mee' ('take me with you') is so general in the K3 repetoire,
 makes me dedicate a paragraph about taking initiative. Already in this song,
 there is a conflict in who decide the place to go (she: [2], he:[6]).
-There are 7 songs (including this one) in which he takes 
+There are 6 songs (including this one) in which he takes 
 her somewhere ([Jupiter](Jupiter.md), [Alice in Wonderland](AliceInWonderland.md),
 [Parapluutje](Parapluutje.md), [Ali Baba](AliBaba.md), [Kuma He](KumaHe.md)
 and [Leve de cowboys](LeveDeCowboys.md), where there are only
 3 songs in which she takes him somewhere ([MaMaSe](MaMaSe.md), 
-[Hey hallo](HeyHallo.md) and [Alleen Door Jou](AlleenDoorJou.md)).
+[Hey hallo](HeyHallo.md) and 
+[Alleen Door Jou](AlleenDoorJou.md)) (see [7] for the regular expressions).
 It would fit K3 to leave an equal amount of initiative to both sides.
-Sure, with some statistics [7] we cannot reject that K3 actually 
+Sure, with some statistics [8] we cannot reject that K3 actually 
 does so, but by chance the song fell more in favor of letting him take
 initiative. Nevertheless, it would be good to equalize who takes
 initiative in future songs.
@@ -95,11 +96,18 @@ yet conflicting ten-dimes-a-dozen lyrics.
 
 [7]
 
+```
+egrep -Rizl "ik neem (je|jou) mee"
+egrep -Rizl "neem (me|mij) mee"
+```
+
+[8]
+
 According to R code:
 
 ```{r}
-binom.test(x = 7, n = 10, p = 0.5, conf.level=0.05)
+binom.test(x = 6, n = 9, p = 0.5, conf.level = 0.05)
 ```
 
 the null-hypothesis 'H0: the coin is fair' is not rejected, as
-the p-value is 0.3438.
+the p-value is 0.5078.
