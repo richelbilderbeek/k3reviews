@@ -10,6 +10,23 @@ This repository is evolving towards an R package, to do a more thorough analysis
 
 Here all all CD's, most recent at the top.
 
+# Roller Disco
+
+![Roller Disco](RollerDisco.jpg)
+
+ * [01. Luka Luna](LukaLuna.md)
+ * [02. Roller Disco](Roller Disco.md)
+ * [03. Leve de cowboys](LeveDeCowboys.md)
+ * [04. Wie wordt straks m'n liefje](WieWordtStraksMijnLiefje.md)
+ * [05. Whoppa!](Whoppa.md)
+ * [06. Mooier dan je denkt](MooierDanJeDenkt.md)
+ * [07. La la later](LaLaLater.md)
+ * [08. Hey Mister Deejay](HeyMisterDeejay.md)
+ * [09. Muziek](Muziek.md)
+ * [10. Bambolaya](Bambolaya.md)
+ * [11. Liefde geeft je vleugels](LiefdeGeeftJeVleugels.md)
+ * [12. De tafel van K3](DeTafelVanK3.md)
+
 # [Lovecruise]
 
 ![Lovecruise](Lovecruise.jpg)
