@@ -14,18 +14,18 @@ Here all all CD's, most recent at the top.
 
 ![Roller Disco](RollerDisco.jpg)
 
- * [01. Luka Luna](LukaLuna.md)
- * [02. Roller Disco](Roller Disco.md)
+ * TODO [01. Luka Luna](LukaLuna.md)
+ * TODO [02. Roller Disco](Roller Disco.md)
  * [03. Leve de cowboys](LeveDeCowboys.md)
  * [04. Wie wordt straks m'n liefje](WieWordtStraksMijnLiefje.md)
  * [05. Whoppa!](Whoppa.md)
  * [06. Mooier dan je denkt](MooierDanJeDenkt.md)
  * [07. La la later](LaLaLater.md)
- * [08. Hey Mister Deejay](HeyMisterDeejay.md)
- * [09. Muziek](Muziek.md)
- * [10. Bambolaya](Bambolaya.md)
- * [11. Liefde geeft je vleugels](LiefdeGeeftJeVleugels.md)
- * [12. De tafel van K3](DeTafelVanK3.md)
+ * TODO [08. Hey Mister Deejay](HeyMisterDeejay.md)
+ * TODO [09. Muziek](Muziek.md)
+ * TODO [10. Bambolaya](Bambolaya.md)
+ * TODO [11. Liefde geeft je vleugels](LiefdeGeeftJeVleugels.md)
+ * TODO [12. De tafel van K3](DeTafelVanK3.md)
 
 # [Lovecruise]
 
@@ -33,16 +33,16 @@ Here all all CD's, most recent at the top.
 
  * [01. Pina Colada](PinaColada.md)
  * [02. Liefde Is Overal](LiefdeIsOveral.md)
- * [03. 1000 Kleine Matroosjes](1000KleineMatroosjes.md)
- * [04. Dieper Dan De Zee](DieperDanDeZee.md)
- * [05. Verliefd Zijn](VerliefdZijn.md)
- * [06. Hippie Happy Holiday](HippieHappyHoliday.md)
- * [07. Ik Doe Wat Ik Wil](IkDoeWatIkWil.md)
- * [08. Disco Oma](DiscoOma.md)
- * [09. Meisjes Doen De Wereld Draaien](MeisjesDoenDeWereldDraaien.md)
- * [10. Baby Boe](BabyBoe.md)
- * [11. Pyamaparty](Pyamaparty.md)
- * [12. Verlegen Vlindertje](VerlegenVlindertje.md)
+ * TODO [03. 1000 Kleine Matroosjes](1000KleineMatroosjes.md)
+ * TODO [04. Dieper Dan De Zee](DieperDanDeZee.md)
+ * TODO [05. Verliefd Zijn](VerliefdZijn.md)
+ * TODO [06. Hippie Happy Holiday](HippieHappyHoliday.md)
+ * TODO [07. Ik Doe Wat Ik Wil](IkDoeWatIkWil.md)
+ * TODO [08. Disco Oma](DiscoOma.md)
+ * TODO [09. Meisjes Doen De Wereld Draaien](MeisjesDoenDeWereldDraaien.md)
+ * TODO [10. Baby Boe](BabyBoe.md)
+ * TODO [11. Pyamaparty](Pyamaparty.md)
+ * TODO [12. Verlegen Vlindertje](VerlegenVlindertje.md)
 
 # Ushuaia
 
