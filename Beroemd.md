@@ -71,8 +71,12 @@ None yet.
 
 In this song, K3 describes the dream of being famous.
 
-I like the idea, as I am (perhaps naively) convinced the three scenario's sketched by the girls contain a grain of truth.
-I would have like if the girls would give more fun facts about their attempts at becoming famous. 
-Except for this, I think having the idea that everyone would love you [1] and having a lot of friend [2] when
-being famous is an illusion. I would have preferred good reasons of why to become famous. Fine song while 
+I like the idea, as I am (perhaps naively) 
+convinced the three scenario's sketched by the girls contain a grain of truth.
+I would have like if the girls would give 
+more fun facts about their attempts at becoming famous. 
+Except for this, I think having the idea that everyone would love you [1] 
+and having a lot of friend [2] when being famous is an illusion. 
+I would have preferred good reasons of why to become famous. 
+Fine song while 
 as long as the girls have their solos.
