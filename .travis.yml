@@ -1,42 +1,13 @@
-language: cpp
+language: generic
 dist: xenial
-compiler: gcc
-sudo: require
 
-before_install:
-  - echo $TRAVIS_BRANCH
-  # C++14
-  - sudo add-apt-repository --yes ppa:ubuntu-toolchain-r/test
-  - sudo apt-get update -qq
+install:
+  # Check dead links
+  - sudo apt-get install -qq npm
+  - npm config set strict-ssl false
+  - sudo npm install -g markdown-link-check
 
-install: 
-  # C++14
-  - sudo apt-get install -qq g++-5
-  # gcov
-  - sudo update-alternatives --install /usr/bin/gcov gcov /usr/bin/gcov-5 90
-  - sudo pip install codecov
-  # OCLint
-  - ./install_oclint.sh
-
-# Boost
-addons: 
-  apt: 
-    packages: libboost-all-dev
-
-script: 
-  # Build and run the tests
-  - qmake K3Reviews_test.pro
-  - make
-  - ./K3Reviews_test
-  # Build and run the tests
-  - qmake K3Reviews.pro
-  - make
-  - ./K3Reviews
-  # Code coverage
-  - ./get_code_cov.sh >/dev/null
-  - codecov >/dev/null
-  # OCLint
-  - ./do_oclint.sh
-
-after_success:
-  - bash <(curl -s https://codecov.io/bash)
+script:
+  # Check dead links
+  - rm .travis.yml
+  - ./scripts/check_dead_links

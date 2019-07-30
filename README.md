@@ -33,7 +33,7 @@ Here all all CD's, most recent at the top.
 
  * [01. Pina Colada](PinaColada.md)
  * [02. Liefde Is Overal](LiefdeIsOveral.md)
- * TODO [03. 1000 Kleine Matroosjes](1000KleineMatroosjes.md)
+ * [03. 1000 Kleine Matroosjes](1000KleineMatroosjes.md)
  * TODO [04. Dieper Dan De Zee](DieperDanDeZee.md)
  * TODO [05. Verliefd Zijn](VerliefdZijn.md)
  * TODO [06. Hippie Happy Holiday](HippieHappyHoliday.md)
