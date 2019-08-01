@@ -10,7 +10,7 @@ Because English is the lingua franca spoken by academia.
 
 ## Who is Mark?
 
-That's me, Mark Wiering. (http://www.markwiering.nl and https://www.facebook.com/markwiering) I am almost obsessed with mathematics. My hobbies are: playing chess, bicycling, making programmes in C++, solving mathematical problems and watching cartoons. I especially like the Avatar-series and Elfen Lied. But, Elfen Lied is extremely violent (especially episode 2), so I wouldn't recommend it to anyone. I am very interested in politics, history and buddhism.
+That's me, Mark Wiering. (http://www.markwiering.nl) I am almost obsessed with mathematics. My hobbies are: playing chess, bicycling, making programmes in C++, solving mathematical problems and watching cartoons. I especially like the Avatar-series and Elfen Lied. But, Elfen Lied is extremely violent (especially episode 2), so I wouldn't recommend it to anyone. I am very interested in politics, history and buddhism.
 
 ## Who is Richel?
 
