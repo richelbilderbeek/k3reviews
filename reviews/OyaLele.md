@@ -72,7 +72,7 @@ None yet
 
 In this song K3 sings about feeling good due to the onset of good weather.
 
-A song with a [nonsensical title](NonsensicalTitle.md), [nonsensical words](NonsensicalWords.md) and
+A song with a [nonsensical title](NonsensicalTitles.md), [nonsensical words](NonsensicalWords.md) and
 [jabbertalk](Jabbertalk.md) appears to be the modus operandi of hits. I dislike all three.
 On the other hand, plenty of naughty lyrics: a sun that takes of its clothes [1],
 nobody noticing what the boy and girl are doing [2] and her heart being in flames
