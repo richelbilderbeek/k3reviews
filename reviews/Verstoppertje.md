@@ -2,8 +2,6 @@
 
  * Category: other
  * Formation: [JKK](Jkk.md) (on the CD 'Eyo')
- * Mark's rating: ?/10
- * Mark's  favorite lyric: '?'
  * Richel's rating: 6/10
  * Richel's favorite lyric: 'zoek ik die plekjes van jou'
 

@@ -2,8 +2,6 @@
 
  * Category: ethics
  * Formation: [JKK](Jkk.md) (on the CD 'MaMaSe')
- * Mark's rating: ?/10
- * Mark's  favorite lyric: '?'
  * Richel's rating: 8/10
  * Richel's favorite lyric: 'Vanavond nemen we de stad in, morgen het land, overmorgen de wereld'
 

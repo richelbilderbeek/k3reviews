@@ -2,8 +2,6 @@
 
  * Category: party
  * Formation:[KKK](Kkk.md)
- * Mark's rating: ?/10
- * Mark's  favorite lyric: '?'
  * Richel's rating: 8/10
  * Richel's favorite lyric: 'En dan maak jij van mij je droomprinses'
 

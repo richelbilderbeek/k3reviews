@@ -2,8 +2,6 @@
 
  * Category: love
  * Formation: [JKK](Jkk.md) (on the CD 'MaMaSe')
- * Mark's rating: ?/10
- * Mark's  favorite lyric: '?'
  * Richel's rating: 9/10
  * Richel's favorite lyric: 'Met een rugzak en een bonzend hart'
 

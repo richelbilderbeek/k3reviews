@@ -1,8 +1,6 @@
 # Miljoen
 
  * Category: love
- * Mark's rating: ?/10
- * Mark's  favorite lyric: '?'
  * Richel's rating: 8/10
  * Richel's favorite lyric: 'Laat me diep in jou vergaan'
 

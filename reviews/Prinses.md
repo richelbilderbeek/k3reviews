@@ -2,8 +2,6 @@
 
  * Category: party
  * Formation: [KKK](Kkk.md) (on the CD 'Kusjes')
- * Mark's rating: ?/10
- * Mark's  favorite lyric: '?'
  * Richel's rating: 7/10
  * Richel's favorite lyric: none
 

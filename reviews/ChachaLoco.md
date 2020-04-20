@@ -1,8 +1,6 @@
 # Chacha Loco
 
  * Category: Party
- * Mark's rating: ?/10
- * Mark's  favorite lyric: '?'
  * Richel's rating: 5/10
  * Richel's favorite lyric: 'dan gaan wij alle taboes doorbreken'
 

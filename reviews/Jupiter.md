@@ -1,8 +1,6 @@
 # Jupiter
 
  * Category: Love
- * Mark's rating: ?/10
- * Mark's  favorite lyric: '?'
  * Richel's rating: 9/10
  * Richel's favorite lyric: 'En gaan op de ringen van Saturnus staan'
 

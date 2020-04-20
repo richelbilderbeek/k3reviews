@@ -1,8 +1,6 @@
 # Trouwen
 
  * Category: love
- * Mark's rating: ?/10
- * Mark's  favorite lyric: '?'
  * Richel's rating: 9/10
  * Richel's favorite lyric: 'nee, ik ben niet op zoek naar een vers in een boek van een dichter die jou niet kent'
  

@@ -2,7 +2,6 @@
 
  * Category: other
  * Formation: [JKK](Jkk.md) (on the CD 'Eyo')
- * Mark's rating: ?/10
  * Mark's favorite lyric: '?'
  * Richel's rating: 4/10
  * Richel's favorite lyric: 'Met mijn rokje zwaai ik naar links en naar rechts'

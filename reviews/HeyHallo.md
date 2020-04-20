@@ -2,8 +2,6 @@
 
  * Category: misc
  * Formation: [KKK](Kkk.md)
- * Mark's rating: ?/10
- * Mark's  favorite lyric: '?'
  * Richel's rating: 5/10
  * Richel's favorite lyric: 'Met fantasie en met een oud laken kunnen we het gezellig gaan maken'
 

@@ -2,8 +2,6 @@
 
  * Category: misc
  * Formation: [JKK](Jkk.md) (on the CD 'Loko Le')
- * Mark's rating: ?/10
- * Mark's  favorite lyric: '?'
  * Richel's rating: 7/10
  * Richel's favorite lyric: 'Wij gaan vannacht In fonteinen springen' (translation: 'tonight we will jump into fontains')
 

@@ -2,8 +2,6 @@
 
  * Category: love
  * Formation: [KKK](Kkk.md) (on the CD 'Kusjes')
- * Mark's rating: ?/10
- * Mark's  favorite lyric: '?'
  * Richel's rating: 8/10
  * Richel's favorite lyric: 'Alles kan en alles mag'
 

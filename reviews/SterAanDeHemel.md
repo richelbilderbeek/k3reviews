@@ -1,8 +1,6 @@
 # Ster Aan De Hemel
 
  * Category: love
- * Mark's rating: ?/10
- * Mark's  favorite lyric: '?'
  * Richel's rating: 9/10
  * Richel's favorite lyric: 'ik wil mensen om me heen die al hun vreugde eerlijk durven uiten'
 

@@ -2,7 +2,6 @@
 
  * Category: love
  * Formation: [KKK](Kkk.md)
- * Mark's rating: ?/10
  * Mark's  favorite lyric: 'liefde is OK'
  * Richel's rating: 7/10
  * Richel's favorite lyric: 'Als je staan blijft ga ik uit m'n bol'

@@ -1,8 +1,6 @@
 # Leonardo
 
  * Category: love
- * Mark's rating: ?/10
- * Mark's  favorite lyric: '?'
  * Richel's rating: 2/10
  * Richel's favorite lyric: 'We dansen tot die boot straks wegzinkt in de zee'
 

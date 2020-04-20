@@ -2,8 +2,6 @@
 
  * Category: love
  * Formation: Karen, Kathleen, Kristel
- * Mark's rating: ?/10
- * Mark's  favorite lyric: '?'
  * Richel's rating: 8/10
  * Richel's favorite lyric: 'Ik schrijf een brief naar alle kinderen van heel Europa'
 

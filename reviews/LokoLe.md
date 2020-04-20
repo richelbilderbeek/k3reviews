@@ -2,8 +2,6 @@
 
  * Category: party
  * Formation: [JKK](Jkk.md) (on the CD 'Loko Le')
- * Mark's rating: ?/10
- * Mark's  favorite lyric: '?'
  * Richel's rating: 6/10
  * Richel's favorite lyric: 'Je wilt het blondje met hondjes graag zijn'
 

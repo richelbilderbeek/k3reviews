@@ -1,7 +1,6 @@
 # Eskimo
 
  * Category: misc
- * Mark's rating: ?/10
  * Mark's favorite lyric: '?'
  * Richel's rating: 2/10
  * Richel's favorite lyric: 'Jij glijd uit en doet je pijn en ik zorg voor EHBO'

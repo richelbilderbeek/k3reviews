@@ -1,7 +1,6 @@
 # Rokjes
 
  * Category: other
- * Mark's rating: ?/10
  * Mark's favorite lyric: '?'
  * Richel's rating: 6/10
  * Richel's favorite lyric: 'Krijg je als stoere bink waarschijnlijk nul op tien'

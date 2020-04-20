@@ -2,8 +2,6 @@
 
  * Category: party
  * Formation: [JKK](Jkk.md) (on the CD 'Loko Le')
- * Mark's rating: ?/10
- * Mark's  favorite lyric: '?'
  * Richel's rating: 3/10
  * Richel's favorite lyric: 'Elke jongen kiest een leuke meid'
 

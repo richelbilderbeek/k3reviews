@@ -1,8 +1,6 @@
 # Ik Kom Tot Leven
 
  * Category: love
- * Mark's rating: ?/10
- * Mark's  favorite lyric: '?'
  * Richel's rating: 8/10
  * Richel's favorite lyric: 'Ik moet langer blijven vandaag en ik wil alleen bij jou zijn'
 

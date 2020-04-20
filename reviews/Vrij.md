@@ -1,7 +1,6 @@
 # Vrij
 
  * Category: other
- * Mark's rating: ?/10
  * Mark's favorite lyric: '?'
  * Richel's rating: 4/10
  * Richel's favorite lyric: 'De eendjes die samen stoeien'

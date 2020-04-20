@@ -1,8 +1,6 @@
 # Zonder Jou
 
  * Category: love
- * Mark's rating: ?/10
- * Mark's  favorite lyric: '?'
  * Richel's rating: 6/10
  * Richel's favorite lyric: 'Dicht bij jou, dan voel ik mij echt vrouw'
 

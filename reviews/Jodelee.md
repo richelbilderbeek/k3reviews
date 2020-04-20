@@ -2,8 +2,6 @@
 
  * Category: ethics
  * Formation: [HKM](Hkm.md) (on the CD '1000 Luchtballonnen')
- * Mark's rating: ?/10
- * Mark's  favorite lyric: '?'
  * Richel's rating: 7/10
  * Richel's  favorite lyric: 'maar je krijgt geen woord op dat roze briefpapier'
 

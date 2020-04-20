@@ -2,7 +2,6 @@
 
  * Category: other
  * Formation: Karen, Kathleen, Kristel
- * Mark's rating: ?/10
  * Mark's favorite lyric: '?'
  * Richel's rating: ?/10
  * Richel's favorite lyric: '?'

@@ -2,8 +2,6 @@
 
  * Category: other
  * Formation: [HKM](Hkm.md) (on the CD '1000 Luchtballonnen')
- * Mark's rating: ?/10
- * Mark's  favorite lyric: '?'
  * Richel's rating: 9/10
  * Richel's  favorite lyric: 'Kijk hoe mijn topje speels naar je lacht'
 

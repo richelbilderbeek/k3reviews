@@ -1,8 +1,6 @@
 # Blub, Ik Ben Een Vis
 
  * Category: Love
- * Mark's rating: ?/10
- * Mark's  favorite lyric: '?'
  * Richel's rating: 8/10
  * Richel's favorite lyric: 'Voor de grijze sleur bedank je'
 

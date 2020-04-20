@@ -1,8 +1,6 @@
 # Vriendschap
 
  * Category: ethics
- * Mark's rating: ?/10
- * Mark's  favorite lyric: '?'
  * Richel's rating: 6/10
  * Richel's fvorite lyric: 'Wees altijd jezelf, want voor ons ben je een held, als je iedereen je bonzend hart laat zien'
 

@@ -1,8 +1,6 @@
 # Je Hebt Een Vriend
 
  * Category: Friendship
- * Mark's rating: ?/10
- * Mark's  favorite lyric: '?'
  * Richel's rating: 8.5/10
  * Richel's favorite lyric: 'Ik ga door, want ik weet, ik heb ook een vriend in jou'
 

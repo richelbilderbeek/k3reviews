@@ -2,8 +2,6 @@
 
  * Category: party
  * Formation:[KKK](Kkk.md)
- * Mark's rating: ?/10
- * Mark's  favorite lyric: '?'
  * Richel's rating: 4/10
  * Richel's favorite lyric: 'Ook al weet je linkervoet vaak niet wat je rechter doet'
 

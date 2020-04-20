@@ -2,8 +2,6 @@
 
  * Category: party
  * Formation:[KKK](Kkk.md)
- * Mark's rating: ?/10
- * Mark's  favorite lyric: '?'
  * Richel's rating: 4/10
  * Richel's favorite lyric: 'Als ik zie hoe je hem met je ogen verslindt'
 

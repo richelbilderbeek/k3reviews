@@ -2,8 +2,6 @@
 
  * Category: Ethics
  * Formation: [HKM](Hkm.md) (on the CD '?')
- * Mark's rating: ?/10
- * Mark's  favorite lyric: '?'
  * Richel's rating: 8/10
  * Richel's  favorite lyric: 'Een stem, een wereld, een vlag, een bonzend hart'
 

@@ -4,8 +4,6 @@
  * Formations: 
     * [JKK](Jkk.md) (on the CD 'MaMaSe')
     * [HKM](Hkm.md) (on the CD '1000 Luchtballonnen')
- * Mark's rating: ?/10
- * Mark's  favorite lyric: '?'
  * Richel's rating: 1/10 (KKK) and 1/10 (HKM)
  * Richel's favorite lyric: none
  

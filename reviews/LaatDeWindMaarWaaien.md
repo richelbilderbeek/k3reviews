@@ -1,8 +1,6 @@
 # Laat De Wind Maar Waaien
 
  * Category: other
- * Mark's rating: ?/10
- * Mark's  favorite lyric: '?'
  * Richel's rating: 8/10
  * Richel's favorite lyric: 'Laat de wind maar waaien'
 

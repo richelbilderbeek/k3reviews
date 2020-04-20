@@ -4,8 +4,6 @@
  * Formations: 
     * [KKK](Kkk.md) (on the CD 'Ya Ya Yippee')
     * [HKM](Hkm.md) (on the CD '1000 Luchtballonnen')
- * Mark's rating: ?/10
- * Mark's  favorite lyric: '?'
  * Richel's rating: 9/10 (KKK), 8.5/10 (HKM)
  * Richel's favorite lyric: 'dan zou je denken dat de wereld voor het eerst een dag vrijaf heeft'
 

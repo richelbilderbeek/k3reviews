@@ -2,8 +2,6 @@
 
  * Category: love
  * Formation: [KKK](Kkk.md)
- * Mark's rating: ?/10
- * Mark's  favorite lyric: '?'
  * Richel's rating: 8/10
  * Richel's favorite lyric: 'Het overkomt ons soms wel eens allemaal dat het liefje van je dromen plots voor je staat'
 

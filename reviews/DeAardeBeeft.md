@@ -2,8 +2,6 @@
 
  * Category: Ethics
  * Formation: [HKM](Hkm.md) (on the CD 'Unshuaia')
- * Mark's rating: ?/10
- * Mark's  favorite lyric: '?'
  * Richel's rating: 8/10
  * Richel's  favorite lyric: ''t Lijkt of niemand weet dat je deze planeet deelt met alles wat leeft'
 

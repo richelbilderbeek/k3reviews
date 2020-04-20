@@ -2,7 +2,6 @@
 
  * Category: partying
  * Formation: [KKK](Kkk.md) (on the CD 'Kusjes')
- * Mark's rating: ?/10
  * Mark's favorite lyric: '?'
  * Richel's rating: 4/10
  * Richel's favorite lyric: 'Ik ben, ja zeg het, een fuifgenie' 

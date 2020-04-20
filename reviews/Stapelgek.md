@@ -1,8 +1,6 @@
 # Stapelgek
 
  * Category: love
- * Mark's rating: ?/10
- * Mark's  favorite lyric: '?'
  * Richel's rating: 7/10
  * Richel's favorite lyric: 'Waarom hebben m'n hormonen het toch plots zo druk'
 

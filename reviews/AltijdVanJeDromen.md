@@ -1,8 +1,6 @@
 # Altijd Van Je Dromen
 
  * Category: love
- * Mark's rating: ?/10
- * Mark's  favorite lyric: '?'
  * Richel's rating: 6/10
  * Richel's favorite lyric: 'Terwijl de zon met mijn verdriet lacht'
 

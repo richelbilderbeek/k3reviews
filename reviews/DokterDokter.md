@@ -1,8 +1,6 @@
 # Dokter Dokter
 
  * Category: love
- * Mark's rating: ?/10
- * Mark's  favorite lyric: '?'
  * Richel's rating: 9/10
  * Richel's favorite lyric: 'Ik ben op weg naar hemel nummer zeven'
 

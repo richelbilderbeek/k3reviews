@@ -1,8 +1,6 @@
 # Fiesta De Amor
 
  * Category: love
- * Mark's rating: ?/10
- * Mark's  favorite lyric: '?'
  * Richel's rating: 8/10
  * Richel's favorite lyric: 'Ik weet hoe het moet bij jou'
 

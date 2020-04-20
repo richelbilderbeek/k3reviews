@@ -4,7 +4,6 @@
  * Formations: 
     * [KKK](Kkk.md) (on the CD 'Kuma He')
     * [HKM](Hkm.md) (on the CD '1000 Luchtballonnen')
- * Mark's rating: ?/10
  * Mark's favorite lyric: '?'
  * Richel's rating: ?/10
  * Richel's favorite lyric: '?'

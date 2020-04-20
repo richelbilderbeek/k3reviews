@@ -4,8 +4,6 @@
  * Formations: 
     * [KKK](Kkk.md) (on the CD 'Oya Lele')
     * [HKM](Hkm.md) (on the CD '1000 Luchtballonnen')
- * Mark's rating: ?/10
- * Mark's  favorite lyric: '?'
  * Richel's rating: /10
  * Richel's favorite lyric: 'Iedereen voelt zich goed als de zon uit de kleren gaat'
 

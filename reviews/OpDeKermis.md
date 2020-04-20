@@ -1,7 +1,6 @@
 # Op De Kermis
 
  * Category: other
- * Mark's rating: ?/10
  * Mark's favorite lyric: '?'
  * Richel's rating: 7/10
  * Richel's favorite lyric: 'daarboven krijg je vast de eerste kus op je mond'

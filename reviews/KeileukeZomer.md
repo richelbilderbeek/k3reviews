@@ -1,8 +1,6 @@
 # Keileuke Zomer
 
  * Category: party
- * Mark's rating: ?/10
- * Mark's  favorite lyric: '?'
  * Richel's rating: 8/10
  * Richel's favorite lyric: 'het leven is kort, en afscheid doet pijn, dus grijp nu je kans om gelukkig te zijn'
 
