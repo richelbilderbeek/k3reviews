@@ -1,7 +1,7 @@
 # Meisjesdag
 
  * Category: other
- * Formation: [HMK](Hkm.md) (on the CD '1000 Luchtballonnen')
+ * Formation: [HKM](Hkm.md) (on the CD '1000 Luchtballonnen')
  * Mark's rating: ?/10
  * Mark's  favorite lyric: '?'
  * Richel's rating: 9/10

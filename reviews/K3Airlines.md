@@ -1,7 +1,7 @@
 # K3-Airlines
 
  * Category: party
- * Formation: [KKJ](Kkj.md) (on the CD 'Eyo')
+ * Formation: [JKK](Jkk.md) (on the CD 'Eyo')
  * Mark's rating: 7/10
  * Mark's  favorite lyric: 'Van Tahiti tot in Borneo, ik bouw een vliegtuig dat heel de wereld rond gaat'
  * Richel's rating: 8/10

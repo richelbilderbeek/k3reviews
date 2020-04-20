@@ -1,7 +1,7 @@
 # Leve De Cowboys
 
  * Category: 
- * Formation: [HMK](Hkm.md) (on the CD 'Roller Disco')
+ * Formation: [HKM](Hkm.md) (on the CD 'Roller Disco')
  * Richel's rating: 6/10
  * Richel's  favorite lyric: 'Het wordt heet en da's waar ik van houd'
 

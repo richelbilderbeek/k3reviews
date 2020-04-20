@@ -1,7 +1,7 @@
 # Verstoppertje
 
  * Category: other
- * Formation: [KKJ](Kkj.md) (on the CD 'Eyo')
+ * Formation: [JKK](Jkk.md) (on the CD 'Eyo')
  * Mark's rating: ?/10
  * Mark's  favorite lyric: '?'
  * Richel's rating: 6/10

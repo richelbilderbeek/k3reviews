@@ -1,7 +1,7 @@
 # Ushuaia
 
  * Category: Ethics
- * Formation: [HMK](Hkm.md) (on the CD '?')
+ * Formation: [HKM](Hkm.md) (on the CD '?')
  * Mark's rating: ?/10
  * Mark's  favorite lyric: '?'
  * Richel's rating: 8/10

@@ -3,7 +3,7 @@
  * Category: love
  * Formations: 
     * [KKK](Kkk.md) (on the CD 'Teleromeo')
-    * [HMK](Hkm.md) (on the CD '1000 Luchtballonnen')
+    * [HKM](Hkm.md) (on the CD '1000 Luchtballonnen')
  * Mark's rating: ?/10
  * Mark's  favorite lyric: '?'
  * Richel's rating: 8/10 (KKK formation), 6/10 (HKM formation)

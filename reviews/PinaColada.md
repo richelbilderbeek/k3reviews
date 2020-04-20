@@ -1,7 +1,7 @@
 # Piña Colada
 
  * Category: love
- * Formation:  [HMK](Hkm.md)
+ * Formation:  [HKM](Hkm.md)
  * Richel's rating: 8/10
  * Richel's favorite lyric: 'de verf loopt van de muren, het kwik is overstuur'
 

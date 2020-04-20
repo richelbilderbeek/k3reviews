@@ -1,7 +1,7 @@
 # Liefde Is Overal
 
  * Category: love
- * Formation:  [HMK](Hkm.md)
+ * Formation:  [HKM](Hkm.md)
  * Richel's rating: 7/10
  * Richel's favorite lyric: 'Geef me een teken en reken op mij'
 
@@ -121,7 +121,7 @@ share a similar nice solo.
 Upon hearing the introduction of the song for the first time, my expectations
 were high. It would be nice to have another emotional song 
 like [Je Hebt Een Vriend](JeHebtEenVriend.md) or [Alleen Door Jou](AlleenDoorJou.md)
-sung by the current [HMK](Hkm.md) formation, as I regard those songs
+sung by the current [HKM](Hkm.md) formation, as I regard those songs
 highly. Sadly, the tempo changed to an energetic beat, which worked out badly 
 already for [Eeuwig En Altijd](EeuwigEnAltijd.md). Additionaly, I think the
 energetic beat is repetitive and slow enough so elderly people can dance on it.
@@ -131,7 +131,7 @@ more vivid.
 K3 singing about love is what they do best. Songs like [Verliefd](Verliefd.md),
 [Meisje In De Spiegel](MeisjeInDeSpiegel.md), [Jupiter](Jupiter.md) and 
 [Zwaai Als Je Verliefd Bent](ZwaaiAlsJeVerliefdBent.md) are excellent
-examples of this. But in my opinion, up until now, the current [HMK](Hkm.md) 
+examples of this. But in my opinion, up until now, the current [HKM](Hkm.md) 
 formation has not produced a excellent song about this important theme yet.
 
 My conclusion is that this is a very unoriginal song, filled with cheap rhyme

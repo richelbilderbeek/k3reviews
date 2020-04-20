@@ -1,6 +1,6 @@
 # Wie wordt straks m'n liefje
 
- * Formation: [HMK](Hkm.md) (on the CD 'Roller Disco')
+ * Formation: [HKM](Hkm.md) (on the CD 'Roller Disco')
  * Richel's rating: 7/10
  * Richel's  favorite lyric: 'Heeft zo'n stralende lach dat duizend lichtjes in die duistere nacht zijn blijven schijnen voor mij'
 

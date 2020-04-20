@@ -1,7 +1,7 @@
 # Prinsesje en Superman
 
  * Category: ?
- * Formation: [HMK](Hkm.md) (on the CD 'Ushuaia')
+ * Formation: [HKM](Hkm.md) (on the CD 'Ushuaia')
  * Mark's rating: ?/10
  * Mark's  favorite lyric: '?'
  * Richel's rating: 9/10

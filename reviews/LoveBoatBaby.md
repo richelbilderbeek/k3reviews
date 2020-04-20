@@ -1,7 +1,7 @@
 # Love Boat Baby
 
  * Category: Love
- * Formation: [HMK](Hkm.md) (on the CD 'Unshuaia')
+ * Formation: [HKM](Hkm.md) (on the CD 'Unshuaia')
  * Mark's rating: ?/10
  * Mark's  favorite lyric: '?'
  * Richel's rating: 7/10

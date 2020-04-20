@@ -3,7 +3,7 @@
  * Category: love
  * Formations: 
     * [KKK](Kkk.md) (on the CD 'Parels')
-    * [HMK](Hkm.md) (on the CD '1000 Luchtballonnen')
+    * [HKM](Hkm.md) (on the CD '1000 Luchtballonnen')
  * Richel's rating: 9/10
  * Richel's favorite lyric: 'Ik wil jou, jij wil mij'
  * Mark's rating: 8/10

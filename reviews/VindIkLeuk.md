@@ -1,7 +1,7 @@
 # Vind ik leuk
 
  * Category: ethics
- * Formation: [KKJ](Kkj.md) (on the CD 'Engeltjes')
+ * Formation: [JKK](Jkk.md) (on the CD 'Engeltjes')
  * Mark's rating: ?/10
  * Mark's  favorite lyric: '?'
  * Richel's rating: 5/10

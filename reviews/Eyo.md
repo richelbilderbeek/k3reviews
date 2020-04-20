@@ -2,8 +2,8 @@
 
  * Category: partying
  * Formations: 
-    * [KKJ](Kkj.md) (on the CD 'Eyo')
-    * [HMK](Hkm.md) (on the CD '1000 Luchtballonnen')
+    * [JKK](Jkk.md) (on the CD 'Eyo')
+    * [HKM](Hkm.md) (on the CD '1000 Luchtballonnen')
  * Mark's rating: ?/10
  * Mark's favorite lyric: '?'
  * Richel's rating: 6/10

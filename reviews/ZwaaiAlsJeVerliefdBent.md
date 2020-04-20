@@ -1,7 +1,7 @@
 # Zwaai Als Je Verliefd Bent
 
  * Category: love
- * Formation: [KKJ](Kkj.md) (on the CD 'Engeltjes')
+ * Formation: [JKK](Jkk.md) (on the CD 'Engeltjes')
  * Mark's rating: ?/10
  * Mark's favorite lyric: '?'
  * Richel's rating: 8.5/10

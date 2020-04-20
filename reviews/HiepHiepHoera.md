@@ -1,7 +1,7 @@
 # Hiep Hiep Hoera
 
  * Category: other
- * Formation: [KKJ](Kkj.md) (on the CD 'MaMaSe')
+ * Formation: [JKK](Jkk.md) (on the CD 'MaMaSe')
  * Mark's rating: ?/10
  * Mark's  favorite lyric: '?'
  * Richel's rating: 4/10
