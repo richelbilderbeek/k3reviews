@@ -1,7 +1,7 @@
 # Excuseer Me
 
  * Category: love
- * Mark's rating: 7,7/10
+ * Mark's rating: 7.7/10
  * Mark's  favorite lyric: 'Jij bent een gedicht en ik word geraakt, een bliksemschicht'
  * Richel's rating: 4/10
  * Richel's favorite lyric: none

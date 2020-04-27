@@ -1,7 +1,7 @@
 # Eeny Meeny
 
  * Category: love
- * Mark's rating: 7,4/10
+ * Mark's rating: 7.4/10
  * Mark's  favorite lyric: 'Kijk daar is de zon al. Alles komt tot leven'
  * Richel's rating: 4/10
  * Richel's favorite lyric: 'Ik hou van Bert, maar ik houd ook van Jan'

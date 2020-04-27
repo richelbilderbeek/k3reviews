@@ -2,7 +2,7 @@
 
  * Category: love, ethics
  * Formation: [JKK](Jkk.md) (on the CD 'Loko Le')
- * Mark's rating: 8,6/10
+ * Mark's rating: 8.6/10
  * Mark's  favorite lyric: 'Door jou, alleen door jou.'
  * Richel's rating: 9/10
  * Richel's favorite lyric: 'leeft soms in een luchtbel van plezier'

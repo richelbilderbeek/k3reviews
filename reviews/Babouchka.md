@@ -1,7 +1,7 @@
 # Babouchka
 
  * Category: other
- * Mark's rating: 7,5/10
+ * Mark's rating: 7.5/10
  * Mark's favorite lyric: 'Jij was mijn nummer één. Jij maakte mij altijd blij'
  * Richel's rating: 7/10
  * Richel's favorite lyric: none
