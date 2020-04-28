@@ -1,6 +1,6 @@
 test_that("use", {
   expect_equal(
-    8, get_richels_rating(get_song_path("FransLiedje.md"))
+    8, get_richels_rating(song_filename = get_song_path("FransLiedje.md"))
   )
   expect_equal(
     9,
@@ -16,6 +16,6 @@ test_that("use", {
   )
   expect_equal(
     "No rating",
-    get_richels_rating(filename = get_song_path("PuppyLove.md"))
+    get_richels_rating(get_song_path("PuppyLove.md"))
   )
 })

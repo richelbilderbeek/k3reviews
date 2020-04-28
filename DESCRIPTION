@@ -1,12 +1,8 @@
 Package: K3Reviews
 Title: K3 Reviews
 Version: 0.0.0.9000
-Authors@R: 
-    person(given = "Richel",
-           family = "Bilderbeek",
-           role = c("aut", "cre"),
-           email = "richel@richelbilderbeek.nl",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
+Authors@R: c(
+    person("Richèl J.C.", "Bilderbeek", email = "richel@richelbilderbeek.nl", role = c("aut", "cre"), comment = c(ORCID = "0000-0003-1107-7049")))
 Description: K3 is a famous Femish band.
     K3 has many songs.
     Critics have reviewed many of those songs.
@@ -16,5 +12,7 @@ Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.0
+Imports:
+    stringr
 Suggests: 
     testthat

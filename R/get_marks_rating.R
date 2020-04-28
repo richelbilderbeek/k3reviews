@@ -1,4 +1,7 @@
-get_marks_rating <- function(filename) {
-  get_rating("Mark", filename)
+#' Get Mark's rating
+#' @inheritParams default_params_doc
+#' @export
+get_marks_rating <- function(song_filename) {
+  K3Reviews::get_rating(reviewer_name = "Mark", song_filename)
 }
 

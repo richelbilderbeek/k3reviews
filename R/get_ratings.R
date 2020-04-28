@@ -1,14 +1,17 @@
-get_ratings <- function(filenames) {
+#' Get ratings of multiple song filenames
+#' @inheritParams default_params_doc
+#' @export
+get_ratings <- function(song_filenames) {
   df_richel <- data.frame(
-    filename = filenames, 
-    formation = get_formations(filenames),
-    rating = get_richels_ratings(filenames),
+    filename = song_filenames,
+    formation = get_formations(song_filenames),
+    rating = get_richels_ratings(song_filenames),
     reviewer = "Richel"
   )
   df_mark <- data.frame(
-    filename = filenames, 
-    formation = get_formations(filenames),
-    rating = get_marks_ratings(filenames),
+    filename = song_filenames,
+    formation = get_formations(song_filenames),
+    rating = get_marks_ratings(song_filenames),
     reviewer = "Mark"
   )
   df <- rbind(df_richel, df_mark)

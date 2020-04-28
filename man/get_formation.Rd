@@ -4,7 +4,10 @@
 \alias{get_formation}
 \title{Get the formation for a song}
 \usage{
-get_formation(filename)
+get_formation(song_filename)
+}
+\arguments{
+\item{song_filename}{path to a song's review file}
 }
 \description{
 Get the formation for a song
