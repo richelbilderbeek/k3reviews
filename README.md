@@ -1,7 +1,7 @@
-# K3Reviews
+# k3reviews
 
-[![Build Status](https://travis-ci.org/richelbilderbeek/K3Reviews.svg?branch=master)](https://travis-ci.org/richelbilderbeek/K3Reviews)
-[![codecov.io](https://codecov.io/github/richelbilderbeek/K3Reviews/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/K3Reviews?branch=master)
+[![Build Status](https://travis-ci.org/richelbilderbeek/k3reviews.svg?branch=master)](https://travis-ci.org/richelbilderbeek/k3reviews)
+[![codecov.io](https://codecov.io/github/richelbilderbeek/k3reviews/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/k3reviews?branch=master)
 [![gplv3](http://www.gnu.org/graphics/gplv3-88x31.png)](http://www.gnu.org/licenses/gpl.html)
 
 Reviews of all K3 songs by adult K3 fans.

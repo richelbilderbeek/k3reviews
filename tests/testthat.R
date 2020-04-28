@@ -1,4 +1,4 @@
 library(testthat)
-library(K3Reviews)
+library(k3reviews)
 
-test_check("K3Reviews")
+test_check("k3reviews")
