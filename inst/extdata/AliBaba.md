@@ -1,6 +1,7 @@
 # Chacha Loco
 
  * Category: ?
+ * Formation: [KKK](Kkk.md)
  * Mark's rating: 8/10
  * Mark's  favorite lyric: 'Maak van die droom realiteit'
  * Richel's rating: 8/10

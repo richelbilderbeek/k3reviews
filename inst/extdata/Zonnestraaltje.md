@@ -1,8 +1,7 @@
 # Zonnestraaltje
 
  * Category: other
- * Formation: Karen, Kathleen, Kristel
- * Mark's favorite lyric: '?'
+ * Formation: [KKK](Kkk.md)
  * Richel's rating: ?/10
  * Richel's favorite lyric: '?'
 

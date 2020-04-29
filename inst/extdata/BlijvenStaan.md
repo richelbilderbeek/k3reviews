@@ -1,7 +1,7 @@
 # Blijven staan
 
  * Category: party
- * Formation: Karen, Kathleen, Kristel
+ * Formation: [KKK](Kkk.md)
  * Mark's rating: 
  * Mark's favorite lyric: 
  * Richel's rating: 1/10

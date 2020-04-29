@@ -2,8 +2,7 @@
 
  * Category: ethics
  * CD: ?
- * Formation: Karen, Kathleen, Kristel
- * Mark's favorite lyric: '?'
+ * Formation: [KKK](Kkk.md)
  * Richel's rating: 5/10
  * Richel's favorite lyric: 'Ik doe wat ik doe' 
 

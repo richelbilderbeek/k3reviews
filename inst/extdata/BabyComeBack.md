@@ -1,7 +1,7 @@
 # Baby Come Back
 
  * Category: love
- * Formation: Karen, Kathleen, Kristel
+ * Formation: [KKK](Kkk.md)
  * Richel's rating: 8/10
  * Richel's favorite lyric: 'Ik schrijf een brief naar alle kinderen van heel Europa'
 

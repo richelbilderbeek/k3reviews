@@ -1,7 +1,7 @@
 # Zou Er Iemand Zijn Op Mars
 
  * Category: love
- * Formation: Karen, Kathleen, Kristel
+ * Formation: [KKK](Kkk.md)
  * Richel's rating: 8/10
  * Richel's favorite lyric: none
 

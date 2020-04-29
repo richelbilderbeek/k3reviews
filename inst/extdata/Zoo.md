@@ -1,7 +1,7 @@
 # Zoo
 
  * Category: party
- * Formation: Karen, Kathleen, Kristel
+ * Formation: [KKK](Kkk.md)
  * Richel's rating: 2/10
  * Richel's favorite lyric: 'ik heb een hamster een hond en een poesje'
 

@@ -1,7 +1,7 @@
 # 1, 2, Doe Met Me Mee
 
  * Category: love
- * Formation: Karen, Kathleen, Kristel
+ * Formation: [KKK](Kkk.md)
  * Mark's rating: 8.5/10
  * Mark's  favorite lyric: 'Tranen van geluk, zoveel liefde kan niet stuk'
  * Richel's rating: 7/10
