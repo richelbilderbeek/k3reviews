@@ -1,6 +1,7 @@
 # Parels
 
  * Category: love
+ * Formation: [KKK](Kkk.md)
  * Richel's rating: 6/10
  * Richel's favorite lyric: 'Waar je m'n hart mee verwent'
 

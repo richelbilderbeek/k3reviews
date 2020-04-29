@@ -1,6 +1,7 @@
 # Leonardo
 
  * Category: love
+ * Formation: [KKK](Kkk.md)
  * Richel's rating: 2/10
  * Richel's favorite lyric: 'We dansen tot die boot straks wegzinkt in de zee'
 

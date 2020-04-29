@@ -1,6 +1,7 @@
 # Keileuke Zomer
 
  * Category: party
+ * Formation: [KKK](Kkk.md)
  * Richel's rating: 8/10
  * Richel's favorite lyric: 'het leven is kort, en afscheid doet pijn, dus grijp nu je kans om gelukkig te zijn'
 

@@ -1,6 +1,7 @@
 # Chacha Loco
 
  * Category: Party
+ * Formation: [KKK](Kkk.md)
  * Richel's rating: 5/10
  * Richel's favorite lyric: 'dan gaan wij alle taboes doorbreken'
 

@@ -1,9 +1,9 @@
 # Yippee Yippee
 
  * Category: love
- * Formation: Karen, Kathleen, Kristel
+ * Formation: [KKK](Kkk.md)
  * Mark's rating: 7/10
- * Mark's  favorite lyric: 'Met vrienden om je heenk kan je elke dag weer aan'
+ * Mark's  favorite lyric: 'Met vrienden om je heen kan je elke dag weer aan'
  * Richel's rating: 7/10
  * Richel's favorite lyric: 'ben jij een haai of toch meer een zoetwatervis'
 

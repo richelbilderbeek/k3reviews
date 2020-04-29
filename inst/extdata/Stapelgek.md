@@ -1,6 +1,7 @@
 # Stapelgek
 
  * Category: love
+ * Formation: [KKK](Kkk.md)
  * Richel's rating: 7/10
  * Richel's favorite lyric: 'Waarom hebben m'n hormonen het toch plots zo druk'
 

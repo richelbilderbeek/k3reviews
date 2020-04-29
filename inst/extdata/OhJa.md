@@ -1,6 +1,7 @@
 # Oh Ja
 
  * Category: love
+ * Formation: [KKK](Kkk.md)
  * Richel's rating: 4/10
  * Richel's favorite lyric: 'Ik wist niet meer wat gedaan'
 

@@ -1,6 +1,7 @@
 # Jupiter
 
  * Category: Love
+ * Formation: [KKK](Kkk.md)
  * Richel's rating: 9/10
  * Richel's favorite lyric: 'En gaan op de ringen van Saturnus staan'
 

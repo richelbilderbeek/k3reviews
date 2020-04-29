@@ -1,6 +1,7 @@
 # Laat De Wind Maar Waaien
 
  * Category: other
+ * Formation: [KKK](Kkk.md)
  * Richel's rating: 8/10
  * Richel's favorite lyric: 'Laat de wind maar waaien'
 

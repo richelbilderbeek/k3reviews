@@ -1,6 +1,7 @@
 # Blub, Ik Ben Een Vis
 
  * Category: Love
+ * Formation: [KKK](Kkk.md)
  * Richel's rating: 8/10
  * Richel's favorite lyric: 'Voor de grijze sleur bedank je'
 

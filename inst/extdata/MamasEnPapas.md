@@ -1,8 +1,7 @@
 # Mama's en Papa's
 
  * Category: ethics
- * Formations: 
-    * [KKK](Kkk.md) (on the CD 'Teleromeo')
+ * Formation: [KKK](Kkk.md)
  * Richel's rating: 7.5/10
  * Richel's favorite lyric: 'Altijd maar studeren, kruipt af en toe in je kleren'
 
