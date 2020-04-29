@@ -1,6 +1,7 @@
 # Geloof In Jezelf
 
  * Category: ethics
+ * Formation: [KKK](Kkk.md)
  * Mark's favorite lyric: '?'
  * Richel's rating: 8/10
  * Richel's favorite lyric: 'als je gelooft in jezelf, dan komt alles weer goed'

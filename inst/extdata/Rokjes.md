@@ -1,6 +1,7 @@
 # Rokjes
 
  * Category: other
+ * Formation: [KKK](Kkk.md)
  * Mark's favorite lyric: '?'
  * Richel's rating: 6/10
  * Richel's favorite lyric: 'Krijg je als stoere bink waarschijnlijk nul op tien'

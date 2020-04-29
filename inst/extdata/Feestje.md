@@ -1,6 +1,7 @@
 # Feestje
 
  * Category: party
+ * Formation: [KKK](Kkk.md)
  * Richel's rating: 5/10
  * Richel's favorite lyric: 'Op naar het stort met die gezellige stoel en het bed in de fik, want wij gaan nooit meer slapen'
 

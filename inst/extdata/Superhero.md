@@ -1,6 +1,7 @@
 # Superhero
 
  * Category: other
+ * Formation: [KKK](Kkk.md)
  * Mark's favorite lyric: '?'
  * Richel's rating: 8/10
  * Richel's favorite lyric: 'Ik vlieg als een kruisraket door de lucht'

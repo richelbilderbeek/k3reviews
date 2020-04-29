@@ -1,6 +1,7 @@
 # Ik Wil Bamba
 
  * Category: love
+ * Formation: [KKK](Kkk.md)
  * Mark's rating: 1/10
  * Mark's favorite lyric: none
  * Richel's rating: 7/10

@@ -1,7 +1,7 @@
 # Sprookjesbos
 
  * Category: party
- * Mark's favorite lyric: '?'
+ * Formation: [KKK](Kkk.md)
  * Richel's rating: 6/10
  * Richel's favorite lyric: 'Alle dieren in het sprookjesbos spannen samen om een feest te geven'
 

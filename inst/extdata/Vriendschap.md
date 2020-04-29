@@ -1,6 +1,7 @@
 # Vriendschap
 
  * Category: ethics
+ * Formation: [KKK](Kkk.md)
  * Richel's rating: 6/10
  * Richel's fvorite lyric: 'Wees altijd jezelf, want voor ons ben je een held, als je iedereen je bonzend hart laat zien'
 

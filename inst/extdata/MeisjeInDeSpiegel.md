@@ -1,6 +1,7 @@
 # Meisje In De Spiegel
 
  * Category: love
+ * Formation: [KKK](Kkk.md)
  * Mark's rating: 9/10
  * Mark's favorite lyric: 'Liefde, het mooiste wat jij ooit kan krijgen of zal geven'
  * Richel's rating: ?/10

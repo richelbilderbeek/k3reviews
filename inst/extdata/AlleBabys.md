@@ -1,6 +1,7 @@
 # Alle Baby's
 
  * Category: other
+ * Formation: [KKK](Kkk.md)
  * Mark's rating: 8/10
  * Mark's favorite lyric: 'Van alle baby's over de hele wereld, hou ik het meeste van jou.'
  * Richel's rating: ?/10

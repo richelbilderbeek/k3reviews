@@ -1,6 +1,7 @@
 # Hakuna Matata
 
  * Category: other
+ * Formation: [KKK](Kkk.md)
  * Richel's rating: 4/10
  * Richel's favorite lyric: 'Zo gek had je 't nog nooit bedacht'
 

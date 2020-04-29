@@ -1,6 +1,7 @@
 # Borst Vooruit
 
  * Category: other
+ * Formation: [KKK](Kkk.md)
  * Mark's rating: 9/10
  * Mark's favorite lyric: 'Elke korrel zand is nodig om het strand, te laten stralen in de zon.'
  * Richel's rating: 7/10

@@ -1,6 +1,7 @@
 # Wat Een Feest
 
  * Category: other
+ * Formation: [KKK](Kkk.md)
  * Mark's favorite lyric: '?'
  * Richel's rating: 1/10
  * Richel's favorite lyric: none

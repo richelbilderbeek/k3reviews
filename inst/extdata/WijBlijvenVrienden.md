@@ -1,6 +1,7 @@
 # Wij Blijven Vrienden
 
  * Category: other
+ * Formation: [KKK](Kkk.md)
  * Richel's rating: 5/10
  * Richel's favorite lyric: none
 

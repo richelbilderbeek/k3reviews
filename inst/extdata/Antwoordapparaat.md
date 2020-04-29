@@ -1,6 +1,7 @@
 # Antwoordapparaat
 
  * Category: love
+ * Formation: [KKK](Kkk.md)
  * Mark's rating: 7/10
  * Mark's  favorite lyric: none
  * Richel's rating: 8/10

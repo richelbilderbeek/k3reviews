@@ -1,7 +1,7 @@
 # Vrij
 
  * Category: other
- * Mark's favorite lyric: '?'
+ * Formation: [KKK](Kkk.md)
  * Richel's rating: 4/10
  * Richel's favorite lyric: 'De eendjes die samen stoeien'
 
