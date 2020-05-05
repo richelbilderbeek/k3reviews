@@ -6,6 +6,9 @@
     * [HKM](Hkm.md) (on the CD '1000 Luchtballonnen')
  * Richel's rating: 8/10 (KKK formation), 6/10 (HKM formation)
  * Richel's favorite lyric: 'Ik denk dat ik van je hou'
+ 
+ * Mark Wiering's rating: 9/10 (KKK formation), ?/10 (HKM formation)
+ * Mark Wiering's favorite lyric: 'Je n'entend rien que ta voix, est-tu si beau'
 
 ```
 Wie heb ik aan de lijn, hallo, hallo?
@@ -52,7 +55,9 @@ Mon tele-romeo
 
 ## Mark's review
 
-None yet.
+Dit is het lied van K3 waardoor ik afhankelijk fan ben geworden, op dertienjarige leeftijd. Ik vind het erg mooi klinken. Het lied klinkt vrolijk en opbeurend.
+
+Ik ken alleen de oude versie van dit lied, die gezongen werd door Kathleen Aerts, Karen Damen en Kristel Verbeke. De nieuwe versie, gezongen door de volledige nieuwe samenstelling van K3, heb ik nog nooit gehoord, dus die kan ik ook niet beoordelen.
 
 ## Richel's review
 
