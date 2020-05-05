@@ -7,5 +7,25 @@ test_that("use", {
   )
   df <- get_ratings(filenames)
   expect_equal(nrow(df), 8)
+  names(df)
+})
 
+test_that("use", {
+  skip("Doubly rated reviews")
+  readLines(get_song_path("HandjesDraaien.md"))
+  expect_silent(
+    get_ratings(get_song_path("HandjesDraaien.md"))
+  )
+  expect_silent(
+    get_ratings(get_song_path("TeleRomeo.md"))
+  )
+  expect_silent(
+    get_ratings(get_song_path("Toveren.md"))
+  )
+  expect_silent(
+    get_ratings(get_song_path("Verliefd.md"))
+  )
+  expect_silent(
+    get_ratings(get_song_path("YaYaYippee.md"))
+  )
 })
