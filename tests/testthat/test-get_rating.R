@@ -14,23 +14,21 @@ test_that("use", {
     "No rating",
     get_rating("Richel", get_song_path("AlleBabys.md"))
   )
-
-  skip("Doubly rated reviews")
-  readLines(get_song_path("HandjesDraaien.md"))
   expect_silent(
-    get_rating(
-      reviewer_name = "Richel",
-      song_filename = get_song_path("HandjesDraaien.md")
-    )
-  )
-  expect_silent(
-    get_rating("Richel", get_song_path("TeleRomeo.md"))
-  )
-  expect_silent(
-    get_rating("Richel", get_song_path("Toveren.md"))
+    get_rating("Richel", get_song_path("HandjesDraaien.md"))
   )
   expect_silent(
     get_rating("Richel", get_song_path("Verliefd.md"))
+  )
+  skip("More trouble")
+  expect_silent(
+    get_rating(
+      reviewer_name = "Richel",
+      song_filename = get_song_path("TeleRomeo.md")
+    )
+  )
+  expect_silent(
+    get_rating("Richel", get_song_path("Toveren.md"))
   )
   expect_silent(
     get_rating("Richel", get_song_path("YaYaYippee.md"))
