@@ -17,4 +17,6 @@ Imports:
 Suggests:
     ggplot2,
     testthat,
-    rmarkdown
+    rmarkdown,
+    knitr
+VignetteBuilder: knitr
