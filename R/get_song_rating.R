@@ -63,9 +63,8 @@ get_song_rating <- function(
   # Find the rating specific for this formation, if specified
   rating <- stringr::str_match(
     string = rating_text,
-    pattern = paste0("(rating:|and) (.|...)/10 .", formation,".")
+    pattern = paste0("(rating:|and) (.|...)/10 .", formation, ".")
   )[1, 3]
   if (is.na(rating) || rating == "?") return(NA)
   as.numeric(rating)
 }
-

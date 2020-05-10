@@ -4,7 +4,7 @@ test_that("one rating", {
   )
   expect_equal(
     8,
-    df[ df$formation == "KKK" & df$reviewer == "Richel", ]$rating
+    df[df$formation == "KKK" & df$reviewer == "Richel", ]$rating
   )
 })
 
@@ -25,10 +25,10 @@ test_that("two formations with different rating", {
   )
   expect_equal(
     9,
-    df[ df$formation == "KKK" & df$reviewer == "Richel", ]$rating
+    df[df$formation == "KKK" & df$reviewer == "Richel", ]$rating
   )
   expect_equal(
     8,
-    df[ df$formation == "HKM" & df$reviewer == "Richel", ]$rating
+    df[df$formation == "HKM" & df$reviewer == "Richel", ]$rating
   )
 })

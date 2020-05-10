@@ -32,4 +32,3 @@ get_songs_ratings <- function(song_filenames) {
   df$reviewer <- as.factor(df$reviewer)
   df
 }
-

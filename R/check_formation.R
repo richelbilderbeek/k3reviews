@@ -24,6 +24,6 @@ check_formation <- function(
     stop("'NA' is not a valid 'formation'")
   }
   if (!is.na(formation) && !formation %in% c("KKK", "JKK", "HKM")) {
-    stop("'", formation ,"' is an invalid 'formation'")
+    stop("'", formation, "' is an invalid 'formation'")
   }
 }
