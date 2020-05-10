@@ -342,7 +342,3 @@ Part 2
  * [Meisje in de Spiegel](inst/extdata/MeisjeInDeSpiegel.md)
  * TODO [Betoverd](inst/extdata/Betoverd.md)
 
-# Other things
-
- * Read the [FAQ](Faq.md)
- * Read [Richel's analysis](AnalysisRichel.md)
