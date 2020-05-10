@@ -3,31 +3,26 @@
 #' @examples
 #' library(testthat)
 #'
-#' df <- get_ratings(get_song_path("10000Luchtballonnen.md"))
+#' df <- get_songs_ratings(
+#'   song_filenames = c(
+#'     get_song_path("10000Luchtballonnen.md"),
+#'     get_song_path("10000Luchtballonnen.md")
+#'   )
+#' )
 #' expect_true("filename" %in% names(df))
 #' expect_true("formation" %in% names(df))
 #' expect_true("rating" %in% names(df))
 #' expect_true("reviewer" %in% names(df))
-#' expect_equal(2, nrow(df))
 #' @export
-get_ratings <- function(song_filenames) {
+get_songs_ratings <- function(song_filenames) {
   df <- tibble::tibble(
     filename = NULL,
     formation = NULL,
     rating = NULL,
     reviewer = NULL
   )
-  for (song_index in seq_along(song_filenames)) {
-    for (reviewer_name in c("Richel", "Mark")) {
-      song_filename <- song_filenames[song_index]
-      this_df <- get_rating(
-        reviewer_name = reviewer_name,
-        song_filename = song_filename
-      )
-      this_df$filename <- song_filename
-      this_df$reviewer <- reviewer_name
-      df <- rbind(df, this_df)
-    }
+  for (song_filename in song_filenames) {
+    df <- rbind(df, k3reviews::get_song_ratings(song_filename))
   }
   df$filename <- as.character(df$filename)
   df$rating <- as.character(df$rating)

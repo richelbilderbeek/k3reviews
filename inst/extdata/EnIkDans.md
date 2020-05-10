@@ -1,7 +1,7 @@
 # En Ik Dans
 
  * Category: party
- * Richel's rating: 9/10 (JKM)
+ * Richel's rating: 9/10 (JKK)
  * Richel's favorite lyric: 'Draag je hart altijd langsbuiten'
 
 ```
