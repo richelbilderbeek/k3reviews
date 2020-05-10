@@ -12,3 +12,13 @@ get_ratings(song_filenames)
 \description{
 Get ratings of multiple song filenames
 }
+\examples{
+library(testthat)
+
+df <- get_ratings(get_song_path("10000Luchtballonnen.md"))
+expect_true("filename" \%in\% names(df))
+expect_true("formation" \%in\% names(df))
+expect_true("rating" \%in\% names(df))
+expect_true("reviewer" \%in\% names(df))
+expect_equal(2, nrow(df))
+}

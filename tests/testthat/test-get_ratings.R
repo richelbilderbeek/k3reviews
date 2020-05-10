@@ -11,8 +11,18 @@ test_that("use", {
 })
 
 test_that("use", {
+  expect_silent(
+    get_ratings(song_filenames = get_song_path("10000Luchtballonnen.md"))
+  )
   skip("Doubly rated reviews")
   readLines(get_song_path("HandjesDraaien.md"))
+
+  # 1 row for Mark
+  # 2 rows for Richel
+  expect_equal(
+    3,
+    nrow(get_ratings(get_song_path("HandjesDraaien.md")))
+  )
   expect_silent(
     get_ratings(get_song_path("HandjesDraaien.md"))
   )

@@ -1,4 +1,5 @@
 test_that("use", {
+  skip("Not now")
   expect_equal(
     "KKK", get_formation(get_song_path("FransLiedje.md"))
   )
