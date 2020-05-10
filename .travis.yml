@@ -2,6 +2,12 @@ language: r
 dist: bionic
 cache: packages
 
+r_github_packages:
+  - jimhester/covr
+  - jimhester/lintr
+  - MangoTheCat/goodpractice
+  - ropensci/spelling
+
 install:
   # Check dead links
   - sudo apt-get install -qq npm
@@ -16,3 +22,23 @@ after_script:
   # Check dead links
   - rm .travis.yml
   - ./scripts/check_dead_links || true
+
+after_success:
+  # Lint
+  - Rscript -e 'lintr::lint_package()' 
+  # Codecov
+  - Rscript -e 'covr::codecov()'
+  # Goodpractice
+  - Rscript -e 'goodpractice::gp()'
+
+after_failure:
+  - cat /home/travis/build/ropensci/babette/..Rcheck/00install.out
+  - cat /home/travis/build/ropensci/babette/..Rcheck/00check.log
+  - cd ~; find . | egrep "beast"
+  - cd ~; find . | egrep "\.log"
+  - cd ~; find . | egrep "\.trees"
+  - cd ~; find . | egrep "\.xml"
+  - cd ~; find . | egrep "\.xml\.state"
+  - cd ~; find . | egrep "\.fasta"
+  - cat /home/travis/build/ropensci/babette/..Rcheck/tests/testthat/testthat.log
+
