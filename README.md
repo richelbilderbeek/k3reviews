@@ -1,7 +1,9 @@
 # k3reviews
 
-[![Build Status](https://travis-ci.org/richelbilderbeek/k3reviews.svg?branch=master)](https://travis-ci.org/richelbilderbeek/k3reviews)
-[![codecov.io](https://codecov.io/github/richelbilderbeek/k3inst/extdata/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/k3reviews?branch=master)
+Branch   |[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)|[![Codecov logo](pics/Codecov.png)](https://www.codecov.io)
+---------|----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+`master` |[![Build Status](https://travis-ci.org/richelbilderbeek/k3reviews.svg?branch=master)](https://travis-ci.org/richelbilderbeek/k3reviews)|[![codecov.io](https://codecov.io/github/richelbilderbeek/k3reviews/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/k3reviews/branch/master)
+`develop`|[![Build Status](https://travis-ci.org/richelbilderbeek/k3reviews.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/k3reviews)|[![codecov.io](https://codecov.io/github/richelbilderbeek/k3reviews/coverage.svg?branch=develop)](https://codecov.io/github/richelbilderbeek/k3reviews/branch/develop)
 
 Reviews of all K3 songs by adult K3 fans.
 
