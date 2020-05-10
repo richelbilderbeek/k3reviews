@@ -6,6 +6,8 @@
 documentation.}
 \usage{
 default_params_doc(
+  formation,
+  na_is_ok,
   reviewer_name,
   song_name,
   song_filenames,
@@ -14,6 +16,12 @@ default_params_doc(
 )
 }
 \arguments{
+\item{formation}{the K3 formation, in three, alphabettically
+ordered uppercase characters, e.g \code{HKM} for the third
+formation}
+
+\item{na_is_ok}{boolean to indicate if \link{NA} is accepted}
+
 \item{reviewer_name}{name of the reviewer, e.g. \code{Richel}}
 
 \item{song_name}{name of the K3 song}

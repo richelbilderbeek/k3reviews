@@ -7,7 +7,7 @@
 #' @examples
 #' library(testthat)
 #'
-#' song_filename = get_song_path("Verliefd.md")
+#' song_filename <- get_song_path("Verliefd.md")
 #' expect_equal(
 #'   9,
 #'   get_song_rating(

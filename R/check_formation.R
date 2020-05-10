@@ -1,6 +1,8 @@
 #' Check if the formation is valid
 #' @inheritParams default_params_doc
 #' @examples
+#' library(testthat)
+#'
 #' expect_silent(check_formation("KKK"))
 #' expect_silent(check_formation("JKK"))
 #' expect_silent(check_formation("HKM"))

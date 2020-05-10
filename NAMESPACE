@@ -2,6 +2,7 @@
 
 export(check_formation)
 export(get_all_song_filenames)
+export(get_song_path)
 export(get_song_rating)
 export(get_song_ratings)
 export(get_songs_ratings)

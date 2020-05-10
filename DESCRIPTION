@@ -14,8 +14,10 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.0
 Imports:
     knitr,
-    stringr
-Suggests: 
+    stringr,
+    tibble
+Suggests:
+    ggplot2,
     testthat,
     rmarkdown
 VignetteBuilder: knitr

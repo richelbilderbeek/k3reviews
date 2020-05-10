@@ -12,3 +12,9 @@ get_song_path(song_name)
 \description{
 Get the path of a song's name
 }
+\examples{
+library(testthat)
+
+expect_silent(get_song_path("10000Luchtballonnen.md"))
+expect_error(get_song_path("absent"))
+}

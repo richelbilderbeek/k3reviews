@@ -11,6 +11,10 @@ get_song_rating(song_filename, reviewer_name, formation)
 \item{song_filename}{path to a song's review file}
 
 \item{reviewer_name}{name of the reviewer, e.g. \code{Richel}}
+
+\item{formation}{the K3 formation, in three, alphabettically
+ordered uppercase characters, e.g \code{HKM} for the third
+formation}
 }
 \value{
 a number if there is a rating given
@@ -24,7 +28,7 @@ for a specific reviewer and formation
 \examples{
 library(testthat)
 
-song_filename = get_song_path("Verliefd.md")
+song_filename <- get_song_path("Verliefd.md")
 expect_equal(
   9,
   get_song_rating(

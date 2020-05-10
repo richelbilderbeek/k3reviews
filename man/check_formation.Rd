@@ -6,10 +6,19 @@
 \usage{
 check_formation(formation, na_is_ok = FALSE)
 }
+\arguments{
+\item{formation}{the K3 formation, in three, alphabettically
+ordered uppercase characters, e.g \code{HKM} for the third
+formation}
+
+\item{na_is_ok}{boolean to indicate if \link{NA} is accepted}
+}
 \description{
 Check if the formation is valid
 }
 \examples{
+library(testthat)
+
 expect_silent(check_formation("KKK"))
 expect_silent(check_formation("JKK"))
 expect_silent(check_formation("HKM"))
