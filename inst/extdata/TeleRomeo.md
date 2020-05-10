@@ -4,10 +4,9 @@
  * Formations: 
     * [KKK](Kkk.md) (on the CD 'Teleromeo')
     * [HKM](Hkm.md) (on the CD '1000 Luchtballonnen')
- * Richel's rating: 8/10 (KKK formation), 6/10 (HKM formation)
+ * Richel's rating: 8/10 (KKK) and 6/10 (HKM)
  * Richel's favorite lyric: 'Ik denk dat ik van je hou'
- 
- * Mark Wiering's rating: 9/10 (KKK formation), ?/10 (HKM formation)
+ * Mark Wiering's rating: 9/10 (KKK formation) and ?/10 (HKM formation)
  * Mark Wiering's favorite lyric: 'Je n'entend rien que ta voix, est-tu si beau'
 
 ```

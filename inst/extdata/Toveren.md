@@ -4,7 +4,7 @@
  * Formations: 
     * [KKK](Kkk.md) (on the CD 'Tele-Romeo')
     * [HKM](Hkm.md) (on the CD '1000 Luchtballonnen')
- * Richel's rating: 8/10 (KKK), 8/10 (HKM)
+ * Richel's rating: 8/10 (KKK) and 8/10 (HKM)
  * Richel's favorite lyric: 'Met een mooie glimlach of een lief gebaar, worden al jouw dromen waar'
 
 ```

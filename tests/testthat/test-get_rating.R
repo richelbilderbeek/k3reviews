@@ -20,7 +20,6 @@ test_that("use", {
   expect_silent(
     get_rating("Richel", get_song_path("Verliefd.md"))
   )
-  skip("More trouble")
   expect_silent(
     get_rating(
       reviewer_name = "Richel",
