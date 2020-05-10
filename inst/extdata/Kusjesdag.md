@@ -1,8 +1,7 @@
 # Kusjesdag
 
  * Category: love
- * Formation: [KKK](Kkk.md) (on the CD 'Kusjes')
- * Richel's rating: 8/10
+ * Richel's rating: 8/10 (KKK)
  * Richel's favorite lyric: 'Alles kan en alles mag'
 
 ```

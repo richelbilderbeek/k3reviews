@@ -1,10 +1,9 @@
 # Babouchka
 
  * Category: other
- * Formation: [KKK](Kkk.md)
- * Mark's rating: 7.5/10
+ * Mark's rating: 7.5/10 (KKK)
  * Mark's favorite lyric: 'Jij was mijn nummer één. Jij maakte mij altijd blij'
- * Richel's rating: 7/10
+ * Richel's rating: 7/10 (KKK)
  * Richel's favorite lyric: none
 
 ```

@@ -1,9 +1,9 @@
 # Torenhoog
 
  * Category: love
- * Formation: [KKK](Kkk.md)
+ * Mark's rating: ?/10 (KKK)
  * Mark's  favorite lyric: 'liefde is OK'
- * Richel's rating: 4/10
+ * Richel's rating: 4/10 (KKK)
  * Richel's favorite lyric: none
 
 

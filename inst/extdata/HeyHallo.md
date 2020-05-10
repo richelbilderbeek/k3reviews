@@ -1,8 +1,7 @@
 # Hey Hallo
 
  * Category: misc
- * Formation: [KKK](Kkk.md)
- * Richel's rating: 5/10
+ * Richel's rating: 5/10 (KKK)
  * Richel's favorite lyric: 'Met fantasie en met een oud laken kunnen we het gezellig gaan maken'
 
 ```

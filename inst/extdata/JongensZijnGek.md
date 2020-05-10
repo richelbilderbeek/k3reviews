@@ -1,8 +1,7 @@
 # Jongens Zijn Gek
 
  * Category: party
- * Formation: [KKK](Kkk.md)
- * Richel's rating: 4/10
+ * Richel's rating: 4/10 (KKK)
  * Richel's favorite lyric: 'Je krijgt ze maar niet in je macht'
 
 ```

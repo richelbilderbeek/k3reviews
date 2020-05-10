@@ -1,8 +1,7 @@
 # Geen Tweede Keer
 
  * Category: love
- * Formation: [KKK](Kkk.md)
- * Richel's rating: 1/10
+ * Richel's rating: 1/10 (KKK)
  * Richel's favorite lyric: none
 
 ```

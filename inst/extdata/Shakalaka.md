@@ -1,9 +1,7 @@
 # Shakalaka
 
  * Category: other
- * Formation: [KKK](Kkk.md)
- * Mark's favorite lyric: '?'
- * Richel's rating: ?/10
+ * Richel's rating: ?/10 (KKK)
  * Richel's favorite lyric: '?'
 
 ```

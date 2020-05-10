@@ -1,8 +1,7 @@
 # Dat Ik Van Je Hou
 
  * Category: love
- * Formation: [KKK](Kkk.md)
- * Richel's rating: 4/10
+ * Richel's rating: 4/10 (KKK)
  * Richel's favorite lyric: 'en ik vlei me lekker tegen jou aan'
 
 ```

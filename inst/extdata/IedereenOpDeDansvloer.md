@@ -1,9 +1,7 @@
 # Iedereen is anders
 
  * Category: partying
- * Formation: [KKK](Kkk.md) (on the CD 'Kusjes')
- * Mark's favorite lyric: '?'
- * Richel's rating: 4/10
+ * Richel's rating: 4/10 (KKK)
  * Richel's favorite lyric: 'Ik ben, ja zeg het, een fuifgenie' 
 
 ```

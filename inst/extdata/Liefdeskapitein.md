@@ -1,8 +1,7 @@
 # Liefdeskapitein
 
  * Category: love
- * Formation: [KKK](Kkk.md)
- * Richel's rating: 9/10
+ * Richel's rating: 9/10 (KKK)
  * Richel's favorite lyric: 'en niet veel meer dan dat'
 
 ```

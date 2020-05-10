@@ -1,9 +1,8 @@
 # Ik Kan Niet Verder Zonder Jou
 
  * Category: love
- * Formation: [KKK](Kkk.md)
  * Mark's  favorite lyric: 'liefde is OK'
- * Richel's rating: 7/10
+ * Richel's rating: 7/10 (KKK)
  * Richel's favorite lyric: 'Als je staan blijft ga ik uit m'n bol'
 
 

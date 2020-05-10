@@ -1,8 +1,7 @@
 # Ons Huis
 
  * Category: party
- * Formation: [KKK](Kkk.md) (on the CD 'Kusjes')
- * Richel's rating: 5/10
+ * Richel's rating: 5/10 (KKK)
  * Richel's favorite lyric: none
 
 ```

@@ -1,10 +1,9 @@
 # Yippee Yippee
 
  * Category: love
- * Formation: [KKK](Kkk.md)
- * Mark's rating: 7/10
+ * Mark's rating: 7/10 (KKK)
  * Mark's  favorite lyric: 'Met vrienden om je heen kan je elke dag weer aan'
- * Richel's rating: 7/10
+ * Richel's rating: 7/10 (KKK)
  * Richel's favorite lyric: 'ben jij een haai of toch meer een zoetwatervis'
 
 ```

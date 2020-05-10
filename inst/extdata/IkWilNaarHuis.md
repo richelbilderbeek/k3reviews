@@ -1,7 +1,6 @@
 # Ik Wil Naar Huis
 
  * Category: other
- * Mark's favorite lyric: '?'
  * Richel's rating: 8/10
  * Richel's favorite lyric: 'Want ik wil naar huis'
 

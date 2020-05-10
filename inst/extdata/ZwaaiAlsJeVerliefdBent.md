@@ -1,9 +1,7 @@
 # Zwaai Als Je Verliefd Bent
 
  * Category: love
- * Formation: [JKK](Jkk.md) (on the CD 'Engeltjes')
- * Mark's favorite lyric: '?'
- * Richel's rating: 8.5/10
+ * Richel's rating: 8.5/10 (JKK)
  * Richel's favorite lyric: 'Haar liefdesdroom zonder net ooit te beleven'
 
 

@@ -1,8 +1,7 @@
 # Baby Come Back
 
  * Category: love
- * Formation: [KKK](Kkk.md)
- * Richel's rating: 8/10
+ * Richel's rating: 8/10 (KKK)
  * Richel's favorite lyric: 'Ik schrijf een brief naar alle kinderen van heel Europa'
 
 ```

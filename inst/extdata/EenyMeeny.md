@@ -1,10 +1,9 @@
 # Eeny Meeny
 
  * Category: love
- * Formation: [KKK](Kkk.md)
- * Mark's rating: 7.4/10
+ * Mark's rating: 7.4/10 (KKK)
  * Mark's  favorite lyric: 'Kijk daar is de zon al. Alles komt tot leven'
- * Richel's rating: 4/10
+ * Richel's rating: 4/10 (KKK)
  * Richel's favorite lyric: 'Ik hou van Bert, maar ik houd ook van Jan'
 
 ## Mark's review

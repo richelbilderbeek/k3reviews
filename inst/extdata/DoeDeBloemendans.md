@@ -1,7 +1,6 @@
 # Doe De Bloemendans
 
  * Category: other
- * Mark's favorite lyric: '?'
  * Richel's rating: 4/10
  * Richel's favorite lyric: 'zet je heupen aan het werk'
 

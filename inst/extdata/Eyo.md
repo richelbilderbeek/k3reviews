@@ -4,7 +4,6 @@
  * Formations: 
     * [JKK](Jkk.md) (on the CD 'Eyo')
     * [HKM](Hkm.md) (on the CD '1000 Luchtballonnen')
- * Mark's favorite lyric: '?'
  * Richel's rating: 6/10
  * Richel's favorite lyric: 'Zou het verliefdheid zijn'
 

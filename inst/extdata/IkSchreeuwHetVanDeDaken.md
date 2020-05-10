@@ -1,8 +1,7 @@
 # Ik Schreeuw Het Van De Daken
 
  * Category: love
- * Formation: [KKK](Kkk.md)
- * Richel's rating: 6/10
+ * Richel's rating: 6/10 (KKK)
  * Richel's favorite lyric: 'Ik wil jou, en jij wil mij'
 
 ```

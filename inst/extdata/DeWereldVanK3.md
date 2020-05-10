@@ -1,8 +1,7 @@
 # De Wereld Van K3
 
  * Category: party
- * Formation: [KKK](Kkk.md)
- * Richel's rating: 5/10
+ * Richel's rating: 5/10 (KKK)
  * Richel's favorite lyric: 'duizenden kinderhartjes vol muziek'
 
 ```

@@ -1,9 +1,6 @@
 # Verliefd
 
  * Category: love
- * Formations: 
-    * [KKK](Kkk.md) (on the CD 'Verliefd')
-    * [HKM](Hkm.md) (on the CD '1000 Luchtballonnen')
  * Richel's rating: 9/10 (KKK) and 8/10 (HKM)
  * Richel's favorite lyric: 'Zingt een vogel een vrolijk liedje als jij je uitrekt?'
 

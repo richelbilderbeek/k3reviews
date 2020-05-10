@@ -1,8 +1,7 @@
 # Doe Maar
 
  * Category: love
- * Formation: [KKK](Kkk.md)
- * Richel's rating: 9/10
+ * Richel's rating: 9/10 (KKK)
  * Richel's favorite lyric: 'Je wil meer dan hand in hand gaan'
 
 ```

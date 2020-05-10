@@ -1,9 +1,7 @@
 # Je Mama Ziet Je Graag
 
  * Category: other
- * Formation: [KKK](Kkk.md) (on the CD 'Kusjes')
- * Formation: Karen, Kathleen, Kristel
- * Richel's rating: 5/10
+ * Richel's rating: 5/10 (KKK)
  * Richel's  favorite lyric: 'Ben je 'n engeltje of een grote kapoen'
 
 ```

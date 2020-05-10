@@ -1,10 +1,9 @@
 # 1, 2, Doe Met Me Mee
 
  * Category: love
- * Formation: [KKK](Kkk.md)
- * Mark's rating: 8.5/10
+ * Mark's rating: 8.5/10 (KKK)
  * Mark's  favorite lyric: 'Tranen van geluk, zoveel liefde kan niet stuk'
- * Richel's rating: 7/10
+ * Richel's rating: 7/10 (KKK)
  * Richel's favorite lyric: 'Regen maakt geen kans, als ik tussen druppels dans'
 
 ```

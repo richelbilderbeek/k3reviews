@@ -2,7 +2,6 @@
 
  * Category: other
  * Formation: [JKK](Jkk.md) (on the CD 'Eyo')
- * Mark's favorite lyric: '?'
  * Richel's rating: 7/10
  * Richel's favorite lyric: 'ik stop je met m'n glimlach en m'n topje'
 

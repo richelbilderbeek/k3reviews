@@ -1,8 +1,7 @@
 # Trouwen
 
  * Category: love
- * Formation: [KKK](Kkk.md)
- * Richel's rating: 9/10
+ * Richel's rating: 9/10 (KKK)
  * Richel's favorite lyric: 'nee, ik ben niet op zoek naar een vers in een boek van een dichter die jou niet kent'
  
 ```

@@ -1,10 +1,7 @@
 # Blijven staan
 
  * Category: party
- * Formation: [KKK](Kkk.md)
- * Mark's rating: 
- * Mark's favorite lyric: 
- * Richel's rating: 1/10
+ * Richel's rating: 1/10 (KKK)
  * Richel's favorite lyric: 'Verboden om je hier te vervelen'
 
 ```

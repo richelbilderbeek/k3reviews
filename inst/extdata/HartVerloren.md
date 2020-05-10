@@ -1,8 +1,7 @@
 # Hart Verloren
 
  * Category: love
- * Formation: [KKK](Kkk.md)
- * Richel's rating: 8/10
+ * Richel's rating: 8/10 (KKK)
  * Richel's favorite lyric: 'Het overkomt ons soms wel eens allemaal dat het liefje van je dromen plots voor je staat'
 
 ```

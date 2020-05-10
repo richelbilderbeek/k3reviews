@@ -1,9 +1,7 @@
 # Op Televisie
 
  * Category: love
- * Formation: [KKK](Kkk.md)
- * Mark's favorite lyric: '?'
- * Richel's rating: 6/10
+ * Richel's rating: 6/10 (KKK)
  * Richel's favorite lyric: ''
 
 

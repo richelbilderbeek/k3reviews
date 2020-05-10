@@ -1,8 +1,7 @@
 # Alle Chinezen
 
  * Category: ethics
- * Formation: [KKK](Kkk.md)
- * Richel's rating: 1/10
+ * Richel's rating: 1/10 (KKK)
  * Richel's favorite lyric: none
 
 ```

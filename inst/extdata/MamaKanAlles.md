@@ -2,7 +2,6 @@
 
  * Category: other
  * Formation: [JKK](Jkk.md) (on the CD 'Engeltjes')
- * Mark's favorite lyric: '?'
  * Richel's rating: 8/10
  * Richel's favorite lyric: 'Iedereen heeft een talent, da’s een feit'
 

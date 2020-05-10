@@ -2,7 +2,7 @@
 
  * Category: party
  * Formation: [KKK](Kkk.md) (on the CD 'Kusjes')
- * Richel's rating: 6/10
+ * Richel's rating: 6/10 (KKK)
  * Richel's favorite lyric: 'De mensen slenteren alweer een beetje slomer'
 
 ```

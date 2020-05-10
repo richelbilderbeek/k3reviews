@@ -1,8 +1,7 @@
 # Zoo
 
  * Category: party
- * Formation: [KKK](Kkk.md)
- * Richel's rating: 2/10
+ * Richel's rating: 2/10 (KKK)
  * Richel's favorite lyric: 'ik heb een hamster een hond en een poesje'
 
 ```

@@ -1,10 +1,9 @@
 # Antwoordapparaat
 
  * Category: love
- * Formation: [KKK](Kkk.md)
- * Mark's rating: 7/10
+ * Mark's rating: 7/10 (KKK)
  * Mark's  favorite lyric: none
- * Richel's rating: 8/10
+ * Richel's rating: 8/10 (KKK)
  * Richel's favorite lyric: 'jij en ik, wij waren altijd een klasse apart'
 
  ```

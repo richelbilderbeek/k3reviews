@@ -2,7 +2,6 @@
 
  * Category: other
  * Formation: [JKK](Jkk.md) (on the CD 'Eyo')
- * Mark's favorite lyric: '?'
  * Richel's rating: 7.5/10
  * Richel's favorite lyric: 'Kwam hij aan met een heel eskadron'
 

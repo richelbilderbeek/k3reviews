@@ -1,8 +1,7 @@
 # Vrij
 
  * Category: other
- * Formation: [KKK](Kkk.md)
- * Richel's rating: 4/10
+ * Richel's rating: 4/10 (KKK)
  * Richel's favorite lyric: 'De eendjes die samen stoeien'
 
 ```

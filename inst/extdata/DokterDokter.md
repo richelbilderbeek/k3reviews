@@ -1,8 +1,7 @@
 # Dokter Dokter
 
  * Category: love
- * Formation: [KKK](Kkk.md)
- * Richel's rating: 9/10
+ * Richel's rating: 9/10 (KKK)
  * Richel's favorite lyric: 'Ik ben op weg naar hemel nummer zeven'
 
 ```

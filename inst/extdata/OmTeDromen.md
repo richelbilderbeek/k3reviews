@@ -1,8 +1,7 @@
 # Om Te Dromen
 
  * Category: love
- * Formation: [KKK](Kkk.md)
- * Richel's rating: 6/10
+ * Richel's rating: 6/10 (KKK)
  * Richel's favorite lyric: 'Als je wacht tot iemand je vindt, maak je minder kans, dat is algebra '
 
 

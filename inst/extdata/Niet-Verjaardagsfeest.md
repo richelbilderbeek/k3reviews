@@ -1,10 +1,9 @@
 # Niet-Verjaardagsfeest
 
  * Category: other
- * Formation: [KKK](Kkk.md)
- * Mark's rating: 7.8/10
+ * Mark's rating: 7.8/10 (KKK)
  * Mark's favorite lyric: 'Ik vind elke dag een reden om te vieren dat jij bestaat'
- * Richel's rating: 7/10
+ * Richel's rating: 7/10 (KKK)
  * Richel's favorite lyric: 'En een blokfluit'
 
 ```

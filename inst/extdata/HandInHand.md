@@ -1,8 +1,7 @@
 # Hand In Hand
 
  * Category: ?
- * Formation: [KKK](Kkk.md)
- * Richel's rating: 4/10
+ * Richel's rating: 4/10 (KKK)
  * Richel's favorite lyric: '[...]k eens heel diep in mij[...]'
 
 ```

@@ -2,7 +2,6 @@
 
  * Category: other
  * Formation: [JKK](Jkk.md) (on the CD 'Engeltjes')
- * Mark's favorite lyric: '?'
  * Richel's rating: 7.5/10
  * Richel's favorite lyric: 'dat je toelacht als jij naar me kijkt'
 

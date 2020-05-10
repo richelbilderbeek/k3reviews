@@ -1,10 +1,9 @@
 # Ik Wil Bamba
 
  * Category: love
- * Formation: [KKK](Kkk.md)
- * Mark's rating: 1/10
+ * Mark's rating: 1/10 (KKK)
  * Mark's favorite lyric: none
- * Richel's rating: 7/10
+ * Richel's rating: 7/10 (KKK)
  * Richel's favorite lyric: 'ze is mooi en blond'
 
 ```

@@ -1,11 +1,8 @@
 # De Drie Biggetjes
 
  * Category: love
- * Formation: [KKK](Kkk.md)
- * Mark's  favorite lyric: ''
- * Richel's rating: 8/10
- * Richel's favorite lyric: ''
-
+ * Richel's rating: 8/10 (KKK)
+ * Richel's favorite lyric: 'Heb je stekels ben je zacht, dat maakt voor ons niet uit'
 
 ```
 Zag je ooit al zo een wonder, zoveel beestjes bij elkaar

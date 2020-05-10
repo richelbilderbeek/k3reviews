@@ -1,8 +1,7 @@
 # Opa
 
  * Category: family
- * Formation: [KKK](Kkk.md)
- * Richel's rating: 5/10
+ * Richel's rating: 5/10 (KKK)
  * Richel's favorite lyric: 'Ik ben vast je grootste fan'
 
 ```

@@ -1,8 +1,7 @@
 # Je Hebt Een Vriend
 
  * Category: Friendship
- * Formation: [KKK](Kkk.md)
- * Richel's rating: 8.5/10
+ * Richel's rating: 8.5/10 (KKK)
  * Richel's favorite lyric: 'Ik ga door, want ik weet, ik heb ook een vriend in jou'
 
 ```

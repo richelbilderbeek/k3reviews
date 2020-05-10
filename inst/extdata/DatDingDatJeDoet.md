@@ -1,10 +1,9 @@
 # Dat Ding Dat Je Doet
 
  * Category: misc
- * Formation: [KKK](Kkk.md)
- * Mark's rating: 8.2/10
+ * Mark's rating: 8.2/10 (KKK)
  * Mark's  favorite lyric: 'Doe nog een keer dat ding dat je doet als je glimlacht naar mij'
- * Richel's rating: 8/10
+ * Richel's rating: 8/10 (KKK)
  * Richel's favorite lyric: 'Want ik ga plat op m'n buik nu al vast'
 
 

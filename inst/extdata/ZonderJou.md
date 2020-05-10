@@ -1,8 +1,7 @@
 # Zonder Jou
 
  * Category: love
- * Formation: [KKK](Kkk.md)
- * Richel's rating: 6/10
+ * Richel's rating: 6/10 (KKK)
  * Richel's favorite lyric: 'Dicht bij jou, dan voel ik mij echt vrouw'
 
 ```

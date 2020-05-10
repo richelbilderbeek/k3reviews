@@ -1,10 +1,9 @@
 # Ware Liefde
 
  * Category: love
- * Formation: [KKK](Kkk.md) (on the CD 'Kusjes')
- * Mark's rating: 8/10
+ * Mark's rating: 8/10 (KKK)
  * Mark's  favorite lyric: 'Want ware liefde ken geen plaats of tijd. Ik zie je graag en dat is voor altijd'
- * Richel's rating: 8/10
+ * Richel's rating: 8/10 (KKK)
  * Richel's favorite lyric: 'Want ik wil elk moment'
 
 

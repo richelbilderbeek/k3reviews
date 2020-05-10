@@ -1,8 +1,7 @@
 # Frans Liedje
 
  * Category: love
- * Formation: [KKK](Kkk.md)
- * Richel's rating: 8/10
+ * Richel's rating: 8/10 (KKK)
  * Richel's favorite lyric: 'Sur le pont d'Avignon, dansten we tout en rond'
 
 ```

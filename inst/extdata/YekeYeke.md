@@ -1,8 +1,7 @@
 # Yeke Yeke
 
  * Category: love
- * Formation: [KKK](Kkk.md)
- * Richel's rating: 4/10
+ * Richel's rating: 4/10 (KKK)
  * Richel's favorite lyric: 'Als je me nu geen zoen geeft, dat is pas een zonde '
 
 ```

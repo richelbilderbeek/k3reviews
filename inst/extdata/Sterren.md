@@ -1,8 +1,7 @@
 # Sterren
 
  * Category: love
- * Formation: [KKK](Kkk.md) (on the CD 'Kusjes')
- * Richel's rating: 7/10
+ * Richel's rating: 7/10 (KKK)
  * Richel's favorite lyric: none
 
 ## Mark's review

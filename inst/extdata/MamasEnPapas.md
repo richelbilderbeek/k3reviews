@@ -1,8 +1,7 @@
 # Mama's en Papa's
 
  * Category: ethics
- * Formation: [KKK](Kkk.md)
- * Richel's rating: 7.5/10
+ * Richel's rating: 7.5/10 (KKK)
  * Richel's favorite lyric: 'Altijd maar studeren, kruipt af en toe in je kleren'
 
 ```
