@@ -18,8 +18,8 @@ formation}
 }
 \value{
 a number if there is a rating given
-to that formation by that reviewer,
-else \link{NA}.
+  to that formation by that reviewer,
+  else \link{NA}.
 }
 \description{
 Get the rating from a song's filename

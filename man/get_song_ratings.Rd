@@ -24,5 +24,5 @@ expect_true("reviewer" \%in\% names(df))
 }
 \seealso{
 use \link{get_song_rating} to get the ratings
-specifically for a reviewer and formation
+  specifically for a reviewer and formation
 }

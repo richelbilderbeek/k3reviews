@@ -38,8 +38,8 @@ documentation.
 }
 \note{
 This is an internal function, so it should be marked with
-\code{@noRd}. This is not done, as this will disallow all
-functions to find the documentation parameters
+  \code{@noRd}. This is not done, as this will disallow all
+  functions to find the documentation parameters
 }
 \author{
 Richèl J.C. Bilderbeek
