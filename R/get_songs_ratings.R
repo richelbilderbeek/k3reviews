@@ -22,7 +22,9 @@ get_songs_ratings <- function(song_filenames) {
     reviewer = NULL
   )
   for (song_filename in song_filenames) {
-    df <- rbind(df, k3reviews::get_song_ratings(song_filename))
+    this_df <- k3reviews::get_song_ratings(song_filename)
+    this_df$filename <- song_filename
+    df <- rbind(df, this_df)
   }
   df$filename <- as.character(df$filename)
   df$rating <- as.character(df$rating)

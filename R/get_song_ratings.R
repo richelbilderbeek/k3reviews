@@ -18,17 +18,17 @@ get_song_ratings <- function(
 ) {
   testthat::expect_true(file.exists(song_filename))
 
-  df <- tibble::as.tibble(
+  df <- tibble::as_tibble(
     expand.grid(
       formation = c("KKK", "JKK", "HKM"),
-      reviewer_name = c("Richel", "Mark")
+      reviewer = c("Richel", "Mark")
     )
   )
   df$rating <- NA
   for (row_index in seq_len(nrow(df))) {
-    df$rating[row_index] <- k3reviews::extract_rating(
+    df$rating[row_index] <- k3reviews::get_song_rating(
       song_filename = song_filename,
-      reviewer_name = df$reviewer_name[row_index],
+      reviewer_name = df$reviewer[row_index],
       formation = df$formation[row_index]
     )
   }

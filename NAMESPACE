@@ -2,9 +2,6 @@
 
 export(check_formation)
 export(get_all_song_filenames)
-export(get_formation)
-export(get_marks_rating)
-export(get_richels_rating)
 export(get_song_rating)
 export(get_song_ratings)
 export(get_songs_ratings)
