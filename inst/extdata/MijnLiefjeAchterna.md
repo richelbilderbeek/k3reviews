@@ -1,8 +1,7 @@
 # Mijn Liefje Achterna
 
  * Category: other
- * Formation: [JKK](Jkk.md) (on the CD 'Engeltjes')
- * Richel's rating: 7.5/10
+ * Richel's rating: 7.5/10 (JKM)
  * Richel's favorite lyric: 'En je hangmat op een dag te lang lijkt'
 
 ```

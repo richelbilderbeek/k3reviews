@@ -1,7 +1,6 @@
 # Liefde geeft je vleugels
 
  * Category: 
- * Formation: [HKM](Hkm.md) (on the CD 'Roller Disco')
  * Richel's rating: ?/10
  * Richel's  favorite lyric: '?'
 

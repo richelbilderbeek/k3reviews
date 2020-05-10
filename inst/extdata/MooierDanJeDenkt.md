@@ -1,6 +1,5 @@
 # Mooier dan je denkt
 
- * Formation: [HKM](Hkm.md) (on the CD 'Roller Disco')
  * Richel's rating: 7/10
  * Richel's  favorite lyric: ''k Wil een liedje zingen vol van vreugde, vol van hoop'
 

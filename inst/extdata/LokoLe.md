@@ -1,8 +1,7 @@
 # Loko Le
 
  * Category: party
- * Formation: [JKK](Jkk.md) (on the CD 'Loko Le')
- * Richel's rating: 6/10
+ * Richel's rating: 6/10 (JKM)
  * Richel's favorite lyric: 'Je wilt het blondje met hondjes graag zijn'
 
 ```

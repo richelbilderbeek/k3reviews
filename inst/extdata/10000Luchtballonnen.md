@@ -1,7 +1,6 @@
 # 10.000 Luchtballonnen
 
  * Category: ethics
- * Formation: [HKM](Hkm.md) (on the CD '1000 Luchtballonnen')
  * Mark's rating: 7.5/10
  * Mark's  favorite lyric: het refrein / the chorus / припев
  * Richel's rating: 8/10

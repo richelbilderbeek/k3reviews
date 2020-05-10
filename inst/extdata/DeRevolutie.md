@@ -1,8 +1,7 @@
 # De Revolutie
 
  * Category: ethics
- * Formation: [JKK](Jkk.md) (on the CD 'MaMaSe')
- * Richel's rating: 8/10
+ * Richel's rating: 8/10 (JKM)
  * Richel's favorite lyric: 'Vanavond nemen we de stad in, morgen het land, overmorgen de wereld'
 
 ```

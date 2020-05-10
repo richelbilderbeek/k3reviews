@@ -1,7 +1,6 @@
 # Prinsesje en Superman
 
  * Category: ?
- * Formation: [HKM](Hkm.md) (on the CD 'Ushuaia')
  * Richel's rating: 9/10
  * Richel's  favorite lyric: 'Soms houden prinsesjes van prinsesjes'
 

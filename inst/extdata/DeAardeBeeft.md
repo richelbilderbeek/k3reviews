@@ -1,7 +1,6 @@
 # De Aarde Beeft
 
  * Category: Ethics
- * Formation: [HKM](Hkm.md) (on the CD 'Unshuaia')
  * Richel's rating: 8/10
  * Richel's  favorite lyric: ''t Lijkt of niemand weet dat je deze planeet deelt met alles wat leeft'
 

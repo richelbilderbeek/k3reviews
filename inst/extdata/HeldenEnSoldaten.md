@@ -1,7 +1,6 @@
 # Helden en Soldaten
 
  * Category: Ethics
- * Formation: [HKM](Hkm.md) (on the CD 'Ushuaia')
  * Richel's rating: 6/10
  * Richel's  favorite lyric: 'We zijn zoetwaterpiraten'
 

@@ -1,8 +1,7 @@
 # Vind ik leuk
 
  * Category: ethics
- * Formation: [JKK](Jkk.md) (on the CD 'Engeltjes')
- * Richel's rating: 5/10
+ * Richel's rating: 5/10 (JKM)
  * Richel's favorite lyric: 'Een verkeerskegel op je hoofd gezet'
 
 

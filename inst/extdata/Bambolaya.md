@@ -1,6 +1,5 @@
 # Bambolaya
 
- * Formation: [HKM](Hkm.md) (on the CD 'Roller Disco')
  * Richel's rating: 5/10
  * Richel's  favorite lyric: 'En z'n glimlach meteen bovenhalen'
 

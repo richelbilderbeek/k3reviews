@@ -1,7 +1,6 @@
 # Iedereen K3
 
  * Category: ?
- * Formation: [HKM](Hkm.md) (on the CD 'Ushuaia')
  * Richel's rating: 6/10
  * Richel's  favorite lyric: 'Heb je zin'
 

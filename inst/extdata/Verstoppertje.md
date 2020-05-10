@@ -1,8 +1,7 @@
 # Verstoppertje
 
  * Category: other
- * Formation: [JKK](Jkk.md) (on the CD 'Eyo')
- * Richel's rating: 6/10
+ * Richel's rating: 6/10 (JKM)
  * Richel's favorite lyric: 'zoek ik die plekjes van jou'
 
 ```

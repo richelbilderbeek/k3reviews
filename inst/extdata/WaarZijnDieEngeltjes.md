@@ -1,8 +1,7 @@
 # Waar Zijn Die Engeltjes
 
  * Category: other
- * Formation: [JKK](Jkk.md) (on the CD 'Engeltjes')
- * Richel's rating: 9/10
+ * Richel's rating: 9/10 (JKM)
  * Richel's favorite lyric: 'wie helpt me uit al die winterkleren'
 
 ```

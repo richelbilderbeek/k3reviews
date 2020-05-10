@@ -1,8 +1,7 @@
 # Dubbeldekkertrein
 
  * Category: other
- * Formation: [JKK](Jkk.md) (on the CD 'Eyo')
- * Richel's rating: 4/10
+ * Richel's rating: 4/10 (JKM)
  * Richel's favorite lyric: '?'
 
 ```

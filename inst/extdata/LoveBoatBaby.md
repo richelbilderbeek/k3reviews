@@ -1,7 +1,6 @@
 # Love Boat Baby
 
  * Category: Love
- * Formation: [HKM](Hkm.md) (on the CD 'Unshuaia')
  * Richel's rating: 7/10
  * Richel's  favorite lyric: 'Was je ooit al eens de appel van iemands oog?'
 

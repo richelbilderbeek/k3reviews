@@ -1,8 +1,7 @@
 # Zeg Eens AAA
 
  * Category: love
- * Formation: [JKK](Jkk.md) (on the CD 'Engeltjes')
- * Richel's rating: 8/10
+ * Richel's rating: 8/10 (JKM)
  * Richel's favorite lyric: none
 
 ```

@@ -1,8 +1,7 @@
 # Jurkje
 
  * Category: other
- * Formation: [JKK](Jkk.md) (on the CD 'Engeltjes')
- * Richel's rating: 7.5/10
+ * Richel's rating: 7.5/10 (JKM)
  * Richel's favorite lyric: 'dat je toelacht als jij naar me kijkt'
 
 ```

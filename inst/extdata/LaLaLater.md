@@ -1,7 +1,6 @@
 # La la later
 
  * Category: 
- * Formation: [HKM](Hkm.md) (on the CD 'Roller Disco')
  * Richel's rating: 5/10
  * Richel's  favorite lyric: 'jij bent voor je 't weet keibekend'
 

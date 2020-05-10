@@ -1,8 +1,7 @@
 # Bel Me Ringeling
 
  * Category: other
- * Formation: [JKK](Jkk.md) (on the CD 'Eyo')
- * Richel's rating: 7/10
+ * Richel's rating: 7/10 (JKM)
  * Richel's favorite lyric: 'ik stop je met m'n glimlach en m'n topje'
 
 

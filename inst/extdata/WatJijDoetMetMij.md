@@ -1,8 +1,7 @@
 # Wat jij doet met mij
 
  * Category: love
- * Formation: [JKK](Jkk.md) (on the CD 'Loko Le')
- * Richel's rating: 6/10
+ * Richel's rating: 6/10 (JKM)
  * Richel's favorite lyric: 'Jij en ik zijn gebouwd uit ontelbare atomen'
 
 ```

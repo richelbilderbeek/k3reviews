@@ -1,7 +1,6 @@
 # Choco Choco
 
  * Category: Ethics
- * Formation: [HKM](Hkm.md) (on the CD 'Ushuaia')
  * Richel's rating: 6/10
  * Richel's  favorite lyric: 'als je in een Rolls Royce rijdt'
 

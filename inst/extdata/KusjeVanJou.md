@@ -1,8 +1,7 @@
 # Kusje Van Jou
 
  * Category: love
- * Formation: [JKK](Jkk.md) (on the CD 'Loko Le')
- * Richel's rating: 7.5/10
+ * Richel's rating: 7.5/10 (JKM)
  * Richel's favorite lyric: 'Met een hond en kindjes erbij'
 
 ```

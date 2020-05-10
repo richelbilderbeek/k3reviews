@@ -1,8 +1,7 @@
 # Kinderen Baas
 
  * Category: party
- * Formation: [JKK](Jkk.md) (on the CD 'Loko Le')
- * Richel's rating: 9/10
+ * Richel's rating: 9/10 (JKM)
  * Richel's favorite lyric: 'Met fanfares in het kielzog'
 
 ```

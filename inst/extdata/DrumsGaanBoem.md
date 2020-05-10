@@ -1,8 +1,7 @@
 # Drums Gaan Boem
 
  * Category: party
- * Formation: [JKK](Jkk.md) (on the CD 'Loko Le')
- * Richel's rating: 3/10
+ * Richel's rating: 3/10 (JKM)
  * Richel's favorite lyric: 'Elke jongen kiest een leuke meid'
 
 ```

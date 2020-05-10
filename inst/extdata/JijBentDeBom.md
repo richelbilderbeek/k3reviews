@@ -1,7 +1,6 @@
 # Jij Bent De Bom
 
  * Category: ethics
- * Formation: [HKM](Hkm.md) (on the CD '1000 Luchtballonnen')
  * Richel's rating: 7/10
  * Richel's  favorite lyric: 'We staan te dansen op de nieuwste schijf'
 

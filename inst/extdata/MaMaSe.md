@@ -1,8 +1,7 @@
 # MaMaSe
 
  * Category: party
- * Formation: [JKK](Jkk.md) (on the CD 'MaMaSe')
- * Richel's rating: 7/10
+ * Richel's rating: 7/10 (JKM)
  * Richel's favorite lyric: 'Overal waar de meisjes zijn is het feest'
 
 

@@ -1,8 +1,7 @@
 # Blankenberge
 
  * Category: love
- * Formation: [JKK](Jkk.md) (on the CD 'MaMaSe')
- * Richel's rating: 9/10
+ * Richel's rating: 9/10 (JKM)
  * Richel's favorite lyric: 'Met een rugzak en een bonzend hart'
 
 ```

@@ -1,8 +1,7 @@
 # Ster
 
  * Category: love
- * Formation: [JKK](Jkk.md) (on the CD 'MaMaSe')
- * Richel's rating: 6/10
+ * Richel's rating: 6/10 (JKM)
  * Richel's favorite lyric: ''
 
 ```

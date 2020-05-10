@@ -1,7 +1,6 @@
 # Lila Liedjesland
 
  * Category: ethics
- * Formation: [HKM](Hkm.md) (on the CD '1000 Luchtballonnen')
  * Richel's rating: 6/10
  * Richel's  favorite lyric: 'Wat een tip-top idee'
 

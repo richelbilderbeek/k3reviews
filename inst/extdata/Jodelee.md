@@ -1,7 +1,6 @@
 # Jodelee
 
  * Category: ethics
- * Formation: [HKM](Hkm.md) (on the CD '1000 Luchtballonnen')
  * Richel's rating: 7/10
  * Richel's  favorite lyric: 'maar je krijgt geen woord op dat roze briefpapier'
 

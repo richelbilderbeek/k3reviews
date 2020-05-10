@@ -1,8 +1,7 @@
 # En Ik Dans
 
  * Category: party
- * Formation: [JKK](Jkk.md) (on the CD 'Loko Le')
- * Richel's rating: 9/10
+ * Richel's rating: 9/10 (JKM)
  * Richel's favorite lyric: 'Draag je hart altijd langsbuiten'
 
 ```

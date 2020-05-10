@@ -1,6 +1,5 @@
 # Hey Mister Deejay
 
- * Formation: [HKM](Hkm.md) (on the CD 'Roller Disco')
  * Richel's rating: 3/10
  * Richel's  favorite lyric: none
 

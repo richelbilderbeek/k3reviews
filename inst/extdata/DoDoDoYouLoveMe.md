@@ -1,7 +1,6 @@
 # Do Do Do You Love Me
 
  * Category: ethics
- * Formation: [HKM](Hkm.md) (on the CD '1000 Luchtballonnen')
  * Richel's rating: 7/10
  * Richel's  favorite lyric: 'Dit is wat ied'reen wil'
 

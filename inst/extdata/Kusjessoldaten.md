@@ -1,7 +1,6 @@
 # Kusjessoldaten
 
  * Category: ethics
- * Formation: [HKM](Hkm.md) (on the CD '1000 Luchtballonnen')
  * Richel's rating: 8/10
  * Richel's  favorite lyric: 'Een grote of een kleine'
 

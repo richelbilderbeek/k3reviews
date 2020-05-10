@@ -1,8 +1,7 @@
 # Hallo K3
 
  * Category: party
- * Formation: [JKK](Jkk.md) (on the CD 'Eyo')
- * Richel's rating: 9/10
+ * Richel's rating: 9/10 (JKM)
  * Richel's favorite lyric: 'Ik bewaar een plekje voor je weet wel wie'
  
 ```

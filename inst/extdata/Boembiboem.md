@@ -1,7 +1,6 @@
 # Boembiboem
 
  * Category: Ethics
- * Formation: [HKM](Hkm.md) (on the CD 'Ushuaia')
  * Richel's rating: 7/10
  * Richel's  favorite lyric: 'Met dat kraaknette pakje aan'
 

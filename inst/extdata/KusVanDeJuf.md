@@ -1,7 +1,6 @@
 # Kus Van De Juf
 
  * Category: ethics
- * Formation: [HKM](Hkm.md) (on the CD '1000 Luchtballonnen')
  * Richel's rating: 6/10
  * Richel's  favorite lyric: 'Een kus van de juf en een bank vooruit'
 

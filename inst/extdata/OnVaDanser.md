@@ -1,7 +1,6 @@
 # On Va Danser
 
  * Category: ?
- * Formation: [HKM](Hkm.md) (on the CD 'Ushuaia')
  * Richel's rating: 5/10
  * Richel's  favorite lyric: '?'
 

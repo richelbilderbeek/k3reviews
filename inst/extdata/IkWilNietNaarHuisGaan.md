@@ -1,8 +1,7 @@
 # Ik Wil Niet Naar Huis Gaan
 
  * Category: party
- * Formation: [JKK](Jkk.md) (on the CD 'Loko Le')
- * Richel's rating: 8/10
+ * Richel's rating: 8/10 (JKM)
  * Richel's favorite lyric: none
 
 ```

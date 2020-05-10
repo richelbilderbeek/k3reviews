@@ -1,7 +1,6 @@
 # Mami Bisou
 
  * Category: ethics
- * Formation: [HKM](Hkm.md) (on the CD '1000 Luchtballonnen')
  * Richel's rating: 5/10
  * Richel's  favorite lyric: 'Jij maakt al mijn dromen waar'
 

@@ -1,7 +1,6 @@
 # Popgroep
 
  * Category: Ethics
- * Formation: [HKM](Hkm.md) (on the CD 'Ushuaia')
  * Richel's rating: 7.5/10
  * Richel's  favorite lyric: 'Wat wil je worden als je groot bent?'
 

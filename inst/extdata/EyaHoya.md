@@ -1,10 +1,9 @@
 # Eya Hoya
 
  * Category: party
- * Formation: [JKK](Jkk.md) (on the CD 'Loko Le')
- * Mark's rating: 0/10
+ * Mark's rating: 0/10 (JKM)
  * Mark's  favorite lyric: n.v.t.
- * Richel's rating: 1/10
+ * Richel's rating: 1/10 (JKM)
  * Richel's favorite lyric: none
 
 ## Mark's review

@@ -1,7 +1,6 @@
 # Als Het Binnen Regent
 
  * Category: ethics
- * Formation: [HKM](Hkm.md) (on the CD '1000 Luchtballonnen')
  * Richel's rating: 8/10
  * Richel's  favorite lyric: 'Neem een pan of een olievat'
 

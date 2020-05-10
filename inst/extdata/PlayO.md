@@ -1,7 +1,6 @@
 # Play-O
 
  * Category: Ethics
- * Formation: [HKM](Hkm.md) (on the CD 'Ushuaia')
  * Richel's rating: 8/10
  * Richel's  favorite lyric: 'Tienduizend volt in mijn lijf'
 
