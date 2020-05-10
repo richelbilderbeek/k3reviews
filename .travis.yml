@@ -2,6 +2,9 @@ language: r
 dist: bionic
 cache: packages
 
+r_packages:
+  - knitr
+
 r_github_packages:
   - jimhester/covr
   - jimhester/lintr
