@@ -11,13 +11,15 @@ r_github_packages:
   - MangoTheCat/goodpractice
   - ropensci/spelling
 
-install:
+before_install:
+  # From https://stackoverflow.com/a/20042195
+  - Rscript -e "update.packages(checkBuilt = TRUE, ask = FALSE)"
+
+after_script:
   # Check dead links
   - sudo apt-get install -qq npm
   - npm config set strict-ssl false
   - sudo npm install -g markdown-link-check
-
-after_script:
   # Check dead links
   - rm .travis.yml
   - ./scripts/check_dead_links || true
