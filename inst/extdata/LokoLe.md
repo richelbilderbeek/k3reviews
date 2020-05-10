@@ -1,7 +1,7 @@
 # Loko Le
 
  * Category: party
- * Richel's rating: 6/10 (JKM)
+ * Richel's rating: 6/10 (HKM)
  * Richel's favorite lyric: 'Je wilt het blondje met hondjes graag zijn'
 
 ```

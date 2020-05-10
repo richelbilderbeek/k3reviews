@@ -1,10 +1,7 @@
 # Oma's Aan De Top
 
  * Category: love
- * Formations: 
-    * [KKK](Kkk.md) (on the CD 'Alle Kleuren')
-    * [HKM](Hkm.md) (on the CD '1000 Luchtballonnen')
- * Richel's rating: 9/10
+ * Richel's rating: 9/10 (KKK) and 8.5/10 (HKM)
  * Richel's favorite lyric: 'Als plezier voortaan een schoolvak wordt, krijg jij een tien van mij'
 
 ```

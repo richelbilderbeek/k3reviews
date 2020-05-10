@@ -1,7 +1,7 @@
 # Het Steltenlied
 
  * Category: party
- * Richel's rating: 8/10 (JKM)
+ * Richel's rating: 8/10 (HKM)
  * Richel's favorite lyric: 'Duizend jonge stoere helden met vriendinnetjes erbij'
 
 ```

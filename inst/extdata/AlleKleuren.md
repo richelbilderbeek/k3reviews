@@ -1,10 +1,7 @@
 # Alle Kleuren
 
  * Category: ethics
- * Formations: 
-    * [KKK](Kkk.md) (on the CD 'Teleromeo')
-    * [HKM](Hkm.md) (on the CD '1000 Luchtballonnen')
- * Richel's rating: 5/10
+ * Richel's rating: 5/10 (KKK) and 5/10 (HKM)
  * Richel's favorite lyric: none
 
 ```

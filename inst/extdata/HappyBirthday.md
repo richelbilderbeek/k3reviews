@@ -1,8 +1,7 @@
 # Happy Birthday
 
  * Category: party
- * Formation:[KKK](Kkk.md)
- * Richel's rating: 4/10
+ * Richel's rating: 4/10 (KKK)
  * Richel's favorite lyric: 'Jij mag alles met me doen wat je wilt'
 
 

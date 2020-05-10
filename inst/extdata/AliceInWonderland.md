@@ -1,7 +1,7 @@
 # Alice In Wonderland
 
  * Category: other
- * Richel's rating: 7/10
+ * Richel's rating: 7/10 (JKK)
  * Richel's favorite lyric: none
 
 ```

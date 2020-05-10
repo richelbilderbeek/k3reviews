@@ -1,7 +1,7 @@
 # Choco Choco
 
  * Category: Ethics
- * Richel's rating: 6/10
+ * Richel's rating: 6/10 (HKM)
  * Richel's  favorite lyric: 'als je in een Rolls Royce rijdt'
 
 ```

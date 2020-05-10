@@ -1,8 +1,7 @@
 # Samen Feesten
 
  * Category: party
- * Formation:[KKK](Kkk.md)
- * Richel's rating: 3/10
+ * Richel's rating: 3/10 (KKK)
  * Richel's favorite lyric: 'Een ding willen ze allemaal. Nee, dat is niks voor mij'
 
 ## Lyrics

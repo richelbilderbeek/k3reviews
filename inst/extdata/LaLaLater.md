@@ -1,7 +1,7 @@
 # La la later
 
  * Category: 
- * Richel's rating: 5/10
+ * Richel's rating: 5/10 (HKM)
  * Richel's  favorite lyric: 'jij bent voor je 't weet keibekend'
 
 ```

@@ -1,7 +1,7 @@
 # Ushuaia
 
  * Category: Ethics
- * Richel's rating: 8/10
+ * Richel's rating: 8/10 (HKM)
  * Richel's  favorite lyric: 'Een stem, een wereld, een vlag, een bonzend hart'
 
 ```

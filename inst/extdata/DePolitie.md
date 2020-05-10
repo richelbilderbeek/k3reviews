@@ -1,7 +1,7 @@
 # De Politie
 
  * Category: other
- * Richel's rating: 7/10 (JKM)
+ * Richel's rating: 7/10 (HKM)
  * Richel's favorite lyric: 'Steeds in de positie'
 
 

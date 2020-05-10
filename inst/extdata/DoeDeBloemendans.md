@@ -1,7 +1,7 @@
 # Doe De Bloemendans
 
  * Category: other
- * Richel's rating: 4/10
+ * Richel's rating: 4/10 (HKM)
  * Richel's favorite lyric: 'zet je heupen aan het werk'
 
 ```

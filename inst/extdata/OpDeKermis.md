@@ -1,7 +1,7 @@
 # Op De Kermis
 
  * Category: other
- * Richel's rating: 7/10
+ * Richel's rating: 7/10 (JKK)
  * Richel's favorite lyric: 'daarboven krijg je vast de eerste kus op je mond'
 
 ```

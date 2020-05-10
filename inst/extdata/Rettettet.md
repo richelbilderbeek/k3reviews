@@ -1,7 +1,7 @@
 # Rettetet
 
  * Category: ethics
- * Richel's rating: 1/10
+ * Richel's rating: 1/10 (HKM)
  * Richel's  favorite lyric: none
 
 ```

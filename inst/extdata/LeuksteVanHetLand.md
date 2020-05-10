@@ -1,7 +1,7 @@
 # Leukste Van Het Land
 
  * Category: other
- * Richel's rating: 5/10 (JKM)
+ * Richel's rating: 5/10 (HKM)
  * Richel's favorite lyric: none
 
 

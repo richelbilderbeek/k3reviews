@@ -1,7 +1,7 @@
 # Koning Willem-Alexander
 
  * Category: ethics
- * Richel's rating: 7/10 (JKM)
+ * Richel's rating: 7/10 (HKM)
  * Richel's favorite lyric: ''
 
 ```

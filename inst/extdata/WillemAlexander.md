@@ -1,7 +1,7 @@
 # Willem Alexander
 
  * Category: other
- * Richel's rating: 7.5/10 (JKM)
+ * Richel's rating: 7.5/10 (HKM)
  * Richel's favorite lyric: 'Kwam hij aan met een heel eskadron'
 
 ```

@@ -1,7 +1,7 @@
 # Drums Gaan Boem
 
  * Category: party
- * Richel's rating: 3/10 (JKM)
+ * Richel's rating: 3/10 (HKM)
  * Richel's favorite lyric: 'Elke jongen kiest een leuke meid'
 
 ```

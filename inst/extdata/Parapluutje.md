@@ -1,7 +1,7 @@
 # Parapluutje
 
  * Category: other
- * Richel's rating: 8/10 (JKM)
+ * Richel's rating: 8/10 (HKM)
  * Richel's favorite lyric: 'En we dansten altijd maar dichter'
 
 ```

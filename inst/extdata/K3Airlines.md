@@ -1,9 +1,9 @@
 # K3-Airlines
 
  * Category: party
- * Mark's rating: 7/10 (JKM)
+ * Mark's rating: 7/10 (HKM)
  * Mark's  favorite lyric: 'Van Tahiti tot in Borneo, ik bouw een vliegtuig dat heel de wereld rond gaat'
- * Richel's rating: 8/10 (JKM)
+ * Richel's rating: 8/10 (HKM)
  * Richel's  favorite lyric: 'en je mag ons met een zoen betalen'
 
 ```

@@ -1,7 +1,7 @@
 # Play-O
 
  * Category: Ethics
- * Richel's rating: 8/10
+ * Richel's rating: 8/10 (HKM)
  * Richel's  favorite lyric: 'Tienduizend volt in mijn lijf'
 
 ```

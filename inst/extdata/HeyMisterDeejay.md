@@ -1,6 +1,6 @@
 # Hey Mister Deejay
 
- * Richel's rating: 3/10
+ * Richel's rating: 3/10 (HKM)
  * Richel's  favorite lyric: none
 
 ```

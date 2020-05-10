@@ -2,7 +2,7 @@
 
  * Category: ?
  * Formation: [HKM](Hkm.md) (on the CD 'Ushuaia')
- * Richel's rating: 5/10
+ * Richel's rating: 5/10 (HKM)
  * Richel's  favorite lyric: 'Ik ga los waar ik ook sta'
 
 ```

@@ -1,7 +1,7 @@
 # Boembiboem
 
  * Category: Ethics
- * Richel's rating: 7/10
+ * Richel's rating: 7/10 (HKM)
  * Richel's  favorite lyric: 'Met dat kraaknette pakje aan'
 
 ```

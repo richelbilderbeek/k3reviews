@@ -1,7 +1,7 @@
 # Vind ik leuk
 
  * Category: ethics
- * Richel's rating: 5/10 (JKM)
+ * Richel's rating: 5/10 (HKM)
  * Richel's favorite lyric: 'Een verkeerskegel op je hoofd gezet'
 
 

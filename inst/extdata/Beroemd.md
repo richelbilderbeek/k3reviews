@@ -1,8 +1,8 @@
 # Beroemd
 
  * Category: other
- * Mark's rating: 6/10 (JKM)
- * Richel's rating: 6/10 (JKM)
+ * Mark's rating: 6/10 (HKM)
+ * Richel's rating: 6/10 (HKM)
  * Richel's favorite lyric: 'Toen ik nog echt een piepbeschuiten Karentje was'
 
 ```

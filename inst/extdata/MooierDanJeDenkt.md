@@ -1,6 +1,6 @@
 # Mooier dan je denkt
 
- * Richel's rating: 7/10
+ * Richel's rating: 7/10 (HKM)
  * Richel's  favorite lyric: ''k Wil een liedje zingen vol van vreugde, vol van hoop'
 
 ```

@@ -1,8 +1,7 @@
 # Hollywood
 
  * Category: party
- * Formation:[KKK](Kkk.md)
- * Richel's rating: 8/10
+ * Richel's rating: 8/10 (KKK)
  * Richel's favorite lyric: 'Iedereen juicht me toe, want ik doe het goed'
 
 ```

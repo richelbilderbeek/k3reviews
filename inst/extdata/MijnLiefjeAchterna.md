@@ -1,7 +1,7 @@
 # Mijn Liefje Achterna
 
  * Category: other
- * Richel's rating: 7.5/10 (JKM)
+ * Richel's rating: 7.5/10 (HKM)
  * Richel's favorite lyric: 'En je hangmat op een dag te lang lijkt'
 
 ```

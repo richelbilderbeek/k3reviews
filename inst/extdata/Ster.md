@@ -1,7 +1,7 @@
 # Ster
 
  * Category: love
- * Richel's rating: 6/10 (JKM)
+ * Richel's rating: 6/10 (HKM)
  * Richel's favorite lyric: ''
 
 ```

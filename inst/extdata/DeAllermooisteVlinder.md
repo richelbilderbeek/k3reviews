@@ -1,7 +1,7 @@
 # De Allermooiste Vlinder
 
  * Category: other
- * Richel's rating: 4/10
+ * Richel's rating: 4/10 (JKK)
  * Richel's favorite lyric: none
 
 ```

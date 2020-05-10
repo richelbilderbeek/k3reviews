@@ -1,8 +1,7 @@
 # Je Doet Maar Wat
 
  * Category: party
- * Formation:[KKK](Kkk.md)
- * Richel's rating: 4/10
+ * Richel's rating: 4/10 (KKK)
  * Richel's favorite lyric: 'Ook al weet je linkervoet vaak niet wat je rechter doet'
 
 

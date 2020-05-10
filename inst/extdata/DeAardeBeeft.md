@@ -1,7 +1,7 @@
 # De Aarde Beeft
 
  * Category: Ethics
- * Richel's rating: 8/10
+ * Richel's rating: 8/10 (HKM)
  * Richel's  favorite lyric: ''t Lijkt of niemand weet dat je deze planeet deelt met alles wat leeft'
 
 ```

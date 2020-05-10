@@ -1,12 +1,9 @@
 # Heyah Mama
 
  * Category: love
- * Formations: 
-    * [KKK](Kkk.md) (on the CD 'Parels')
-    * [HKM](Hkm.md) (on the CD '1000 Luchtballonnen')
- * Richel's rating: 9/10
+ * Richel's rating: 9/10 (KKK) and 9/10 (HKM)
  * Richel's favorite lyric: 'Ik wil jou, jij wil mij'
- * Mark's rating: 8/10
+ * Mark's rating: 8/10 (KKK)
  * Mark's favorite lyric: 'Hittegolf in mijn hart. Laat mij vanavond naar je kamer komen'
 
 ```

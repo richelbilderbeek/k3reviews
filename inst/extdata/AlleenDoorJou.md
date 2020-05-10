@@ -1,9 +1,9 @@
 # Alleen Door Jou
 
  * Category: love, ethics
- * Mark's rating: 8.6/10 (JKM)
+ * Mark's rating: 8.6/10 (HKM)
  * Mark's  favorite lyric: 'Door jou, alleen door jou.'
- * Richel's rating: 9/10 (JKM)
+ * Richel's rating: 9/10 (HKM)
  * Richel's favorite lyric: 'leeft soms in een luchtbel van plezier'
 
 ```

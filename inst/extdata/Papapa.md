@@ -1,8 +1,7 @@
 # Papapa
 
  * Category: family
- * Formation:[KKK](Kkk.md)
- * Richel's rating: 8/10
+ * Richel's rating: 8/10 (KKK)
  * Richel's favorite lyric: 'Ik ben je hartendiefje'
 
 ```

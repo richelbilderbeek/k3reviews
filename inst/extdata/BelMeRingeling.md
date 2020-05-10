@@ -1,7 +1,7 @@
 # Bel Me Ringeling
 
  * Category: other
- * Richel's rating: 7/10 (JKM)
+ * Richel's rating: 7/10 (HKM)
  * Richel's favorite lyric: 'ik stop je met m'n glimlach en m'n topje'
 
 

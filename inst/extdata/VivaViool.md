@@ -1,7 +1,7 @@
 # Viva Viool
 
  * Category: misc
- * Richel's rating: 7/10 (JKM)
+ * Richel's rating: 7/10 (HKM)
  * Richel's favorite lyric: 'Wij gaan vannacht In fonteinen springen' (translation: 'tonight we will jump into fontains')
 
 

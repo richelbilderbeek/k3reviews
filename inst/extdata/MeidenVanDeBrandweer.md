@@ -1,7 +1,7 @@
 # Meiden Van De Brandweer
 
  * Category: other
- * Richel's rating: 7/10 (JKM)
+ * Richel's rating: 7/10 (HKM)
  * Richel's favorite lyric: 'met een liefdesbrandblusapparaat'
 
 ```

@@ -1,7 +1,7 @@
 # Wanneer Zie Ik Jou Terug
 
  * Category: other
- * Richel's rating: 8/10 (JKM)
+ * Richel's rating: 8/10 (HKM)
  * Richel's favorite lyric: 'je wordt er vast verwend'
 
 

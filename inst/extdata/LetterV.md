@@ -1,8 +1,7 @@
 # Letter V
 
  * Category: party
- * Formation:[KKK](Kkk.md)
- * Richel's rating: 4/10
+ * Richel's rating: 4/10 (KKK)
  * Richel's favorite lyric: 'Als ik zie hoe je hem met je ogen verslindt'
 
 

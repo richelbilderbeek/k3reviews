@@ -1,7 +1,7 @@
 # Waar Zijn Die Engeltjes
 
  * Category: other
- * Richel's rating: 9/10 (JKM)
+ * Richel's rating: 9/10 (HKM)
  * Richel's favorite lyric: 'wie helpt me uit al die winterkleren'
 
 ```

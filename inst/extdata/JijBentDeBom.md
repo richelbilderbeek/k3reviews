@@ -1,7 +1,7 @@
 # Jij Bent De Bom
 
  * Category: ethics
- * Richel's rating: 7/10
+ * Richel's rating: 7/10 (HKM)
  * Richel's  favorite lyric: 'We staan te dansen op de nieuwste schijf'
 
 ```

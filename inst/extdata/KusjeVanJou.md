@@ -1,7 +1,7 @@
 # Kusje Van Jou
 
  * Category: love
- * Richel's rating: 7.5/10 (JKM)
+ * Richel's rating: 7.5/10 (HKM)
  * Richel's favorite lyric: 'Met een hond en kindjes erbij'
 
 ```

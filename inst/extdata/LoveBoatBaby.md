@@ -1,7 +1,7 @@
 # Love Boat Baby
 
  * Category: Love
- * Richel's rating: 7/10
+ * Richel's rating: 7/10 (HKM)
  * Richel's  favorite lyric: 'Was je ooit al eens de appel van iemands oog?'
 
 ```

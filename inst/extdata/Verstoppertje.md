@@ -1,7 +1,7 @@
 # Verstoppertje
 
  * Category: other
- * Richel's rating: 6/10 (JKM)
+ * Richel's rating: 6/10 (HKM)
  * Richel's favorite lyric: 'zoek ik die plekjes van jou'
 
 ```

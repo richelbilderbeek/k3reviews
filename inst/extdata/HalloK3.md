@@ -1,7 +1,7 @@
 # Hallo K3
 
  * Category: party
- * Richel's rating: 9/10 (JKM)
+ * Richel's rating: 9/10 (HKM)
  * Richel's favorite lyric: 'Ik bewaar een plekje voor je weet wel wie'
  
 ```

@@ -1,10 +1,7 @@
 # Kuma He
 
  * Category: other
- * Formations: 
-    * [KKK](Kkk.md) (on the CD 'Kuma He')
-    * [HKM](Hkm.md) (on the CD '1000 Luchtballonnen')
- * Richel's rating: ?/10
+ * Richel's rating: ?/10 (KKK) and ?/10 (HKM)
  * Richel's favorite lyric: '?'
 
 ```

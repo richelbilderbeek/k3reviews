@@ -1,7 +1,7 @@
 # Kus Van De Juf
 
  * Category: ethics
- * Richel's rating: 6/10
+ * Richel's rating: 6/10 (HKM)
  * Richel's  favorite lyric: 'Een kus van de juf en een bank vooruit'
 
 ```

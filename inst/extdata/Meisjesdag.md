@@ -1,7 +1,7 @@
 # Meisjesdag
 
  * Category: other
- * Richel's rating: 9/10
+ * Richel's rating: 9/10 (HKM)
  * Richel's  favorite lyric: 'Kijk hoe mijn topje speels naar je lacht'
 
 ```

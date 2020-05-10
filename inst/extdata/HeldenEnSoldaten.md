@@ -1,7 +1,7 @@
 # Helden en Soldaten
 
  * Category: Ethics
- * Richel's rating: 6/10
+ * Richel's rating: 6/10 (HKM)
  * Richel's  favorite lyric: 'We zijn zoetwaterpiraten'
 
 ```

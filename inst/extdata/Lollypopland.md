@@ -1,7 +1,7 @@
 # Lollypopland
 
  * Category: ethics
- * Richel's rating: 4/10 (JKM)
+ * Richel's rating: 4/10 (HKM)
  * Richel's favorite lyric: 'Wie krijgt er vandaag een grote nul?'
 
 ## Mark's review

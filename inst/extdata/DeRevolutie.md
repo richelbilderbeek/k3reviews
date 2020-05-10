@@ -1,7 +1,7 @@
 # De Revolutie
 
  * Category: ethics
- * Richel's rating: 8/10 (JKM)
+ * Richel's rating: 8/10 (HKM)
  * Richel's favorite lyric: 'Vanavond nemen we de stad in, morgen het land, overmorgen de wereld'
 
 ```

@@ -1,7 +1,7 @@
 # Ik Wil Naar Huis
 
  * Category: other
- * Richel's rating: 8/10
+ * Richel's rating: 8/10 (JKK)
  * Richel's favorite lyric: 'Want ik wil naar huis'
 
 ```

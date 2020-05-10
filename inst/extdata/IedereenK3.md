@@ -1,7 +1,7 @@
 # Iedereen K3
 
  * Category: ?
- * Richel's rating: 6/10
+ * Richel's rating: 6/10 (HKM)
  * Richel's  favorite lyric: 'Heb je zin'
 
 ```

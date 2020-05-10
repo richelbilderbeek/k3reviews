@@ -1,7 +1,7 @@
 # Prinsesje en Superman
 
  * Category: ?
- * Richel's rating: 9/10
+ * Richel's rating: 9/10 (HKM)
  * Richel's  favorite lyric: 'Soms houden prinsesjes van prinsesjes'
 
 ```

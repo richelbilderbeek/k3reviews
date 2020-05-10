@@ -1,8 +1,7 @@
 # Als Het Regent
 
  * Category: party
- * Formation:[KKK](Kkk.md)
- * Richel's rating: 7.5/10
+ * Richel's rating: 7.5/10 (KKK)
  * Richel's favorite lyric: 'dam dam da di da dam dam da di da dam, wolken verdwijnen'
 
 ```

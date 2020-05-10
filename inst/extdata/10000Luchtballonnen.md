@@ -1,9 +1,9 @@
 # 10.000 Luchtballonnen
 
  * Category: ethics
- * Mark's rating: 7.5/10
+ * Mark's rating: 7.5/10 (HKM)
  * Mark's  favorite lyric: het refrein / the chorus / припев
- * Richel's rating: 8/10
+ * Richel's rating: 8/10 (HKM)
  * Richel's  favorite lyric: 'En we vragen de soldaatjes heel lief: zet die oorlog nu stop'
 
 ```

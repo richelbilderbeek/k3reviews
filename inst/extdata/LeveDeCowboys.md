@@ -1,7 +1,7 @@
 # Leve De Cowboys
 
  * Category: 
- * Richel's rating: 6/10
+ * Richel's rating: 6/10 (HKM)
  * Richel's  favorite lyric: 'Het wordt heet en da's waar ik van houd'
 
 ```

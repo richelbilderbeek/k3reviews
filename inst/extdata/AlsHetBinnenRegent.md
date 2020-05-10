@@ -1,7 +1,7 @@
 # Als Het Binnen Regent
 
  * Category: ethics
- * Richel's rating: 8/10
+ * Richel's rating: 8/10 (HKM)
  * Richel's  favorite lyric: 'Neem een pan of een olievat'
 
 ```

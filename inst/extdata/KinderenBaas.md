@@ -1,7 +1,7 @@
 # Kinderen Baas
 
  * Category: party
- * Richel's rating: 9/10 (JKM)
+ * Richel's rating: 9/10 (HKM)
  * Richel's favorite lyric: 'Met fanfares in het kielzog'
 
 ```

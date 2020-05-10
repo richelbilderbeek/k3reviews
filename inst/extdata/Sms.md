@@ -1,8 +1,7 @@
 # SMS
 
  * Category: party
- * Formation:[KKK](Kkk.md)
- * Richel's rating: 8/10
+ * Richel's rating: 8/10 (KKK)
  * Richel's favorite lyric: 'En dan maak jij van mij je droomprinses'
 
 ```

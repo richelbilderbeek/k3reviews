@@ -1,8 +1,7 @@
 # 1000 Kleine Matroosjes
 
  * Category: love
- * Formation:  [HKM](Hkm.md)
- * Richel's rating: 2/10
+ * Richel's rating: 2/10 (HKM)
  * Richel's favorite lyric: none
 
 ```

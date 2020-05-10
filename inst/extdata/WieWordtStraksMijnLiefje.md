@@ -1,6 +1,6 @@
 # Wie wordt straks m'n liefje
 
- * Richel's rating: 7/10
+ * Richel's rating: 7/10 (HKM)
  * Richel's  favorite lyric: 'Heeft zo'n stralende lach dat duizend lichtjes in die duistere nacht zijn blijven schijnen voor mij'
 
 ```

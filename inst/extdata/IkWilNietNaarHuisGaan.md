@@ -1,7 +1,7 @@
 # Ik Wil Niet Naar Huis Gaan
 
  * Category: party
- * Richel's rating: 8/10 (JKM)
+ * Richel's rating: 8/10 (HKM)
  * Richel's favorite lyric: none
 
 ```

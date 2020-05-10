@@ -1,8 +1,7 @@
 # Liefde Is Overal
 
  * Category: love
- * Formation:  [HKM](Hkm.md)
- * Richel's rating: 7/10
+ * Richel's rating: 7/10 (HKM)
  * Richel's favorite lyric: 'Geef me een teken en reken op mij'
 
 ```

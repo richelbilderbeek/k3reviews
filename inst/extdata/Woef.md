@@ -1,7 +1,7 @@
 # Woef
 
  * Category: ethics
- * Richel's rating: 7/10
+ * Richel's rating: 7/10 (HKM)
  * Richel's  favorite lyric: 'We trekken steeds aan een touw'
 
 ```

@@ -1,10 +1,7 @@
 # Oya Lele
 
  * Category: party
- * Formations: 
-    * [KKK](Kkk.md) (on the CD 'Oya Lele')
-    * [HKM](Hkm.md) (on the CD '1000 Luchtballonnen')
- * Richel's rating: /10
+ * Richel's rating: 7/10 (KKK) and 7/10 (HKM)
  * Richel's favorite lyric: 'Iedereen voelt zich goed als de zon uit de kleren gaat'
 
 ```

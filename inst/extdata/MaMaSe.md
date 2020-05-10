@@ -1,7 +1,7 @@
 # MaMaSe
 
  * Category: party
- * Richel's rating: 7/10 (JKM)
+ * Richel's rating: 7/10 (HKM)
  * Richel's favorite lyric: 'Overal waar de meisjes zijn is het feest'
 
 

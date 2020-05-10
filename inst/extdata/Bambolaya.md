@@ -1,6 +1,6 @@
 # Bambolaya
 
- * Richel's rating: 5/10
+ * Richel's rating: 5/10 (HKM)
  * Richel's  favorite lyric: 'En z'n glimlach meteen bovenhalen'
 
 ```

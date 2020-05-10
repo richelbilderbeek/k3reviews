@@ -1,8 +1,7 @@
 # Eeuwig En Altijd
 
  * Category: party
- * Formation:[KKK](Kkk.md)
- * Richel's rating: 6/10
+ * Richel's rating: 6/10 (KKK)
  * Richel's favorite lyric: 'Planeten gaan elkaar daarboven voorbij'
 
 ```

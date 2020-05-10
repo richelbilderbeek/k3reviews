@@ -1,7 +1,7 @@
 # Jodelee
 
  * Category: ethics
- * Richel's rating: 7/10
+ * Richel's rating: 7/10 (HKM)
  * Richel's  favorite lyric: 'maar je krijgt geen woord op dat roze briefpapier'
 
 ```

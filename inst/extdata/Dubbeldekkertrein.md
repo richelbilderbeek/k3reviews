@@ -1,7 +1,7 @@
 # Dubbeldekkertrein
 
  * Category: other
- * Richel's rating: 4/10 (JKM)
+ * Richel's rating: 4/10 (HKM)
  * Richel's favorite lyric: '?'
 
 ```

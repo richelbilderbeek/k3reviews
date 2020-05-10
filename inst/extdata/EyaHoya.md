@@ -1,9 +1,9 @@
 # Eya Hoya
 
  * Category: party
- * Mark's rating: 0/10 (JKM)
+ * Mark's rating: 0/10 (HKM)
  * Mark's  favorite lyric: n.v.t.
- * Richel's rating: 1/10 (JKM)
+ * Richel's rating: 1/10 (HKM)
  * Richel's favorite lyric: none
 
 ## Mark's review

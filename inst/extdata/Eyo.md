@@ -1,10 +1,7 @@
 # Eyo
 
  * Category: partying
- * Formations: 
-    * [JKK](Jkk.md) (on the CD 'Eyo')
-    * [HKM](Hkm.md) (on the CD '1000 Luchtballonnen')
- * Richel's rating: 6/10
+ * Richel's rating: 6/10 (JKK) and 6/10 (HKM)
  * Richel's favorite lyric: 'Zou het verliefdheid zijn'
 
 ```

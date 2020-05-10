@@ -1,7 +1,7 @@
 # Wie zal ik een kusje geven
 
  * Category: love
- * Richel's rating: 9/10 (JKM)
+ * Richel's rating: 9/10 (HKM)
  * Richel's favorite lyric: none
 
 ```
