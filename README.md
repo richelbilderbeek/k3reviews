@@ -307,7 +307,7 @@ CD 2:
 
 # Alice in Wonderland
 
-JKK
+![](pics/AliceInWonderland.jpg)
 
 Part 1
 
@@ -335,6 +335,8 @@ Part 2
  * [Toveren](inst/extdata/Toveren.md)
 
 # K3 en het ijsprinsesje
+
+![](pics/K3EnHetIjsprinsesje.jpg)
 
  * [Trouwen](inst/extdata/Trouwen.md)
  * TODO [Etiquetterap](inst/extdata/Etiquetterap.md)
