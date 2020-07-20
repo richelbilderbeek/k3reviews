@@ -7,6 +7,21 @@ Branch   |[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)|[![Codec
 
 Reviews of all K3 songs by adult K3 fans.
 
+# Dromen
+
+ * [1. Altijd Blijven Dromen](inst/extdata/AltijdBlijvenDromen.md)
+ * [2. Jij Bent Mooi](inst/extdata/JijBentMooi.md)
+ * [3. Jij Bent Mijn Gigi](inst/extdata/JijBentMijnGigi.md)
+ * [4. Land Van De Regenboog](inst/extdata/LandVanDeRegenboog.md)
+ * [5. Ra-Ta-Ta-Ta](inst/extdata/Ra-Ta-Ta-Ta.md)
+ * [6. Tika Tika](inst/extdata/Tika Tika.md)
+ * [7. Feestje In De Keuken](inst/extdata/FeestjeInDeKeuken.md)
+ * [8. Ciao Amore Mio](inst/extdata/CiaoAmoreMio.md)
+ * [9. Mijn Held](inst/extdata/MijnHeld.md)
+ * [10. Dit Is Jouw Verjaardag](inst/extdata/DitIsJouwVerjaardag.md)
+ * [11. Zo Een Liedje](inst/extdata/ZoEenLiedje.md)
+ * [12. Heyah Mama 2.0](inst/extdata/HeyahMama2.0.md)
+
 # Roller Disco
 
 ![Roller Disco](pics/RollerDisco.jpg)
