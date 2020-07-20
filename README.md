@@ -34,10 +34,10 @@ Reviews of all K3 songs by adult K3 fans.
  * TODO [04. Dieper Dan De Zee](inst/extdata/DieperDanDeZee.md)
  * TODO [05. Verliefd Zijn](inst/extdata/VerliefdZijn.md)
  * TODO [06. Hippie Happy Holiday](inst/extdata/HippieHappyHoliday.md)
- * TODO [07. Ik Doe Wat Ik Wil](inst/extdata/IkDoeWatIkWil.md)
+ * [07. Ik Doe Wat Ik Wil](inst/extdata/IkDoeWatIkWil.md)
  * TODO [08. Disco Oma](inst/extdata/DiscoOma.md)
  * TODO [09. Meisjes Doen De Wereld Draaien](inst/extdata/MeisjesDoenDeWereldDraaien.md)
- * TODO [10. Baby Boe](inst/extdata/BabyBoe.md)
+ * [10. Baby Boe](inst/extdata/BabyBoe.md)
  * TODO [11. Pyamaparty](inst/extdata/Pyamaparty.md)
  * TODO [12. Verlegen Vlindertje](inst/extdata/VerlegenVlindertje.md)
 
