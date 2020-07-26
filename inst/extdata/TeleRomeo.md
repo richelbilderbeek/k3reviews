@@ -44,7 +44,7 @@ Draai elk nummer uit dat boek
 Op een dag ben jij het echt
 En hoor ik hoe je zegt:
 
-C'est qui a l'appareil , allo, allo
+C'est qui a l'appareil, allo, allo
 Je n'entend rien que ta voix, est-tu si beau
 J'suis amoureuse de toi, allo, allo
 Mon tele-romeo

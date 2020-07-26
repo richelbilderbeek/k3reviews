@@ -50,7 +50,7 @@ ggplot(na.omit(df), aes(x = formation, fill = reviewer)) +
 
 ```{r}
 df$rating <- as.numeric(df$rating)
-ggplot(na.omit(df), aes(x = reviewer , y = rating)) +
+ggplot(na.omit(df), aes(x = reviewer, y = rating)) +
   geom_boxplot()
 ```
 
@@ -58,7 +58,7 @@ ggplot(na.omit(df), aes(x = reviewer , y = rating)) +
 
 ```{r}
 df$rating <- as.numeric(df$rating)
-ggplot(na.omit(df), aes(x = formation , y = rating, fill = reviewer)) +
+ggplot(na.omit(df), aes(x = formation, y = rating, fill = reviewer)) +
   geom_boxplot()
 ```
 
