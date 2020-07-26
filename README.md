@@ -9,6 +9,8 @@ Reviews of all K3 songs by adult K3 fans.
 
 # Dromen
 
+![Roller Disco](pics/Dromen.jpg)
+
  * [1. Altijd Blijven Dromen](inst/extdata/AltijdBlijvenDromen.md)
  * [2. Jij Bent Mooi](inst/extdata/JijBentMooi.md)
  * [3. Jij Bent Mijn Gigi](inst/extdata/JijBentMijnGigi.md)
