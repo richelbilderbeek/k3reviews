@@ -12,10 +12,6 @@ r_github_packages:
   - MangoTheCat/goodpractice
   - ropensci/spelling
 
-before_install:
-  # From https://stackoverflow.com/a/20042195
-  - Rscript -e "update.packages(checkBuilt = TRUE, ask = FALSE)"
-
 after_script:
   # Check dead links
   - sudo apt-get install -qq npm
