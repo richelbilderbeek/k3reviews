@@ -1,7 +1,6 @@
 #' Get ratings of multiple song filenames
 #' @inheritParams default_params_doc
 #' @examples
-#' library(testthat)
 #'
 #' df <- get_songs_ratings(
 #'   song_filenames = c(

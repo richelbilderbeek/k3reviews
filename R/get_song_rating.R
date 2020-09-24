@@ -5,7 +5,6 @@
 #'   to that formation by that reviewer,
 #'   else \link{NA}.
 #' @examples
-#' library(testthat)
 #'
 #' song_filename <- get_song_path("Verliefd.md")
 #' expect_equal(

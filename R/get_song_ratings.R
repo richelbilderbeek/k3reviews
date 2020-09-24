@@ -1,7 +1,6 @@
 #' Get all the ratings from one song's filename
 #' @inheritParams default_params_doc
 #' @examples
-#' library(testthat)
 #'
 #' df <- get_song_ratings(
 #'   song_filename = get_song_path("10000Luchtballonnen.md")
