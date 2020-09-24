@@ -14,7 +14,7 @@
 get_song_ratings <- function(
   song_filename
 ) {
-  testthat::file.exists(song_filename))
+  testthat::expect_true(file.exists(song_filename))
 
   df <- tibble::as_tibble(
     expand.grid(

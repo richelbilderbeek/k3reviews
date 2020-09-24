@@ -37,7 +37,7 @@ get_song_rating <- function(
   reviewer_name,
   formation
 ) {
-  testthat::file.exists(song_filename))
+  testthat::expect_true(file.exists(song_filename))
   k3reviews::check_formation(formation, na_is_ok = FALSE)
   text <- readLines(song_filename, warn = FALSE)
 

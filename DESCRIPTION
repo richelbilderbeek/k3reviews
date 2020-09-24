@@ -10,7 +10,7 @@ Description: K3 is a famous Femish band.
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 7.1.0
+RoxygenNote: 7.1.1
 Imports:
     stringr,
     tibble

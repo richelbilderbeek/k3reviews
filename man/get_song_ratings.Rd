@@ -13,14 +13,13 @@ get_song_ratings(song_filename)
 Get all the ratings from one song's filename
 }
 \examples{
-library(testthat)
 
 df <- get_song_ratings(
   song_filename = get_song_path("10000Luchtballonnen.md")
 )
-expect_true("formation" \%in\% names(df))
-expect_true("rating" \%in\% names(df))
-expect_true("reviewer" \%in\% names(df))
+"formation" \%in\% names(df))
+"rating" \%in\% names(df))
+"reviewer" \%in\% names(df))
 }
 \seealso{
 use \link{get_song_rating} to get the ratings
