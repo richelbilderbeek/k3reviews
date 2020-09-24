@@ -1,9 +1,7 @@
 #' Get the path of a song's name
 #' @inheritParams default_params_doc
 #' @examples
-#'
-#' expect_silent(get_song_path("10000Luchtballonnen.md"))
-#' expect_error(get_song_path("absent"))
+#' get_song_path("10000Luchtballonnen.md")
 #' @export
 get_song_path <- function(song_name) {
   full <- system.file("extdata", song_name, package = "k3reviews")

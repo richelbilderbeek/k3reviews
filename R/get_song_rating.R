@@ -7,39 +7,29 @@
 #' @examples
 #'
 #' song_filename <- get_song_path("Verliefd.md")
-#' expect_equal(
-#'   9,
-#'   get_song_rating(
-#'     reviewer_name = "Richel",
-#'     song_filename = song_filename,
-#'     formation = "KKK"
-#'   )
+#' # 9
+#' get_song_rating(
+#'   reviewer_name = "Richel",
+#'   song_filename = song_filename,
+#'   formation = "KKK"
 #' )
-#' 
-#'   is.na(
-#'     get_song_rating(
-#'       reviewer_name = "Richel",
-#'       song_filename = song_filename,
-#'       formation = "JKK"
-#'     )
-#'   )
+#' # NA
+#' get_song_rating(
+#'   reviewer_name = "Richel",
+#'   song_filename = song_filename,
+#'   formation = "JKK"
 #' )
-#' expect_equal(
-#'   8,
-#'   get_song_rating(
-#'     reviewer_name = "Richel",
-#'     song_filename = song_filename,
-#'     formation = "HKM"
-#'   )
+#' # 8
+#' get_song_rating(
+#'   reviewer_name = "Richel",
+#'   song_filename = song_filename,
+#'   formation = "HKM"
 #' )
-#' 
-#'   is.na(
-#'     get_song_rating(
-#'       reviewer_name = "Mark",
-#'       song_filename = song_filename,
-#'       formation = "KKK"
-#'     )
-#'   )
+#' # NA
+#' get_song_rating(
+#'   reviewer_name = "Mark",
+#'   song_filename = song_filename,
+#'   formation = "KKK"
 #' )
 #' @export
 get_song_rating <- function(
