@@ -5,42 +5,31 @@
 #'   to that formation by that reviewer,
 #'   else \link{NA}.
 #' @examples
-#' library(testthat)
 #'
 #' song_filename <- get_song_path("Verliefd.md")
-#' expect_equal(
-#'   9,
-#'   get_song_rating(
-#'     reviewer_name = "Richel",
-#'     song_filename = song_filename,
-#'     formation = "KKK"
-#'   )
+#' # 9
+#' get_song_rating(
+#'   reviewer_name = "Richel",
+#'   song_filename = song_filename,
+#'   formation = "KKK"
 #' )
-#' expect_true(
-#'   is.na(
-#'     get_song_rating(
-#'       reviewer_name = "Richel",
-#'       song_filename = song_filename,
-#'       formation = "JKK"
-#'     )
-#'   )
+#' # NA
+#' get_song_rating(
+#'   reviewer_name = "Richel",
+#'   song_filename = song_filename,
+#'   formation = "JKK"
 #' )
-#' expect_equal(
-#'   8,
-#'   get_song_rating(
-#'     reviewer_name = "Richel",
-#'     song_filename = song_filename,
-#'     formation = "HKM"
-#'   )
+#' # 8
+#' get_song_rating(
+#'   reviewer_name = "Richel",
+#'   song_filename = song_filename,
+#'   formation = "HKM"
 #' )
-#' expect_true(
-#'   is.na(
-#'     get_song_rating(
-#'       reviewer_name = "Mark",
-#'       song_filename = song_filename,
-#'       formation = "KKK"
-#'     )
-#'   )
+#' # NA
+#' get_song_rating(
+#'   reviewer_name = "Mark",
+#'   song_filename = song_filename,
+#'   formation = "KKK"
 #' )
 #' @export
 get_song_rating <- function(
@@ -48,7 +37,7 @@ get_song_rating <- function(
   reviewer_name,
   formation
 ) {
-  testthat::expect_true(file.exists(song_filename))
+  testthat::file.exists(song_filename))
   k3reviews::check_formation(formation, na_is_ok = FALSE)
   text <- readLines(song_filename, warn = FALSE)
 

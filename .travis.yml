@@ -1,3 +1,4 @@
+
 language: r
 dist: bionic
 cache: packages
@@ -10,10 +11,6 @@ r_github_packages:
   - jimhester/lintr
   - MangoTheCat/goodpractice
   - ropensci/spelling
-
-before_install:
-  # From https://stackoverflow.com/a/20042195
-  - Rscript -e "update.packages(checkBuilt = TRUE, ask = FALSE)"
 
 after_script:
   # Check dead links
@@ -31,6 +28,8 @@ after_success:
   - Rscript -e 'covr::codecov()'
   # Goodpractice
   - Rscript -e 'goodpractice::gp()'
+  # Download thesis
+  - Rscript -e 'download.file("https://www.rug.nl/research/portal/files/132028374/Complete_thesis.pdf", tempfile())'
 
 after_failure:
   - cat /home/travis/build/ropensci/babette/..Rcheck/00install.out
@@ -42,4 +41,6 @@ after_failure:
   - cd ~; find . | egrep "\.xml\.state"
   - cd ~; find . | egrep "\.fasta"
   - cat /home/travis/build/ropensci/babette/..Rcheck/tests/testthat/testthat.log
+  # Download thesis
+  - Rscript -e 'download.file("https://www.rug.nl/research/portal/files/132028374/Complete_thesis.pdf", tempfile())'
 
