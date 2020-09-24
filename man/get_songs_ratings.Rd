@@ -13,15 +13,10 @@ get_songs_ratings(song_filenames)
 Get ratings of multiple song filenames
 }
 \examples{
-
-df <- get_songs_ratings(
+get_songs_ratings(
   song_filenames = c(
     get_song_path("10000Luchtballonnen.md"),
     get_song_path("10000Luchtballonnen.md")
   )
 )
-"filename" \%in\% names(df))
-"formation" \%in\% names(df))
-"rating" \%in\% names(df))
-"reviewer" \%in\% names(df))
 }

@@ -1,17 +1,12 @@
 #' Get ratings of multiple song filenames
 #' @inheritParams default_params_doc
 #' @examples
-#'
-#' df <- get_songs_ratings(
+#' get_songs_ratings(
 #'   song_filenames = c(
 #'     get_song_path("10000Luchtballonnen.md"),
 #'     get_song_path("10000Luchtballonnen.md")
 #'   )
 #' )
-#' "filename" %in% names(df))
-#' "formation" %in% names(df))
-#' "rating" %in% names(df))
-#' "reviewer" %in% names(df))
 #' @export
 get_songs_ratings <- function(song_filenames) {
   df <- tibble::tibble(

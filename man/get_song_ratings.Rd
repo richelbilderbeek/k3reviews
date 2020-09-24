@@ -13,13 +13,9 @@ get_song_ratings(song_filename)
 Get all the ratings from one song's filename
 }
 \examples{
-
-df <- get_song_ratings(
+get_song_ratings(
   song_filename = get_song_path("10000Luchtballonnen.md")
 )
-"formation" \%in\% names(df))
-"rating" \%in\% names(df))
-"reviewer" \%in\% names(df))
 }
 \seealso{
 use \link{get_song_rating} to get the ratings
