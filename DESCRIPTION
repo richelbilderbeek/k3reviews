@@ -15,6 +15,7 @@ Imports:
     tibble
 Suggests:
     ggplot2,
+    markdown,
     testthat,
     rmarkdown,
     knitr
