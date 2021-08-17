@@ -7,7 +7,7 @@ r_packages:
   - knitr
 
 r_github_packages:
-  - jimhester/covr
+  - r-lib/covr
   - jimhester/lintr
   - MangoTheCat/goodpractice
   - ropensci/spelling
